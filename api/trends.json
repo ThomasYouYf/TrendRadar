@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T01:27:27.357637+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-12-13T01:52:20.916783+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 01时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据日经新闻：日本与中亚国家将在首次峰会上就人工智能采矿技术展开合作。日本即将与中亚国家建立框架，日本人工智能技术将助力该地区矿业发展。",
+          "url": "https://flash.jin10.com/detail/20251213012656480800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         }
       ]
     }
