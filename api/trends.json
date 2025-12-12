@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T07:26:55.798960+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2025-12-13T07:50:12.791197+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             5,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 07时26分]"
+          "appearance_count": 6,
+          "time_info": "[06时28分 ~ 07时50分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌约3.3%，特斯拉则涨2.7%",
@@ -28,11 +29,12 @@
             9,
             13,
             16,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时49分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[05时49分 ~ 07时50分]"
         },
         {
           "title": "行业ETF美股盘初多数上涨，航空业ETF涨超1.4%，科技行业ETF则跌超0.8%，半导体ETF跌超1.5%",
@@ -61,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 07时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 07时50分]"
         },
         {
           "title": "北约：作好与俄开战准备",
