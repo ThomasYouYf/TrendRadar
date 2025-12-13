@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T13:51:58.043805+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2025-12-13T14:40:15.391079+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
@@ -95,11 +95,12 @@
             15,
             25,
             20,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时35分 ~ 13时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时35分 ~ 14时40分]"
         },
         {
           "title": "北约：作好与俄开战准备",
