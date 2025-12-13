@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T11:41:00.002421+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2025-12-13T12:04:59.602199+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
           "source": "微博",
           "ranks": [
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时04分]"
         },
         {
           "title": "银价有望实现约10%的单周涨幅，并迈向1979年以来最强年度表现",
@@ -92,11 +93,12 @@
             2,
             1,
             15,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时35分 ~ 11时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 12时04分]"
         },
         {
           "title": "北约：作好与俄开战准备",
@@ -140,11 +142,12 @@
           "source": "金十数据",
           "ranks": [
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时04分]"
         }
       ]
     },
@@ -158,11 +161,12 @@
           "source": "金十数据",
           "ranks": [
             17,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时04分]"
         }
       ]
     },
