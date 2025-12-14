@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-14T18:28:26.825892+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2025-12-14T18:51:28.181676+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "开战 宣战",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "克里姆林宫：北约秘书长吕特谈论与俄罗斯开战是不负责任的行为。",
           "url": "https://flash.jin10.com/detail/20251214180837736800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时51分]"
+        },
+        {
+          "title": "克里姆林宫：北约秘书长吕特关于准备与俄开战的言论是不负责任的",
+          "url": "https://flash.jin10.com/detail/20251214181432237800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时28分"
+          "time_info": "18时51分"
         }
       ]
     }
