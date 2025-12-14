@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T18:51:28.181676+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2025-12-14T19:22:45.980383+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时51分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时22分]"
         },
         {
           "title": "克里姆林宫：北约秘书长吕特关于准备与俄开战的言论是不负责任的",
           "url": "https://flash.jin10.com/detail/20251214181432237800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时22分]"
         }
       ]
     }
