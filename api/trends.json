@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T06:26:17.558164+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2025-12-15T06:50:15.853496+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 06时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 06时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月15日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251215064306388800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 06时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月15日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251215064308485800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 06时50分]"
         }
       ]
     },
