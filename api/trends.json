@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T23:27:07.137895+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2025-12-14T23:49:34.893804+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[20时52分 ~ 23时27分]"
+          "appearance_count": 10,
+          "time_info": "[20时52分 ~ 23时49分]"
         },
         {
           "title": "克里姆林宫：北约秘书长吕特谈论与俄罗斯开战是不负责任的行为。",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时33分 ~ 23时27分]"
+          "appearance_count": 8,
+          "time_info": "[21时33分 ~ 23时49分]"
         }
       ]
     }
