@@ -1,217 +1,22 @@
 {
-  "generated_at": "2025-12-15T23:00:51.669317+08:00",
-  "total_titles_processed": 1936,
+  "generated_at": "2025-12-16T00:15:30.590532+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
-          "url": "https://wallstreetcn.com/articles/3761367",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时32分 ~ 18时01分]"
-        },
-        {
-          "title": "金十图示：2025年12月15日（周一）上海金午盘价为978.02元/克，较国际金价(983.71元/克)，低5.69元/克",
-          "url": "https://flash.jin10.com/detail/20251215150146847800",
+          "title": "市场分析：美元和美国国债收益率是本周金价的主要推动因素",
+          "url": "https://flash.jin10.com/detail/20251215235510246800",
           "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 15时53分]"
-        },
-        {
-          "title": "铂主力合约日间盘涨停 投资需求或受益于金价上涨潜力抬升",
-          "url": "https://wallstreetcn.com/livenews/3020801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 16时42分]"
-        },
-        {
-          "title": "金价日内涨超1%后，美国上市的黄金矿业股盘前普遍上涨，金罗斯黄金(KGC.N)上涨2.1%，金田(GFI.N)涨2.7%，巴里克矿业(B.N)上涨1.9%。",
-          "url": "https://flash.jin10.com/detail/20251215173445583800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        },
-        {
-          "title": "金十图示：2025年12月15日（周一）上海金早盘价为974.55元/克，较国际金价(980.31元/克)，低5.76元/克",
-          "url": "https://flash.jin10.com/detail/20251215110053092800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "北约秘书长发表“须做好与俄开战准备”言论，克宫回应",
-          "url": "https://wallstreetcn.com/livenews/3020413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            13,
-            15,
-            18,
-            20,
-            23,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 05时49分]"
-        },
-        {
-          "title": "匈牙利总理：欧盟动用俄被冻结资产无异于公开宣战",
-          "url": "https://wallstreetcn.com/livenews/3020983",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "匈牙利总理：欧盟动用俄被冻结资产无异于公开宣战",
-          "url": "https://flash.jin10.com/detail/20251215200834755800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "德商银行：白银价格过高需谨慎 但长远看需求面前景依然乐观",
-          "url": "https://flash.jin10.com/detail/20251215183142365800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时31分]"
-        },
-        {
-          "title": "市场分析：金银价格走高刺激伦敦矿业股上涨",
-          "url": "https://flash.jin10.com/detail/20251215172202033800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "行业ETF美股盘初普遍走高，半导体ETF涨1.41%，银行业ETF涨1.11%，可选消费ETF涨1.05%，科技行业ETF涨0.64%，能源业ETF跌0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3021053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        },
-        {
-          "title": "美股开盘，道指开涨0.33%，标普500指数涨0.48%，纳指涨0.58%。英伟达(NVDA.O)开涨1.5%，公司宣布推出Nemotron 3系列开源模型；扫地机器人制造商iRobot开盘暴跌69%，此前其已宣布申请破产。",
-          "url": "https://flash.jin10.com/detail/20251215223037740800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月15日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251215064306388800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            13,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时49分 ~ 12时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月15日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251215064308485800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            12,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时49分 ~ 12时49分]"
+          "time_info": "00时15分"
         }
       ]
     }
