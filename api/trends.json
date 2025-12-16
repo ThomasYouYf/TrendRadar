@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T01:05:39.821626+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2025-12-17T01:59:13.300440+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://wallstreetcn.com/articles/3761475",
           "source": "华尔街见闻",
           "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 01时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据日经新闻：日本先进半导体制造企业Rapidus已开发出可降低人工智能应用芯片生产成本的技术。",
+          "url": "https://flash.jin10.com/detail/20251217012348102800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时05分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         }
       ]
     }
