@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T07:21:18.616571+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2025-12-18T07:56:54.038124+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时56分 ~ 07时21分]"
+          "appearance_count": 6,
+          "time_info": "[05时56分 ~ 07时56分]"
         },
         {
           "title": "周三（12月17日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.10%，报85950美元，北京时间23:06曾拉涨至90565美元刷新日高——短线呈现出冲高回落走势。 CME以太币期货DCR主力合约跌4.73%，报2820美元。 美股加密货币与加密货币关联指数跌5.27%，报58.24点，整体持续走低。 最近24小时，MarketVector数字资产100小盘指数跌5.49%，暂报3525.38点。",
@@ -29,6 +30,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1052.54吨，较前一个交易日增加0.85吨。",
+          "url": "https://flash.jin10.com/detail/20251218072350955800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     },
