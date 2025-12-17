@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T23:01:54.401599+08:00",
-  "total_titles_processed": 2337,
+  "generated_at": "2025-12-17T23:35:18.548294+08:00",
+  "total_titles_processed": 2397,
   "failed_sources": [],
   "trends": [
     {
@@ -55,7 +55,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         }
@@ -95,9 +95,39 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场分析：若美国通胀进一步放缓 金价或测试新高",
+          "url": "https://flash.jin10.com/detail/20251217231235842800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时34分 ~ 23时35分]"
+        },
+        {
+          "title": "金价在美国11月非农就业报告后出现一波反弹行情",
+          "url": "https://wallstreetcn.com/livenews/3021918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时20分 ~ 07时20分]"
         }
       ]
     },
@@ -190,25 +220,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价在美国11月非农就业报告后出现一波反弹行情",
-          "url": "https://wallstreetcn.com/livenews/3021918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "银价",
       "match_count": 1,
       "titles": [
@@ -219,7 +230,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         }
