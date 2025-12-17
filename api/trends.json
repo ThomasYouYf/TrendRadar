@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-17T13:02:52.390822+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-12-17T13:57:06.988214+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
-        {
-          "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
-          "url": "https://wallstreetcn.com/articles/3761475",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 06时57分]"
-        },
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
           "url": "https://www.cls.cn/detail/2231583",
@@ -31,8 +19,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时56分 ~ 13时02分]"
+          "appearance_count": 11,
+          "time_info": "[06时56分 ~ 13时57分]"
+        },
+        {
+          "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 06时57分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 特斯拉创新高",
@@ -125,6 +125,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大宗商品研究员：白银市场出现严重逼空，短期内看向70美元",
+          "url": "https://flash.jin10.com/detail/20251217132807614800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
         }
       ]
     },
