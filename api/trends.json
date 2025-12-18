@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-12-18T11:13:54.569222+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2025-12-18T12:23:17.313444+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1052.54吨，较前一个交易日增加0.85吨。",
+          "url": "https://flash.jin10.com/detail/20251218072350955800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251218115414604800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -17,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时56分 ~ 11时13分]"
+          "appearance_count": 10,
+          "time_info": "[05时56分 ~ 12时23分]"
         },
         {
           "title": "周三（12月17日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.10%，报85950美元，北京时间23:06曾拉涨至90565美元刷新日高——短线呈现出冲高回落走势。 CME以太币期货DCR主力合约跌4.73%，报2820美元。 美股加密货币与加密货币关联指数跌5.27%，报58.24点，整体持续走低。 最近24小时，MarketVector数字资产100小盘指数跌5.49%，暂报3525.38点。",
@@ -34,59 +62,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月18日（周四）上海金早盘价为975.26元/克，较国际金价(980.03元/克)，低4.77元/克",
-          "url": "https://flash.jin10.com/detail/20251218110237653800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1052.54吨，较前一个交易日增加0.85吨。",
-          "url": "https://flash.jin10.com/detail/20251218072350955800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月18日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251218081200509800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "开战 宣战",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
@@ -99,6 +76,86 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 05时27分]"
+        },
+        {
+          "title": "美委即将开战了吗",
+          "url": "https://www.toutiao.com/trending/7585015122142170651/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月18日（周四）上海金早盘价为975.26元/克，较国际金价(980.03元/克)，低4.77元/克",
+          "url": "https://flash.jin10.com/detail/20251218110237653800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月18日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251218081200509800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白银“逼空大戏”继续？",
+          "url": "https://flash.jin10.com/detail/20251218120735696800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3876.40点，涨0.16%。 深证成指早盘收报13111.78点，跌0.85%。 创业板指早盘收报3118.30点，跌1.81%。 沪深300早盘收报4554.12点，跌0.56%。 科创50早盘收报1313.11点，跌0.92%。 中证500早盘收报7139.53点，涨0.02%。 中证1000早盘收报7311.69点，涨0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3022814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     }
