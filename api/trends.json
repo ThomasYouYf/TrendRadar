@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T09:35:42.344128+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-12-18T09:39:33.827105+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时56分 ~ 09时35分]"
+          "appearance_count": 8,
+          "time_info": "[05时56分 ~ 09时39分]"
         },
         {
           "title": "周三（12月17日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.10%，报85950美元，北京时间23:06曾拉涨至90565美元刷新日高——短线呈现出冲高回落走势。 CME以太币期货DCR主力合约跌4.73%，报2820美元。 美股加密货币与加密货币关联指数跌5.27%，报58.24点，整体持续走低。 最近24小时，MarketVector数字资产100小盘指数跌5.49%，暂报3525.38点。",
@@ -61,9 +61,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时39分]"
         }
       ]
     },
