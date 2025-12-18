@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T02:37:55.637605+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2025-12-19T03:03:13.550883+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 03时03分]"
         },
         {
           "title": "金价",
@@ -25,11 +26,12 @@
           "source": "微博",
           "ranks": [
             25,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 03时03分]"
         },
         {
           "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
@@ -56,8 +58,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 02时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 03时03分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
