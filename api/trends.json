@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T00:00:49.855300+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-19T00:41:36.126961+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时41分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3761635",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时41分]"
         }
       ]
     }
