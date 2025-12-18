@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T04:57:25.498871+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2025-12-19T05:20:15.230065+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             25,
             26,
             30,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 04时57分]"
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 05时20分]"
         },
         {
           "title": "高盛：金价飙升势头或延续至2026年，目标上看4900美元",
@@ -59,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时00分 ~ 04时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 05时20分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
