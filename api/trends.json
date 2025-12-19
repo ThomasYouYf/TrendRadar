@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T21:59:06.807879+08:00",
-  "total_titles_processed": 2333,
+  "generated_at": "2025-12-19T22:28:53.985749+08:00",
+  "total_titles_processed": 2399,
   "failed_sources": [],
   "trends": [
     {
@@ -156,11 +156,12 @@
             10,
             23,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时23分 ~ 21时59分]"
+          "appearance_count": 7,
+          "time_info": "[19时23分 ~ 22时28分]"
         },
         {
           "title": "特朗普不排除与委内瑞拉开战的可能性",
