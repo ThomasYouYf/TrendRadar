@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T22:58:34.165676+08:00",
-  "total_titles_processed": 2463,
+  "generated_at": "2025-12-19T23:29:27.380850+08:00",
+  "total_titles_processed": 2538,
   "failed_sources": [],
   "trends": [
     {
@@ -79,7 +79,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         }
@@ -169,11 +169,12 @@
             21,
             25,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时23分 ~ 22时58分]"
+          "appearance_count": 9,
+          "time_info": "[19时23分 ~ 23时29分]"
         },
         {
           "title": "特朗普不排除与委内瑞拉开战的可能性",
