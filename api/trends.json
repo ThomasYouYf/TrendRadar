@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T23:29:27.380850+08:00",
-  "total_titles_processed": 2538,
+  "generated_at": "2025-12-19T23:58:22.161721+08:00",
+  "total_titles_processed": 2566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -71,6 +71,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时00分 ~ 01时05分]"
+        },
+        {
+          "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "行业ETF美股盘初多数上涨，半导体ETF涨2.1%，科技行业ETF、全球科技股指数ETF至多涨超1.3%，网络股指数ETF涨0.5%，可选消费ETF跌0.2%。",
@@ -255,6 +266,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 13时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "联合国贸发会议：2033年人工智能将成最具主导性前沿技术",
+          "url": "https://flash.jin10.com/detail/20251219233253828800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         }
       ]
     }
