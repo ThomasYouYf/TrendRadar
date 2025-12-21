@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:27:59.038701+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2025-12-21T16:58:46.706172+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             16,
             20,
             18,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时56分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[13时56分 ~ 16时58分]"
         },
         {
           "title": "金价又涨了",
