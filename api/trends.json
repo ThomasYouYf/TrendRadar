@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:01:29.819684+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2025-12-21T15:28:39.400179+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -24,22 +24,24 @@
           "source": "抖音",
           "ranks": [
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 15时28分]"
         },
         {
           "title": "金价又涨了",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时28分]"
         }
       ]
     }
