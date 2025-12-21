@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-21T15:28:39.400179+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2025-12-21T15:57:11.961123+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
+        {
+          "title": "金价又涨了",
+          "url": "https://www.douyin.com/hot/2342947",
+          "source": "抖音",
+          "ranks": [
+            16,
+            20,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时56分 ~ 15时57分]"
+        },
         {
           "title": "金价又涨了",
           "url": "https://www.toutiao.com/trending/7585066190079459391/",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
-        },
-        {
-          "title": "金价又涨了",
-          "url": "https://www.douyin.com/hot/2342947",
-          "source": "抖音",
-          "ranks": [
-            16,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 15时28分]"
         },
         {
           "title": "金价又涨了",
