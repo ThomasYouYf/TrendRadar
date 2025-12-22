@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T06:22:07.415389+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2025-12-23T06:57:16.115121+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 06时57分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
@@ -49,11 +49,12 @@
           "url": "https://wallstreetcn.com/livenews/3025144",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时22分]"
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 06时57分]"
         },
         {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
