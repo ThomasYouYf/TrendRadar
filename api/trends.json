@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T09:45:45.757888+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2025-12-22T11:24:07.462704+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价又涨了",
@@ -21,13 +21,35 @@
           "time_info": "[00时25分 ~ 07时56分]"
         },
         {
+          "title": "金十图示：2025年12月22日（周一）上海金早盘价为984.6元/克，较国际金价(991.93元/克)低7.33元/克",
+          "url": "https://flash.jin10.com/detail/20251222110152377800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "金价再创新高，哪些长线逻辑值得关注？",
+          "url": "https://flash.jin10.com/detail/20251222102334389800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
           "title": "银铂钯依然跟随金价走势，但表现更为强势",
           "url": "https://flash.jin10.com/detail/20251222091949654800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         }
