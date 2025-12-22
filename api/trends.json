@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T04:58:22.318926+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2025-12-23T05:22:39.639654+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
@@ -49,11 +49,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 05时22分]"
         }
       ]
     },
