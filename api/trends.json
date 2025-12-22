@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T06:57:16.115121+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2025-12-23T07:21:36.051600+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 06时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 07时21分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
@@ -50,11 +50,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 06时57分]"
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 07时21分]"
         },
         {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
@@ -69,6 +70,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 01时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大黄金ETF持仓单日大增12吨",
+          "url": "https://flash.jin10.com/detail/20251223070430277800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     },
@@ -89,6 +107,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时23分 ~ 05时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大白银ETF持仓单日暴增逾530吨",
+          "url": "https://flash.jin10.com/detail/20251223071005235800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     }
