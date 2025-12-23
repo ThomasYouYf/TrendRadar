@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T11:19:13.090897+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-12-23T12:26:55.077021+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,64 @@
       ]
     },
     {
+      "keyword_group": "黄金ETF",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球最大黄金ETF持仓单日大增12吨",
+          "url": "https://flash.jin10.com/detail/20251223070430277800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时56分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加12.02吨，当前持仓量为1064.56吨。",
+          "url": "https://flash.jin10.com/detail/20251223115101517800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球最大白银ETF持仓单日暴增逾530吨",
+          "url": "https://flash.jin10.com/detail/20251223071005235800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时56分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加533.01吨，为2023年1月以来的最大单日增幅，当前持仓量为16599.25吨。",
+          "url": "https://flash.jin10.com/detail/20251223115130331800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -85,24 +143,6 @@
       ]
     },
     {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大黄金ETF持仓单日大增12吨",
-          "url": "https://flash.jin10.com/detail/20251223070430277800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时56分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "银价",
       "match_count": 1,
       "titles": [
@@ -119,24 +159,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时23分 ~ 05时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大白银ETF持仓单日暴增逾530吨",
-          "url": "https://flash.jin10.com/detail/20251223071005235800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时56分]"
         }
       ]
     },
