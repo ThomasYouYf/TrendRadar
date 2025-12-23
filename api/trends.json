@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T18:58:55.039291+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2025-12-23T19:24:56.413327+08:00",
+  "total_titles_processed": 1789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价突破1400元",
@@ -52,6 +52,19 @@
           "time_info": "[02时31分 ~ 04时24分]"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 19时24分]"
+        },
+        {
           "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
           "url": "https://flash.jin10.com/detail/20251223175214274800",
           "source": "金十数据",
@@ -62,19 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时58分 ~ 18时29分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 18时58分]"
         },
         {
           "title": "金价银价同日创新高",
@@ -98,6 +98,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
