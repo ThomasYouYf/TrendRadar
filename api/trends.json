@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T09:43:35.138559+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2025-12-23T11:19:13.090897+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -37,6 +37,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时31分 ~ 04时24分]"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）上海金早盘价为1010.37元/克，较国际金价(1013.6元/克)，低3.23元/克",
+          "url": "https://flash.jin10.com/detail/20251223101900275800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
         }
       ]
     },
@@ -140,7 +151,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         }
