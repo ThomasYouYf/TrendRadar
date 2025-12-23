@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T18:29:44.689568+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2025-12-23T18:58:55.039291+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
@@ -64,6 +64,19 @@
           "time_info": "[17时58分 ~ 18时29分]"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 18时58分]"
+        },
+        {
           "title": "金价银价同日创新高",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -74,19 +87,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时56分 ~ 16时32分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时29分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）上海金早盘价为1010.37元/克，较国际金价(1013.6元/克)，低3.23元/克",
