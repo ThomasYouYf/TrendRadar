@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T23:29:12.225141+08:00",
-  "total_titles_processed": 2223,
+  "generated_at": "2025-12-23T23:58:32.675795+08:00",
+  "total_titles_processed": 2264,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[17时03分 ~ 23时29分]"
+          "appearance_count": 15,
+          "time_info": "[17时03分 ~ 23时58分]"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
@@ -59,11 +59,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[19时24分 ~ 23时29分]"
+          "appearance_count": 11,
+          "time_info": "[19时24分 ~ 23时58分]"
         },
         {
           "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
@@ -71,11 +72,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时27分 ~ 23时29分]"
+          "appearance_count": 8,
+          "time_info": "[21时27分 ~ 23时58分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
@@ -92,6 +94,18 @@
           "time_info": "[02时31分 ~ 04时24分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时31分 ~ 23时58分]"
+        },
+        {
           "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
           "url": "https://flash.jin10.com/detail/20251223175214274800",
           "source": "金十数据",
@@ -102,18 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时58分 ~ 18时29分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时31分 ~ 23时29分]"
         },
         {
           "title": "金价银价同日创新高",
