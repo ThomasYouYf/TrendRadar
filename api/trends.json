@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T00:59:35.367990+08:00",
-  "total_titles_processed": 347,
+  "generated_at": "2025-12-25T01:25:13.067102+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时25分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
