@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:41:00.018439+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2025-12-24T15:04:02.716429+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
@@ -59,6 +59,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时24分 ~ 11时16分]"
+        },
+        {
+          "title": "赛诺菲(SNY.O)以每股15.50美元的现金价格收购Dynavax公司的所有流通股。交易预计于2026年第一季度完成。",
+          "url": "https://flash.jin10.com/detail/20251224141858552800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 15时04分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）上海金早盘价为1012.73元/克，较国际金价(1017.6元/克)，低4.87元/克",
