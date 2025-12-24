@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T06:56:56.142321+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2025-12-25T07:20:54.319985+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 07时20分]"
         },
         {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
@@ -72,11 +73,12 @@
           "ranks": [
             3,
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时56分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[05时56分 ~ 07时20分]"
         },
         {
           "title": "英伟达(NVDA.O)：我们不是收购Groq，我们只是（获得）技术授权。我们将把Groq产品整合到未来的产品中。",
@@ -84,11 +86,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 07时20分]"
         },
         {
           "title": "英伟达澄清：并没有收购Groq，仅为技术许可安排",
@@ -96,11 +99,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 07时20分]"
         }
       ]
     },
@@ -114,11 +118,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 07时20分]"
         }
       ]
     }
