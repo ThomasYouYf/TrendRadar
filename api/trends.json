@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T23:22:48.260170+08:00",
-  "total_titles_processed": 1942,
+  "generated_at": "2025-12-25T23:57:06.231052+08:00",
+  "total_titles_processed": 1966,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时56分 ~ 23时22分]"
+          "appearance_count": 13,
+          "time_info": "[17时56分 ~ 23时57分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
@@ -54,6 +54,18 @@
           "time_info": "[09时42分 ~ 13时03分]"
         },
         {
+          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3026784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时22分 ~ 23时57分]"
+        },
+        {
           "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
           "url": "https://flash.jin10.com/detail/20251225102210297800",
           "source": "金十数据",
@@ -74,17 +86,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
-          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
-          "url": "https://wallstreetcn.com/livenews/3026784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
         },
         {
           "title": "金价又创历史新高",
