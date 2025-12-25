@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T22:24:54.427549+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2025-12-25T22:57:20.015026+08:00",
+  "total_titles_processed": 1901,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             13,
             7,
             4,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时56分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[17时56分 ~ 22时57分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
