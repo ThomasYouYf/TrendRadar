@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T13:03:50.204719+08:00",
-  "total_titles_processed": 1053,
+  "generated_at": "2025-12-25T13:57:40.249001+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -75,11 +75,12 @@
             13,
             10,
             9,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 13时03分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时57分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
