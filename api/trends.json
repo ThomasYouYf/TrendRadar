@@ -1,325 +1,33 @@
 {
-  "generated_at": "2025-12-25T23:57:06.231052+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2025-12-26T00:28:30.561405+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
           "source": "知乎",
           "ranks": [
-            17,
-            14,
-            13,
-            7,
-            4,
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时56分 ~ 23时57分]"
-        },
-        {
-          "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2239423",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 13时57分]"
-        },
-        {
-          "title": "金价狂飙 千元内几乎买不到金饰",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 13时03分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
           "url": "https://wallstreetcn.com/livenews/3026784",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[23时22分 ~ 23时57分]"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
-          "url": "https://flash.jin10.com/detail/20251225102210297800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 11时19分]"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
-          "url": "https://flash.jin10.com/detail/20251225150449280800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
-          "title": "金价又创历史新高",
-          "url": "https://www.douyin.com/hot/2346801",
-          "source": "抖音",
-          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NVIDIA 英伟达 AMD @3",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
-          "url": "https://flash.jin10.com/detail/20251225053135051800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            12,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时56分 ~ 07时56分]"
-        },
-        {
-          "title": "英伟达确认与初创公司Groq达成技术许可协议。英伟达称其并未“收购Groq”，已从初创公司Groq招聘工程人才。",
-          "url": "https://wallstreetcn.com/livenews/3026638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 17时01分]"
-        },
-        {
-          "title": "英伟达与AI芯片初创公司Groq达成非独家推理技术授权协议",
-          "url": "https://flash.jin10.com/detail/20251225072450997800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：我们不是收购Groq，我们只是（获得）技术授权。我们将把Groq产品整合到未来的产品中。",
-          "url": "https://flash.jin10.com/detail/20251225054831112800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 07时56分]"
-        },
-        {
-          "title": "英伟达澄清：并没有收购Groq，仅为技术许可安排",
-          "url": "https://wallstreetcn.com/livenews/3026352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 07时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3026315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            12,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时00分 ~ 05时56分]"
-        },
-        {
-          "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
-          "url": "https://wallstreetcn.com/livenews/3026354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 07时56分]"
-        },
-        {
-          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
-          "url": "https://wallstreetcn.com/livenews/3026260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 01时25分]"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3026259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上证指数开盘报3937.72点，跌0.08%。 深证成指开盘报13472.70点，跌0.10%。 创业板指开盘报3232.97点，涨0.11%。 沪深300开盘报4629.32点，跌0.10%。 科创50开盘报1347.78点，跌0.32%。 中证500开盘报7341.92点，跌0.14%。 中证1000开盘报7507.30点，涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3026424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时19分]"
-        },
-        {
-          "title": "上证指数收报3959.62点，涨0.47%。 深证成指收报13531.41点，涨0.33%。 创业板指收报3239.34点，涨0.30%。 沪深300收报4642.54点，涨0.18%。 科创50收报1349.06点，跌0.23%。 中证500收报7410.71点，涨0.80%。 中证1000收报7579.38点，涨0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3026612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 16时29分]"
-        },
-        {
-          "title": "上证指数早盘收报3952.50点，涨0.29%。 深证成指早盘收报13472.22点，跌0.11%。 创业板指早盘收报3217.47点，跌0.37%。 沪深300早盘收报4631.00点，跌0.07%。 科创50早盘收报1344.45点，跌0.57%。 中证500早盘收报7375.81点，涨0.32%。 中证1000早盘收报7548.12点，涨0.56%。",
-          "url": "https://wallstreetcn.com/livenews/3026497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.4吨，当前持仓量为16446.97吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20251225061108006800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 07时56分]"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251225115303283800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月25日（周四）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251225115300178800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "00时28分"
         }
       ]
     }
