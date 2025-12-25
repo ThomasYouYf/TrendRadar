@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-25T20:42:43.875749+08:00",
-  "total_titles_processed": 1736,
+  "generated_at": "2025-12-25T21:24:41.499875+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            13,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时56分 ~ 21时24分]"
+        },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2239423",
@@ -21,20 +36,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时42分 ~ 13时57分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 20时42分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
