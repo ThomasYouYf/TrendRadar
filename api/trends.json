@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:57:40.421727+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2025-12-25T19:20:28.940811+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,18 @@
           "time_info": "[09时42分 ~ 13时03分]"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 19时20分]"
+        },
+        {
           "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
           "url": "https://flash.jin10.com/detail/20251225102210297800",
           "source": "金十数据",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 18时57分]"
         },
         {
           "title": "金价又创历史新高",
