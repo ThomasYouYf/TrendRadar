@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T16:29:34.499023+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2025-12-25T17:01:47.929314+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,19 @@
           "time_info": "[05时56分 ~ 07时56分]"
         },
         {
+          "title": "英伟达确认与初创公司Groq达成技术许可协议。英伟达称其并未“收购Groq”，已从初创公司Groq招聘工程人才。",
+          "url": "https://wallstreetcn.com/livenews/3026638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时01分]"
+        },
+        {
           "title": "英伟达与AI芯片初创公司Groq达成非独家推理技术授权协议",
           "url": "https://flash.jin10.com/detail/20251225072450997800",
           "source": "金十数据",
@@ -32,18 +45,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        },
-        {
-          "title": "英伟达确认与初创公司Groq达成技术许可协议。英伟达称其并未“收购Groq”，已从初创公司Groq招聘工程人才。",
-          "url": "https://wallstreetcn.com/livenews/3026638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 16时29分]"
         },
         {
           "title": "英伟达(NVDA.O)：我们不是收购Groq，我们只是（获得）技术授权。我们将把Groq产品整合到未来的产品中。",
