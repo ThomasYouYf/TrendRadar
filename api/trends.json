@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T19:20:28.940811+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2025-12-25T19:56:47.407962+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 19时56分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
