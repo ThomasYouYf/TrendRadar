@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T14:35:34.697505+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-12-26T15:03:03.051976+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 15时03分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -66,6 +66,17 @@
           "time_info": "[11时17分 ~ 13时03分]"
         },
         {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 15时03分]"
+        },
+        {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
           "url": "https://flash.jin10.com/detail/20251226112935984800",
           "source": "金十数据",
@@ -76,17 +87,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时24分 ~ 13时03分]"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 14时35分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
