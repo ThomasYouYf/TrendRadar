@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-26T15:03:03.051976+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2025-12-26T15:56:45.076785+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 15时56分]"
+        },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
@@ -41,16 +54,16 @@
           "time_info": "[00时28分 ~ 04时23分]"
         },
         {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            7
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 15时56分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -64,17 +77,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时17分 ~ 13时03分]"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时03分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
@@ -100,6 +102,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
+          "url": "https://flash.jin10.com/detail/20251226150518760800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
           "url": "https://wallstreetcn.com/livenews/3026903",
           "source": "华尔街见闻-快讯",
@@ -114,7 +127,7 @@
     },
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "上证指数早盘收报3952.09点，跌0.19%。 深证成指早盘收报13554.07点，涨0.17%。 创业板指早盘收报3234.63点，跌0.15%。 沪深300早盘收报4643.95点，涨0.03%。 科创50早盘收报1342.12点，跌0.51%。 中证500早盘收报7415.97点，涨0.07%。 中证1000早盘收报7570.90点，跌0.11%。",
@@ -139,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "上证指数收报3963.68点，涨0.10%。 深证成指收报13603.89点，涨0.54%。 创业板指收报3243.88点，涨0.14%。 沪深300收报4657.24点，涨0.32%。 科创50收报1345.83点，跌0.24%。 中证500收报7458.84点，涨0.65%。 中证1000收报7605.53点，涨0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3027108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         }
       ]
     },
