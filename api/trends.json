@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T06:20:57.922455+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-12-27T06:57:06.507564+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 06时57分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -26,11 +26,12 @@
           "ranks": [
             2,
             7,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时19分 ~ 06时20分]"
+          "appearance_count": 6,
+          "time_info": "[05时19分 ~ 06时57分]"
         },
         {
           "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
@@ -38,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[05时56分 ~ 06时57分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF、能源业ETF、网络股指数ETF、可选消费ETF至多跌0.47%，银行业ETF、半导体ETF、科技行业ETF至多涨0.23%。",
@@ -70,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时22分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[04时22分 ~ 06时57分]"
         }
       ]
     },
@@ -88,8 +90,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 06时57分]"
         }
       ]
     },
@@ -105,8 +107,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 06时57分]"
         }
       ]
     }
