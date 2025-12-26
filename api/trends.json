@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T23:23:39.551866+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2025-12-26T23:57:30.255206+08:00",
+  "total_titles_processed": 1983,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时44分 ~ 23时23分]"
+          "appearance_count": 28,
+          "time_info": "[09时44分 ~ 23时57分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -154,8 +154,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时33分 ~ 23时23分]"
+          "appearance_count": 16,
+          "time_info": "[17时33分 ~ 23时57分]"
         },
         {
           "title": "上证指数早盘收报3952.09点，跌0.19%。 深证成指早盘收报13554.07点，涨0.17%。 创业板指早盘收报3234.63点，跌0.15%。 沪深300早盘收报4643.95点，涨0.03%。 科创50早盘收报1342.12点，跌0.51%。 中证500早盘收报7415.97点，涨0.07%。 中证1000早盘收报7570.90点，跌0.11%。",
@@ -215,11 +215,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时57分 ~ 23时23分]"
+          "appearance_count": 3,
+          "time_info": "[22时57分 ~ 23时57分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -230,8 +231,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时26分 ~ 23时23分]"
+          "appearance_count": 4,
+          "time_info": "[22时26分 ~ 23时57分]"
         },
         {
           "title": "美股指开盘涨跌不一，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -240,7 +241,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时23分"
         }
