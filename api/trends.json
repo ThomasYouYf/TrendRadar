@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T01:22:50.668117+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2025-12-27T01:56:39.574495+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时56分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF、能源业ETF、网络股指数ETF、可选消费ETF至多跌0.47%，银行业ETF、半导体ETF、科技行业ETF至多涨0.23%。",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时56分]"
         }
       ]
     },
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时56分]"
         }
       ]
     }
