@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T14:31:51.389108+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2025-12-27T15:02:10.859485+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 14时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 15时02分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -31,8 +31,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时27分 ~ 14时31分]"
+          "appearance_count": 32,
+          "time_info": "[00时27分 ~ 15时02分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -43,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 14时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 15时02分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -117,8 +117,19 @@
     },
     {
       "keyword_group": "黄金ETF",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十图示：2025年12月27日（周六）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251227142723510800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.86吨，当前持仓量为1071.13吨。",
           "url": "https://flash.jin10.com/detail/20251227084915274800",
@@ -136,6 +147,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月27日（周六）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251227142711192800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.41吨，当前持仓量为16390.56吨。欢迎点击查看数据中心..",
+          "url": "https://flash.jin10.com/detail/20251227082244938800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -194,25 +233,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 14时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.41吨，当前持仓量为16390.56吨。欢迎点击查看数据中心..",
-          "url": "https://flash.jin10.com/detail/20251227082244938800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 15时02分]"
         }
       ]
     },
@@ -230,8 +252,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时27分 ~ 14时31分]"
+          "appearance_count": 32,
+          "time_info": "[00时27分 ~ 15时02分]"
         }
       ]
     },
