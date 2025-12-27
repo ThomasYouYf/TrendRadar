@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T21:57:25.540104+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2025-12-27T22:20:02.933584+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时43分 ~ 21时57分]"
+          "appearance_count": 28,
+          "time_info": "[09时43分 ~ 22时20分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -220,8 +220,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时57分]"
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 22时20分]"
         }
       ]
     },
