@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T15:02:10.859485+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2025-12-27T15:29:06.079687+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 15时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 15时29分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -43,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 15时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 15时29分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -124,11 +124,12 @@
           "url": "https://flash.jin10.com/detail/20251227142723510800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 15时29分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.86吨，当前持仓量为1071.13吨。",
@@ -163,11 +164,12 @@
           "url": "https://flash.jin10.com/detail/20251227142711192800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 15时29分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.41吨，当前持仓量为16390.56吨。欢迎点击查看数据中心..",
@@ -249,11 +251,12 @@
           "ranks": [
             8,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时27分 ~ 15时02分]"
+          "appearance_count": 34,
+          "time_info": "[00时27分 ~ 15时29分]"
         }
       ]
     },
