@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T18:57:34.722191+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-12-27T19:18:41.409129+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时43分 ~ 18时57分]"
+          "appearance_count": 22,
+          "time_info": "[09时43分 ~ 19时18分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -42,11 +42,12 @@
             9,
             10,
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时43分 ~ 18时57分]"
+          "appearance_count": 22,
+          "time_info": "[09时43分 ~ 19时18分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
