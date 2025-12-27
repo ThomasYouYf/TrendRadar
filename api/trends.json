@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:57:03.184178+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2025-12-27T18:21:53.062968+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时43分 ~ 17时57分]"
+          "appearance_count": 20,
+          "time_info": "[09时43分 ~ 18时21分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -31,8 +31,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时27分 ~ 15时02分]"
+          "appearance_count": 33,
+          "time_info": "[00时27分 ~ 18时21分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -41,11 +41,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时43分 ~ 17时57分]"
+          "appearance_count": 20,
+          "time_info": "[09时43分 ~ 18时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
