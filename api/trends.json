@@ -1,9 +1,7 @@
 {
-  "generated_at": "2025-12-28T02:31:42.621969+08:00",
-  "total_titles_processed": 370,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2025-12-28T02:59:56.164515+08:00",
+  "total_titles_processed": 379,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
@@ -37,8 +35,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 02时59分]"
         }
       ]
     }
