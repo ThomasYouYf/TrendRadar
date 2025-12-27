@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T16:59:32.559592+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2025-12-27T17:28:50.953874+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时43分 ~ 16时59分]"
+          "appearance_count": 17,
+          "time_info": "[09时43分 ~ 17时28分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -44,8 +44,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时43分 ~ 16时59分]"
+          "appearance_count": 17,
+          "time_info": "[09时43分 ~ 17时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -129,11 +129,12 @@
             7,
             11,
             14,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时01分 ~ 16时59分]"
+          "appearance_count": 8,
+          "time_info": "[15时01分 ~ 17时28分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.86吨，当前持仓量为1071.13吨。",
@@ -172,11 +173,12 @@
             8,
             12,
             15,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时01分 ~ 16时59分]"
+          "appearance_count": 8,
+          "time_info": "[15时01分 ~ 17时28分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.41吨，当前持仓量为16390.56吨。欢迎点击查看数据中心..",
