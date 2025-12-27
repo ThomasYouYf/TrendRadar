@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-27T11:16:06.513553+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2025-12-27T12:22:08.566057+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 8,
       "titles": [
+        {
+          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
+          "url": "https://wallstreetcn.com/articles/3762133",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 12时22分]"
+        },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
           "url": "https://www.cls.cn/detail/2241565",
@@ -19,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 11时16分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 12时22分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -37,17 +48,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[05时19分 ~ 07时57分]"
-        },
-        {
-          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时16分]"
         },
         {
           "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
@@ -93,11 +93,12 @@
           "url": "https://www.cls.cn/detail/2241688",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 12时22分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF、能源业ETF、网络股指数ETF、可选消费ETF至多跌0.47%，银行业ETF、半导体ETF、科技行业ETF至多涨0.23%。",
@@ -178,6 +179,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金饰价格突破1400元黄金回收遇冷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B41400%E5%85%83%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E9%81%87%E5%86%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银ETF",
       "match_count": 1,
       "titles": [
@@ -208,8 +226,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 11时16分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 12时22分]"
         }
       ]
     },
