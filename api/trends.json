@@ -1,11 +1,28 @@
 {
-  "generated_at": "2025-12-27T23:57:18.606435+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2025-12-28T00:25:50.371176+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金饰价格破1400元黄金回收加工却遇冷",
+          "url": "https://www.toutiao.com/trending/7588294573819101226/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
@@ -15,306 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[09时43分 ~ 23时57分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2241565",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时27分 ~ 18时21分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时43分 ~ 19时56分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
-          "url": "https://wallstreetcn.com/livenews/3027465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            11,
-            17,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时19分 ~ 07时57分]"
-        },
-        {
-          "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
-          "url": "https://wallstreetcn.com/livenews/3027472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            12,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时56分 ~ 07时57分]"
-        },
-        {
-          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3027489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时43分]"
-        },
-        {
-          "title": "节后首日美股微跌，白银暴涨10%，纽铜涨5%，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF、能源业ETF、网络股指数ETF、可选消费ETF至多跌0.47%，银行业ETF、半导体ETF、科技行业ETF至多涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3027380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月27日（周六）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251227142723510800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            11,
-            14,
-            18,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时01分 ~ 17时57分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.86吨，当前持仓量为1071.13吨。",
-          "url": "https://flash.jin10.com/detail/20251227084915274800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "黄金ETF收涨将近1.2%，领跑美股大类资产类ETF，今年已涨超72%",
-          "url": "https://wallstreetcn.com/livenews/3027493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 07时57分]"
-        },
-        {
-          "title": "金价上涨的受益者这里有一屋",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%80%E5%B1%8B&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 20时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金饰价格破1400元黄金回收加工却遇冷",
-          "url": "https://www.toutiao.com/trending/7588294573819101226/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            5,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[21时21分 ~ 23时57分]"
-        },
-        {
-          "title": "金饰价格突破1400元黄金回收遇冷",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B41400%E5%85%83%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E9%81%87%E5%86%B7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            24,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 15时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月27日（周六）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251227142711192800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            12,
-            15,
-            19,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时01分 ~ 17时57分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.41吨，当前持仓量为16390.56吨。欢迎点击查看数据中心..",
-          "url": "https://flash.jin10.com/detail/20251227082244938800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NVIDIA 英伟达 AMD @3",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "分析师质疑英伟达Groq交易价值：技术收益有限，令人费解",
-          "url": "https://flash.jin10.com/detail/20251227040048257800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时22分 ~ 09时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
-          "url": "https://wallstreetcn.com/articles/3762115",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时27分 ~ 16时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "普京：将应用人工智能技术巩固俄武器装备优势",
-          "url": "https://wallstreetcn.com/livenews/3027484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时43分]"
+          "time_info": "00时25分"
         }
       ]
     }
