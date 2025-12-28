@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T12:36:04.110481+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-28T13:15:05.139065+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             7,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 12时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 13时15分]"
         },
         {
           "title": "白银价格屡创新高 马斯克：这可不好",
@@ -38,11 +39,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 13时15分]"
         }
       ]
     },
@@ -56,11 +58,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 13时15分]"
         }
       ]
     },
@@ -115,11 +118,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 13时15分]"
         }
       ]
     }
