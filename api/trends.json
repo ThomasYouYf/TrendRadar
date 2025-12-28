@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:15:05.139065+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2025-12-28T13:57:44.355568+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,25 @@
             2,
             7,
             9,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 13时57分]"
+        },
+        {
+          "title": "白银价格暴涨 马斯克：这可不好",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%BF%99%E5%8F%AF%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 13时57分]"
         },
         {
           "title": "白银价格屡创新高 马斯克：这可不好",
@@ -32,19 +46,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时55分 ~ 11时48分]"
-        },
-        {
-          "title": "白银价格暴涨 马斯克：这可不好",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%BF%99%E5%8F%AF%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 13时15分]"
         }
       ]
     },
@@ -122,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 13时57分]"
         }
       ]
     }
