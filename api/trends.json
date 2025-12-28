@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T17:56:41.429143+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2025-12-28T18:21:17.339682+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时55分 ~ 17时56分]"
+          "appearance_count": 17,
+          "time_info": "[09时55分 ~ 18时21分]"
         },
         {
           "title": "白银价格暴涨 马斯克：这可不好",
@@ -43,8 +43,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时48分 ~ 17时56分]"
+          "appearance_count": 14,
+          "time_info": "[11时48分 ~ 18时21分]"
         },
         {
           "title": "白银价格屡创新高 马斯克：这可不好",
@@ -82,11 +82,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时48分 ~ 17时56分]"
+          "appearance_count": 15,
+          "time_info": "[11时48分 ~ 18时21分]"
         },
         {
           "title": "拉夫罗夫：欧洲公开表示准备与俄罗斯开战 布鲁塞尔已成为和平的主要障碍",
@@ -120,6 +121,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 18时21分]"
+        },
+        {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
           "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
@@ -131,18 +144,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时48分 ~ 13时15分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 17时56分]"
         }
       ]
     },
