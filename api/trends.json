@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:18:14.424456+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-12-28T19:56:46.319832+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时48分 ~ 19时18分]"
+          "appearance_count": 18,
+          "time_info": "[11时48分 ~ 19时56分]"
         },
         {
           "title": "白银价格屡创新高 马斯克：这可不好",
@@ -86,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时48分 ~ 19时18分]"
+          "appearance_count": 19,
+          "time_info": "[11时48分 ~ 19时56分]"
         },
         {
           "title": "拉夫罗夫：欧洲公开表示准备与俄罗斯开战 布鲁塞尔已成为和平的主要障碍",
@@ -126,11 +126,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时56分 ~ 19时18分]"
+          "appearance_count": 9,
+          "time_info": "[15时56分 ~ 19时56分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
