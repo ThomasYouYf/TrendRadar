@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T16:27:23.477575+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2025-12-28T17:04:17.376275+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             20,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时55分 ~ 16时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时55分 ~ 17时04分]"
         },
         {
           "title": "白银价格暴涨 马斯克：这可不好",
@@ -39,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时48分 ~ 16时27分]"
+          "appearance_count": 12,
+          "time_info": "[11时48分 ~ 17时04分]"
         },
         {
           "title": "白银价格屡创新高 马斯克：这可不好",
@@ -53,6 +54,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时55分 ~ 11时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
+          "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时48分 ~ 17时04分]"
+        },
+        {
+          "title": "拉夫罗夫：欧洲公开表示准备与俄罗斯开战 布鲁塞尔已成为和平的主要障碍",
+          "url": "https://flash.jin10.com/detail/20251228135740413800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 16时27分]"
+        },
+        {
+          "title": "伊朗总统：伊朗正跟西方全面开战",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E8%B7%9F%E8%A5%BF%E6%96%B9%E5%85%A8%E9%9D%A2%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
@@ -81,41 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
-          "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时48分 ~ 16时27分]"
-        },
-        {
-          "title": "拉夫罗夫：欧洲公开表示准备与俄罗斯开战 布鲁塞尔已成为和平的主要障碍",
-          "url": "https://flash.jin10.com/detail/20251228135740413800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 16时27分]"
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 17时04分]"
         }
       ]
     },
