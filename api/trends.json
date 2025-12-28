@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T17:29:19.588912+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-12-28T17:56:41.429143+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -22,11 +22,12 @@
             23,
             24,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时55分 ~ 17时29分]"
+          "appearance_count": 16,
+          "time_info": "[09时55分 ~ 17时56分]"
         },
         {
           "title": "白银价格暴涨 马斯克：这可不好",
@@ -38,11 +39,12 @@
             9,
             8,
             13,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时48分 ~ 17时04分]"
+          "appearance_count": 13,
+          "time_info": "[11时48分 ~ 17时56分]"
         },
         {
           "title": "白银价格屡创新高 马斯克：这可不好",
@@ -63,7 +65,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         }
@@ -83,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时48分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[11时48分 ~ 17时56分]"
         },
         {
           "title": "拉夫罗夫：欧洲公开表示准备与俄罗斯开战 布鲁塞尔已成为和平的主要障碍",
@@ -135,11 +137,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 17时29分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时56分]"
         }
       ]
     },
