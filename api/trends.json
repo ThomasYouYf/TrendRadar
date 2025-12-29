@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T18:01:52.769973+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2025-12-29T18:37:57.167714+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
@@ -96,7 +96,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时01分"
         }
@@ -170,8 +170,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 18时01分]"
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 18时37分]"
         },
         {
           "title": "80美元！现货白银价格创下新记录",
