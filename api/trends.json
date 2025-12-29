@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T14:52:39.331197+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2025-12-29T15:31:51.140536+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -19,6 +19,29 @@
           "time_info": "[00时25分 ~ 12时05分]"
         },
         {
+          "title": "金十图示：2025年12月29日（周一）上海金午盘价为1001.63元/克，较国际金价(1004.09元/克)，低2.46元/克",
+          "url": "https://flash.jin10.com/detail/20251229150239734800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时31分]"
+        },
+        {
           "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
           "url": "https://flash.jin10.com/detail/20251229105826518800",
           "source": "金十数据",
@@ -28,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
         }
       ]
     },
@@ -56,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 15时31分]"
         },
         {
           "title": "80美元！现货白银价格创下新记录",
@@ -76,11 +88,53 @@
           "url": "https://wallstreetcn.com/articles/3762225",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3975.92点，涨0.31%。 深证成指早盘收报13607.39点，涨0.03%。 创业板指早盘收报3233.53点，跌0.32%。 沪深300早盘收报4660.90点，涨0.08%。 科创50早盘收报1358.01点，涨0.91%。 中证500早盘收报7473.69点，涨0.20%。 中证1000早盘收报7620.47点，涨0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3027872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时20分]"
+        },
+        {
+          "title": "上证指数开盘报3964.65点，涨0.02%。 深证成指开盘报13604.30点，涨0.00%。 创业板指开盘报3237.77点，跌0.19%。 沪深300开盘报4658.27点，涨0.02%。 科创50开盘报1345.98点，涨0.01%。 中证500开盘报7467.50点，涨0.12%。 中证1000开盘报7606.44点，涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3027784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 10时43分]"
+        },
+        {
+          "title": "上证指数收报3965.28点，涨0.04%。 深证成指收报13537.10点，跌0.49%。 创业板指收报3222.61点，跌0.66%。 沪深300收报4639.37点，跌0.38%。 科创50收报1346.32点，涨0.04%。 中证500收报7430.61点，跌0.38%。 中证1000收报7594.16点，跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3027970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "15时31分"
         }
       ]
     },
@@ -109,36 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3975.92点，涨0.31%。 深证成指早盘收报13607.39点，涨0.03%。 创业板指早盘收报3233.53点，跌0.32%。 沪深300早盘收报4660.90点，涨0.08%。 科创50早盘收报1358.01点，涨0.91%。 中证500早盘收报7473.69点，涨0.20%。 中证1000早盘收报7620.47点，涨0.20%。",
-          "url": "https://wallstreetcn.com/livenews/3027872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 13时20分]"
-        },
-        {
-          "title": "上证指数开盘报3964.65点，涨0.02%。 深证成指开盘报13604.30点，涨0.00%。 创业板指开盘报3237.77点，跌0.19%。 沪深300开盘报4658.27点，涨0.02%。 科创50开盘报1345.98点，涨0.01%。 中证500开盘报7467.50点，涨0.12%。 中证1000开盘报7606.44点，涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3027784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 10时43分]"
         }
       ]
     },
