@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:58:36.707704+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2025-12-29T21:03:55.256097+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
@@ -119,6 +119,19 @@
           "time_info": "[12时05分 ~ 13时20分]"
         },
         {
+          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
+          "url": "https://wallstreetcn.com/articles/3762226",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时03分]"
+        },
+        {
           "title": "上证指数收报3965.28点，涨0.04%。 深证成指收报13537.10点，跌0.49%。 创业板指收报3222.61点，跌0.66%。 沪深300收报4639.37点，跌0.38%。 科创50收报1346.32点，涨0.04%。 中证500收报7430.61点，跌0.38%。 中证1000收报7594.16点，跌0.15%。",
           "url": "https://wallstreetcn.com/livenews/3027970",
           "source": "华尔街见闻-快讯",
@@ -142,18 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 10时43分]"
-        },
-        {
-          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
-          "url": "https://wallstreetcn.com/articles/3762226",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时58分]"
         }
       ]
     },
@@ -208,11 +209,12 @@
             10,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时52分 ~ 19时58分]"
+          "appearance_count": 13,
+          "time_info": "[14时52分 ~ 21时03分]"
         },
         {
           "title": "白银价格又双叒叕创新高！马斯克疾呼：这可不是什么好事",
@@ -295,6 +297,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     }
