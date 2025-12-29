@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T18:37:57.167714+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2025-12-29T19:01:20.742032+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
@@ -146,6 +146,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
+          "url": "https://wallstreetcn.com/articles/3762225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时52分 ~ 19时01分]"
+        },
+        {
           "title": "白银价格又双叒叕创新高！马斯克疾呼：这可不是什么好事",
           "url": "https://www.cls.cn/detail/2242324",
           "source": "财联社热门",
@@ -159,19 +173,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时43分 ~ 17时18分]"
-        },
-        {
-          "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
-          "url": "https://wallstreetcn.com/articles/3762225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时52分 ~ 18时37分]"
         },
         {
           "title": "80美元！现货白银价格创下新记录",
