@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T22:59:12.158247+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2025-12-30T23:33:00.561942+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
@@ -38,6 +38,18 @@
           "time_info": "[12时43分 ~ 17时14分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时59分 ~ 23时33分]"
+        },
+        {
           "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
           "url": "https://flash.jin10.com/detail/20251229235334539800",
           "source": "金十数据",
@@ -61,15 +73,15 @@
           "time_info": "[16时40分 ~ 16时41分]"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
         },
         {
           "title": "瑞银上调2026金价目标：政治/金融风险环绕，最高涨至5400美元！",
@@ -211,8 +223,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 22时59分]"
+          "appearance_count": 4,
+          "time_info": "[22时58分 ~ 23时33分]"
         }
       ]
     },
@@ -256,22 +268,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 22时59分]"
+          "appearance_count": 4,
+          "time_info": "[22时58分 ~ 23时33分]"
         },
         {
           "title": "美股开盘，道指跌0.06%，标普500指数跌0.05%，纳指跌0.04%。矿业股普涨，金田(GFI.N)、泛美白银(PAAS.O)、哈莫尼黄金(HMY.N)涨约3%，科尔黛伦矿业(CDE.N)、纽蒙特矿业(NEM.N)涨超2%。",
           "url": "https://flash.jin10.com/detail/20251230223027479800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 22时59分]"
+          "appearance_count": 4,
+          "time_info": "[22时58分 ~ 23时33分]"
         }
       ]
     },
