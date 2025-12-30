@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T00:40:04.644957+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-31T01:03:32.399530+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 01时03分]"
         },
         {
           "title": "金价波动",
@@ -43,8 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 01时03分]"
         }
       ]
     },
