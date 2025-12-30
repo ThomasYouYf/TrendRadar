@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T23:33:00.561942+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2025-12-30T23:59:39.184566+08:00",
+  "total_titles_processed": 1907,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "source": "微博",
           "ranks": [
             10,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时59分 ~ 23时33分]"
+          "appearance_count": 4,
+          "time_info": "[22时59分 ~ 23时59分]"
         },
         {
           "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
@@ -62,6 +63,18 @@
           "time_info": "[00时37分 ~ 01时01分]"
         },
         {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时32分 ~ 23时59分]"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）上海金午盘价为980.74元/克，较国际金价(983.6元/克)，低2.86元/克",
           "url": "https://flash.jin10.com/detail/20251230155139232800",
           "source": "金十数据",
@@ -71,17 +84,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时40分 ~ 16时41分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时32分 ~ 23时33分]"
         },
         {
           "title": "瑞银上调2026金价目标：政治/金融风险环绕，最高涨至5400美元！",
@@ -223,8 +225,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时58分 ~ 23时33分]"
+          "appearance_count": 5,
+          "time_info": "[22时58分 ~ 23时59分]"
         }
       ]
     },
@@ -269,11 +271,12 @@
           "ranks": [
             3,
             7,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时58分 ~ 23时33分]"
+          "appearance_count": 5,
+          "time_info": "[22时58分 ~ 23时59分]"
         },
         {
           "title": "美股开盘，道指跌0.06%，标普500指数跌0.05%，纳指跌0.04%。矿业股普涨，金田(GFI.N)、泛美白银(PAAS.O)、哈莫尼黄金(HMY.N)涨约3%，科尔黛伦矿业(CDE.N)、纽蒙特矿业(NEM.N)涨超2%。",
