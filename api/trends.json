@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T21:03:03.015978+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2025-12-30T22:02:09.897169+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
@@ -147,6 +147,36 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            19,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时13分]"
+        },
+        {
+          "title": "金银价格走高，美股矿业股盘前普涨，泛美白银(PAAS.O)涨3.8%，金田(GFI.N)涨3.7%，哈莫尼黄金(HMY.N)涨3.6%，科尔黛伦矿业(CDE.N)涨3.3%，纽蒙特矿业(NEM.N)涨2.6%。",
+          "url": "https://flash.jin10.com/detail/20251230211122714800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银ETF",
       "match_count": 2,
       "titles": [
@@ -191,25 +221,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时55分 ~ 12时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待黄金白银价格波动",
-          "url": "https://www.douyin.com/hot/2351661",
-          "source": "抖音",
-          "ranks": [
-            19,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时13分]"
         }
       ]
     },
