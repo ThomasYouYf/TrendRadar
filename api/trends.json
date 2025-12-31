@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T18:34:10.898803+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2025-12-31T18:58:44.485825+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
@@ -110,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时28分 ~ 18时34分]"
+          "appearance_count": 17,
+          "time_info": "[09时28分 ~ 18时58分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -158,11 +158,12 @@
           "url": "https://wallstreetcn.com/livenews/3029269",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 18时58分]"
         }
       ]
     },
