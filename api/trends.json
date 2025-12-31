@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T13:59:30.739190+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2025-12-31T14:48:32.227789+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 14时48分]"
         },
         {
           "title": "芝商所一周内两次上调贵金属期货保证金叠加清淡的假日行情，现货金银价格回落，多头情绪大幅回调，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -97,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 13时59分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 14时48分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -172,11 +173,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 14时48分]"
         }
       ]
     },
