@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T13:18:33.885070+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-01-02T13:59:29.613525+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 13时59分]"
         },
         {
           "title": "周大福足金价格均为1357元/克，老凤祥1354元/克",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时59分]"
         }
       ]
     },
@@ -43,11 +45,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时59分]"
         }
       ]
     },
@@ -78,11 +81,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时59分]"
         }
       ]
     }
