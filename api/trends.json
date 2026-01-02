@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T19:59:23.209382+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-01-02T21:01:32.846009+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周大福足金价格均为1357元/克，老凤祥1354元/克",
@@ -44,8 +44,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 19时59分]"
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 21时01分]"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时00分"
         }
       ]
     },
