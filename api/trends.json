@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T02:42:10.914688+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-01-03T03:01:38.781265+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时01分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时01分]"
         },
         {
           "title": "元旦购金热爆棚 金价还能涨到哪",
