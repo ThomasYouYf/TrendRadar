@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T09:59:54.779279+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-01-03T11:38:20.446129+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 09时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 11时38分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -66,33 +67,36 @@
           "url": "https://wallstreetcn.com/livenews/3029953",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时38分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3029945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时38分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，中概股指大涨4%",
           "url": "https://flash.jin10.com/detail/20260103083148259800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时38分]"
         }
       ]
     },
@@ -105,11 +109,12 @@
           "url": "https://flash.jin10.com/detail/20260103082600696800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时38分]"
         }
       ]
     },
@@ -131,6 +136,23 @@
       ]
     },
     {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月03日（周六）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260103101419617800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI",
       "match_count": 1,
       "titles": [
@@ -139,11 +161,12 @@
           "url": "https://wallstreetcn.com/livenews/3029935",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时38分]"
         }
       ]
     }
