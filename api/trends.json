@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T11:38:20.446129+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-01-03T12:22:28.765972+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时22分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -83,8 +83,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时22分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，中概股指大涨4%",
@@ -92,11 +92,12 @@
           "source": "金十数据",
           "ranks": [
             18,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时22分]"
         }
       ]
     },
@@ -110,11 +111,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时22分]"
         }
       ]
     },
@@ -144,11 +146,12 @@
           "url": "https://flash.jin10.com/detail/20260103101419617800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时22分]"
         }
       ]
     },
@@ -165,8 +168,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时22分]"
         }
       ]
     }
