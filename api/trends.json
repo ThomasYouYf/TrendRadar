@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T21:36:05.182600+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-01-03T21:59:08.463247+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
@@ -80,11 +80,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时01分 ~ 21时36分]"
+          "appearance_count": 15,
+          "time_info": "[17时01分 ~ 21时59分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
