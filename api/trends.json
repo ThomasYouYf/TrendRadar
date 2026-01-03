@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T13:02:41.531288+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-01-03T13:58:52.380642+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -63,7 +63,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -80,11 +80,12 @@
           "ranks": [
             7,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 13时58分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -93,11 +94,12 @@
           "ranks": [
             13,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 13时58分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，中概股指大涨4%",
@@ -126,11 +128,12 @@
             11,
             20,
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 13时58分]"
         }
       ]
     },
@@ -162,11 +165,12 @@
           "ranks": [
             6,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 13时58分]"
         }
       ]
     },
@@ -181,11 +185,12 @@
           "ranks": [
             22,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 13时58分]"
         }
       ]
     }
