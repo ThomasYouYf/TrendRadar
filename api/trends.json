@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T17:31:38.269764+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-01-03T17:58:41.044915+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -85,11 +85,12 @@
             18,
             21,
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时59分 ~ 17时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时59分 ~ 17时58分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -109,6 +110,17 @@
           "time_info": "[09时59分 ~ 16时38分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 17时58分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一，中概股指大涨4%",
           "url": "https://flash.jin10.com/detail/20260103083148259800",
           "source": "金十数据",
@@ -120,17 +132,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时59分 ~ 12时22分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时31分]"
         }
       ]
     },
