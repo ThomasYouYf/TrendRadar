@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T16:49:04.219270+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-01-05T17:20:39.311072+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -43,22 +43,24 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时22分 ~ 16时49分]"
+          "appearance_count": 12,
+          "time_info": "[10时22分 ~ 17时20分]"
         },
         {
           "title": "委内瑞拉局势震荡激发避险买盘 金银价格强势走高",
           "url": "https://flash.jin10.com/detail/20260105164439797800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 16时49分]"
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 17时20分]"
         }
       ]
     },
@@ -76,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 16时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时02分 ~ 17时20分]"
         },
         {
           "title": "四川：加快关键核心数智技术攻关，实施人工智能等重大科技专项",
@@ -124,6 +126,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 13时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国投白银LOF：交易价格波动较大 请投资者密切关注基金份额净值",
+          "url": "https://wallstreetcn.com/livenews/3030751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     }
