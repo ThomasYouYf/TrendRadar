@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-05T09:03:00.283927+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-01-05T10:23:02.647551+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "银价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场对委内瑞拉变局的反应：油价“不涨反跌”，黄金重回4400，银价飙涨5%",
+          "url": "https://wallstreetcn.com/articles/3762520",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能 AI",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://www.zhihu.com/question/1991228705045968330",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 10时23分]"
         }
       ]
     }
