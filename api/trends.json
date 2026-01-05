@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T19:59:29.726142+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-01-05T21:06:12.702051+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
@@ -50,7 +50,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         }
@@ -108,11 +108,12 @@
             10,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时22分 ~ 19时59分]"
+          "appearance_count": 17,
+          "time_info": "[10时22分 ~ 21时06分]"
         },
         {
           "title": "委内瑞拉局势震荡激发避险买盘 金银价格强势走高",
