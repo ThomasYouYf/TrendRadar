@@ -1,8 +1,67 @@
 {
-  "generated_at": "2026-01-05T15:59:48.466435+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-01-05T16:49:04.219270+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月05日（周一）上海金午盘价为992.86元/克，较国际金价(991.31元/克)，高1.55元/克",
+          "url": "https://flash.jin10.com/detail/20260105150258794800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 15时59分]"
+        },
+        {
+          "title": "避险需求推升金价 伦敦矿业股开盘集体走强",
+          "url": "https://flash.jin10.com/detail/20260105163155880800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "银价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场对委内瑞拉变局的反应：油价“不涨反跌”，黄金重回4400，银价飙涨5%",
+          "url": "https://wallstreetcn.com/articles/3762520",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时22分 ~ 16时49分]"
+        },
+        {
+          "title": "委内瑞拉局势震荡激发避险买盘 金银价格强势走高",
+          "url": "https://flash.jin10.com/detail/20260105164439797800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能 AI",
       "match_count": 2,
@@ -17,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时02分 ~ 15时59分]"
+          "appearance_count": 13,
+          "time_info": "[09时02分 ~ 16时49分]"
         },
         {
           "title": "四川：加快关键核心数智技术攻关，实施人工智能等重大科技专项",
@@ -30,24 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时19分 ~ 15时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月05日（周一）上海金午盘价为992.86元/克，较国际金价(991.31元/克)，高1.55元/克",
-          "url": "https://flash.jin10.com/detail/20260105150258794800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 15时59分]"
         }
       ]
     },
@@ -66,25 +107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时12分 ~ 13时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场对委内瑞拉变局的反应：油价“不涨反跌”，黄金重回4400，银价飙涨5%",
-          "url": "https://wallstreetcn.com/articles/3762520",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时22分 ~ 15时59分]"
         }
       ]
     },
