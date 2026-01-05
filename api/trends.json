@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T12:12:26.458340+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-01-05T13:27:18.764179+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260105115459495800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时27分]"
         }
       ]
     },
@@ -33,8 +34,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时22分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 13时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月05日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260105115501693800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         }
       ]
     },
@@ -48,11 +66,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 12时12分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 13时27分]"
         }
       ]
     }
