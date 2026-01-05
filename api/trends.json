@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T15:20:09.970350+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-01-05T15:59:48.466435+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 15时59分]"
         },
         {
           "title": "四川：加快关键核心数智技术攻关，实施人工智能等重大科技专项",
@@ -42,11 +42,12 @@
           "url": "https://flash.jin10.com/detail/20260105150258794800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 15时59分]"
         }
       ]
     },
@@ -82,8 +83,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时22分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时22分 ~ 15时59分]"
         }
       ]
     },
