@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T17:15:40.489026+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-01-06T17:59:55.286126+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 17时59分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
