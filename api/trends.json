@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-07T02:01:23.038773+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-01-07T02:47:13.846446+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NVIDIA 英伟达 AMD @3",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "英伟达CEO黄仁勋：公司在Groq（技术许可）协议中聘请（对方的）工程师。",
+          "url": "https://wallstreetcn.com/livenews/3031850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 02时47分]"
+        },
         {
           "title": "英伟达(NVDA.O)首席财务官：90%的客户使用某种形式的英伟达网络技术。",
           "url": "https://flash.jin10.com/detail/20260107003713847800",
@@ -93,8 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 02时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 02时47分]"
         }
       ]
     }
