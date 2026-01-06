@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T15:59:06.102219+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-01-06T16:44:12.845601+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 15时59分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 16时44分]"
         },
         {
           "title": "瑞银上调金价目标至5000美元",
