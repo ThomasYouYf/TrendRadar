@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T01:14:01.108704+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-01-07T02:01:23.038773+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260107003713847800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 02时01分]"
         },
         {
           "title": "美股网约车股上涨，此前英伟达(NVDA.O)宣布自动驾驶技术平台。Uber(UBER.N)涨5.6%，Lyft(LYFT.O)涨3%，特斯拉(TSLA.O)跌3.2%。",
@@ -41,11 +42,13 @@
           "source": "今日头条",
           "ranks": [
             24,
-            28
+            28,
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 01时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 02时01分]"
         },
         {
           "title": "大摩预计今年第四季度金价升至4800美元",
@@ -90,8 +93,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 01时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 02时01分]"
         }
       ]
     }
