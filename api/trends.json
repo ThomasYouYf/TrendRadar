@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T02:47:13.846446+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-01-07T03:01:56.520533+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 02时47分]"
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 03时01分]"
         },
         {
           "title": "英伟达(NVDA.O)首席财务官：90%的客户使用某种形式的英伟达网络技术。",
@@ -104,8 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 02时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 03时01分]"
         }
       ]
     }
