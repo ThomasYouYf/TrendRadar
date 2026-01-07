@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T11:56:42.351556+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-01-07T12:46:23.453849+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,46 @@
           "url": "https://flash.jin10.com/detail/20260107111347667800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月07日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260107115300940800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "12时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月07日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260107115309642800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     },
