@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T17:17:20.383658+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-01-07T18:01:55.867368+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -64,7 +64,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -75,7 +75,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         }
@@ -103,11 +103,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 18时01分]"
         },
         {
           "title": "印度印孚瑟斯技术有限公司与亚马逊云服务合作，加速企业采用生成式人工智能。",
@@ -204,7 +205,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         }
