@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T18:39:19.685211+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-01-08T19:02:06.888717+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,19 @@
           "time_info": "13时59分"
         },
         {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 19时02分]"
+        },
+        {
           "title": "金价已在历史高位 央行为何还在买",
           "url": "https://www.toutiao.com/trending/7592763349536869894/",
           "source": "今日头条",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时16分 ~ 18时02分]"
-        },
-        {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 17时17分]"
         }
       ]
     },
@@ -152,8 +153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时07分 ~ 18时39分]"
+          "appearance_count": 20,
+          "time_info": "[09时07分 ~ 19时02分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
