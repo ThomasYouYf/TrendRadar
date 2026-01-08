@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T12:45:06.339562+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-01-08T13:15:29.127905+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 12时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 13时15分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -69,8 +69,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 12时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 13时15分]"
         }
       ]
     },
@@ -102,11 +102,12 @@
           "url": "https://flash.jin10.com/detail/20260108115454588800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时15分]"
         }
       ]
     },
@@ -119,11 +120,12 @@
           "url": "https://flash.jin10.com/detail/20260108115457443800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时15分]"
         }
       ]
     },
@@ -137,11 +139,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 13时15分]"
         }
       ]
     },
