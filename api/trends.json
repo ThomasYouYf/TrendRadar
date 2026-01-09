@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T13:15:59.332540+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-01-09T14:01:05.649254+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
+          "url": "https://www.cls.cn/detail/2252454",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 14时01分]"
+        },
+        {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
@@ -47,17 +58,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时03分 ~ 03时04分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
-          "url": "https://www.cls.cn/detail/2252454",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时15分]"
         }
       ]
     },
