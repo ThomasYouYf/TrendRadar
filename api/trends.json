@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T12:46:06.249151+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-01-09T13:15:59.332540+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260109115549742800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 13时15分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上个交易日维持不变，当前持仓量为1067.13吨。",
@@ -55,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 12时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 13时15分]"
         }
       ]
     },
@@ -86,11 +87,12 @@
           "url": "https://flash.jin10.com/detail/20260109115551752800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 13时15分]"
         }
       ]
     },
