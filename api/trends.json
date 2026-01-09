@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-09T11:56:59.269712+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-01-09T12:46:06.249151+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月09日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260109115549742800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上个交易日维持不变，当前持仓量为1067.13吨。",
+          "url": "https://flash.jin10.com/detail/20260109073041376800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -27,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 11时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 12时46分]"
         }
       ]
     },
@@ -50,19 +78,19 @@
       ]
     },
     {
-      "keyword_group": "黄金ETF",
+      "keyword_group": "白银ETF",
       "match_count": 1,
       "titles": [
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上个交易日维持不变，当前持仓量为1067.13吨。",
-          "url": "https://flash.jin10.com/detail/20260109073041376800",
+          "title": "金十图示：2026年01月09日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260109115551752800",
           "source": "金十数据",
           "ranks": [
-            29
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
         }
       ]
     },
