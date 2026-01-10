@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T13:02:47.053074+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-01-10T13:58:36.244694+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时58分]"
         },
         {
           "title": "金价波动",
@@ -38,11 +39,12 @@
           "source": "微博",
           "ranks": [
             10,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时58分]"
         },
         {
           "title": "去年金价狂飙美元贬值 美元信用裂痕扩大产加速去美元化",
