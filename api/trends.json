@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T17:31:55.678080+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-01-10T17:59:08.485452+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 11时51分]"
+        },
+        {
+          "title": "金价飙涨美元一跌再跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E7%BE%8E%E5%85%83%E4%B8%80%E8%B7%8C%E5%86%8D%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 17时59分]"
         }
       ]
     },
