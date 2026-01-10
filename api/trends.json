@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T14:42:51.309937+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-01-10T15:02:02.729611+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             11,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 15时02分]"
         },
         {
           "title": "金价",
@@ -29,11 +30,12 @@
             10,
             7,
             24,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 15时02分]"
         },
         {
           "title": "金价波动",
