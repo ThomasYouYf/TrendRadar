@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T17:32:00.821991+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-01-11T17:58:30.376067+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             5,
             14,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时58分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时58分 ~ 17时58分]"
         },
         {
           "title": "金价飙升银行紧急提示",
@@ -63,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时01分 ~ 17时32分]"
+          "appearance_count": 21,
+          "time_info": "[01时01分 ~ 17时58分]"
         }
       ]
     }
