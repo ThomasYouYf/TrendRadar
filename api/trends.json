@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T17:58:30.376067+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-01-11T18:32:23.151139+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价将走向何方",
@@ -32,8 +32,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 17时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 18时32分]"
         },
         {
           "title": "金价新高不断 还能上车吗",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "金价飙升 多家银行公告提醒",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     },
@@ -64,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时01分 ~ 17时58分]"
+          "appearance_count": 22,
+          "time_info": "[01时01分 ~ 18时32分]"
         }
       ]
     }
