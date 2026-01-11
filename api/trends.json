@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T18:58:37.165351+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-01-11T19:25:57.652520+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时25分]"
         },
         {
           "title": "金价新高不断 还能上车吗",
@@ -74,11 +75,12 @@
             11,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时01分 ~ 18时58分]"
+          "appearance_count": 24,
+          "time_info": "[01时01分 ~ 19时25分]"
         }
       ]
     }
