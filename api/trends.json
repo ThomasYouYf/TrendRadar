@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T22:29:43.702447+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-01-11T22:58:58.276972+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             28,
             29,
             24,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时32分 ~ 22时29分]"
+          "appearance_count": 12,
+          "time_info": "[18时32分 ~ 22时58分]"
         },
         {
           "title": "金价飙升银行紧急提示",
@@ -78,11 +79,12 @@
             8,
             7,
             6,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[01时01分 ~ 22时29分]"
+          "appearance_count": 33,
+          "time_info": "[01时01分 ~ 22时58分]"
         },
         {
           "title": "摩根士丹利中国首席经济学家邢自强：未来行业配置展望方面，在当前形势下，高科技行业成为结构性赛道机会。 人工智能、生物制药、人形机器人等领域作为亮点，技术创新动能强劲，有望持续吸引市场关注。",
