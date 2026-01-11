@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T17:01:42.883018+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-01-11T17:32:00.821991+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             5,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时58分 ~ 17时01分]"
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 17时32分]"
         },
         {
           "title": "金价飙升银行紧急提示",
@@ -26,11 +27,12 @@
           "source": "微博",
           "ranks": [
             30,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时01分]"
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 17时32分]"
         },
         {
           "title": "金价新高不断 还能上车吗",
@@ -61,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时01分 ~ 17时01分]"
+          "appearance_count": 20,
+          "time_info": "[01时01分 ~ 17时32分]"
         }
       ]
     }
