@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T18:03:14.049678+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-01-12T19:02:12.086964+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -112,11 +112,40 @@
           "url": "https://wallstreetcn.com/livenews/3035161",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 19时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
+          "url": "https://www.cls.cn/detail/2253876",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 03时02分]"
+        },
+        {
+          "title": "星环科技：截至本公告披露日，公司并不实际开展商业航天业务且与上海星环聚能科技有限公司无关。公司目前正就AI数据库等相关技术开展前期研发与联合调优，上述工作尚处于初期探索阶段，相关技术方案、应用场景及市场效益均存在不确定性，暂未对公司业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3035220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
+          "time_info": "[19时01分 ~ 19时02分]"
         }
       ]
     },
@@ -205,23 +234,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时20分 ~ 18时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
-          "url": "https://www.cls.cn/detail/2253876",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 03时02分]"
         }
       ]
     }
