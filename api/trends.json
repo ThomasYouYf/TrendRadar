@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T14:02:51.511709+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-01-12T15:18:22.300930+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 15时18分]"
         },
         {
           "title": "金价",
