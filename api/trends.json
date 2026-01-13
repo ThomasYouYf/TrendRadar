@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:47:16.224137+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-01-13T13:16:48.881071+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 12时47分]"
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 13时16分]"
         },
         {
           "title": "上证指数开盘报4169.70点，涨0.11%。 深证成指开盘报14397.68点，涨0.21%。 创业板指开盘报3390.69点，涨0.07%。 沪深300开盘报4798.05点，涨0.17%。 科创50开盘报1508.18点，跌0.24%。 中证500开盘报8270.42点，涨0.26%。 中证1000开盘报8381.04点，涨0.29%。",
@@ -86,11 +87,12 @@
           "url": "https://flash.jin10.com/detail/20260113115147556800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 13时16分]"
         }
       ]
     },
@@ -137,11 +139,12 @@
           "url": "https://flash.jin10.com/detail/20260113115206121800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 13时16分]"
         }
       ]
     },
