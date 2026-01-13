@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T21:07:07.004987+08:00",
-  "total_titles_processed": 1848,
+  "generated_at": "2026-01-13T22:14:03.943045+08:00",
+  "total_titles_processed": 1962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "工信部：实施工业互联网与人工智能融合赋能行动 推动人工智能技术在工业全链条渗透",
@@ -30,11 +30,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时16分 ~ 21时07分]"
+          "appearance_count": 11,
+          "time_info": "[17时16分 ~ 22时14分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -42,11 +43,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 21时07分]"
+          "appearance_count": 6,
+          "time_info": "[19时02分 ~ 22时14分]"
         },
         {
           "title": "工信部：实施工业互联网与人工智能融合赋能行动 推动人工智能技术在工业全链条渗透",
@@ -60,6 +62,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时58分 ~ 17时17分]"
+        },
+        {
+          "title": "语音人工智能技术初创公司Deepgram周二表示，该公司以13亿美元估值筹集了1.3亿美元资金，计划拓展国际市场、推出新型号并进行收购。",
+          "url": "https://flash.jin10.com/detail/20260113215643064800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
@@ -109,8 +122,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时16分 ~ 21时07分]"
+          "appearance_count": 11,
+          "time_info": "[17时16分 ~ 22时14分]"
         },
         {
           "title": "上证指数早盘收报4163.84点，跌0.03%。 深证成指早盘收报14321.80点，跌0.31%。 创业板指早盘收报3360.23点，跌0.83%。 沪深300早盘收报4790.55点，涨0.01%。 科创50早盘收报1485.01点，跌1.77%。 中证500早盘收报8227.18点，跌0.27%。 中证1000早盘收报8297.84点，跌0.71%。",
