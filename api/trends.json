@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T02:01:46.357890+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-01-14T02:47:55.894886+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时47分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 02时47分]"
         }
       ]
     },
@@ -43,11 +44,12 @@
           "source": "微博",
           "ranks": [
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 02时47分]"
         }
       ]
     },
@@ -63,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 02时47分]"
         }
       ]
     },
