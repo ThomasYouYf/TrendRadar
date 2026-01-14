@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T22:14:30.383937+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2026-01-14T23:04:00.699246+08:00",
+  "total_titles_processed": 2051,
   "failed_sources": [],
   "trends": [
     {
@@ -175,8 +175,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时42分 ~ 22时14分]"
+          "appearance_count": 12,
+          "time_info": "[16时42分 ~ 23时04分]"
         },
         {
           "title": "白银价格再创新高 核心逻辑是什么",
@@ -188,6 +188,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时06分 ~ 21时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌1.05%，可选消费ETF跌0.93%，科技行业ETF跌0.82%，全球科技股指数ETF、网络股指数ETF至多跌0.69%，银行业ETF跌0.46%，能源ETF涨0.91%。",
+          "url": "https://wallstreetcn.com/livenews/3037136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，能源业ETF涨1.27%，网络股指数ETF涨0.58%，半导体ETF涨0.42%，科技行业ETF涨幅不到0.1%，银行业ETF跌超0.2%，金融业ETF跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3036251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 00时04分]"
         }
       ]
     },
@@ -222,23 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时40分 ~ 19时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "行业ETF美股盘初涨跌各异，能源业ETF涨1.27%，网络股指数ETF涨0.58%，半导体ETF涨0.42%，科技行业ETF涨幅不到0.1%，银行业ETF跌超0.2%，金融业ETF跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3036251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
         }
       ]
     }
