@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T21:07:06.027367+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2026-01-14T22:14:30.383937+08:00",
+  "total_titles_processed": 1960,
   "failed_sources": [],
   "trends": [
     {
@@ -171,11 +171,12 @@
             13,
             14,
             4,
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时42分 ~ 21时07分]"
+          "appearance_count": 10,
+          "time_info": "[16时42分 ~ 22时14分]"
         },
         {
           "title": "白银价格再创新高 核心逻辑是什么",
