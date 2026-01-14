@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-01-14T10:11:16.274892+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-01-14T12:04:11.080390+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 02时47分]"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）上海金早盘价为1033.73元/克，较国际金价（1036.81元/克）低3.08元/克",
+          "url": "https://flash.jin10.com/detail/20260114110243081800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 12时04分]"
+        }
+      ]
+    },
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 2,
@@ -15,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 10时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 12时04分]"
         },
         {
           "title": "上证指数开盘报4138.65点，跌0.00%。 深证成指开盘报14194.11点，涨0.17%。 创业板指开盘报3333.17点，涨0.34%。 沪深300开盘报4767.70点，涨0.14%。 科创50开盘报1479.30点，涨0.66%。 中证500开盘报8165.35点，涨0.27%。 中证1000开盘报8204.28点，涨0.01%。",
@@ -61,25 +91,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 03时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时47分]"
         }
       ]
     },
