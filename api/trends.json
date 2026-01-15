@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-01-15T03:11:18.245592+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-01-15T10:06:06.969920+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国内首只千亿黄金ETF诞生",
+          "url": "https://wallstreetcn.com/livenews/3037436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "银价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际银价短线极速下挫",
+          "url": "https://flash.jin10.com/detail/20260115093118849800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
