@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-15T11:59:06.263889+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-01-15T12:50:19.764709+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
+          "url": "https://flash.jin10.com/detail/20260115110344751800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "金价上涨 银行保管箱“一箱难求”",
+          "url": "https://www.toutiao.com/trending/7595232648327495722/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        }
+      ]
+    },
     {
       "keyword_group": "黄金ETF",
       "match_count": 2,
@@ -12,11 +40,12 @@
           "url": "https://flash.jin10.com/detail/20260115115134872800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 12时50分]"
         },
         {
           "title": "国内首只千亿黄金ETF诞生",
@@ -29,23 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 10时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
-          "url": "https://flash.jin10.com/detail/20260115110344751800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
         }
       ]
     },
@@ -75,11 +87,12 @@
           "url": "https://flash.jin10.com/detail/20260115115147700800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 12时50分]"
         }
       ]
     }
