@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T01:22:29.869628+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-16T02:21:15.596250+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -15,8 +15,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时21分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时22分]"
+          "time_info": "[02时20分 ~ 02时21分]"
         }
       ]
     },
@@ -32,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时21分]"
         }
       ]
     }
