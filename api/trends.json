@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T21:04:38.244204+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2026-01-16T22:03:04.704923+08:00",
+  "total_titles_processed": 1931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -54,6 +54,17 @@
           "time_info": "[16时41分 ~ 16时42分]"
         },
         {
+          "title": "美国经济数据强于预期、地缘局势缓和 金价周五延续跌势",
+          "url": "https://flash.jin10.com/detail/20260116212555636800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "金十图示：2026年01月16日（周五）上海金午盘价为1032.44元/克，较国际金价（1032.22元/克）高0.22元/克",
           "url": "https://flash.jin10.com/detail/20260116152016994800",
           "source": "金十数据",
@@ -79,7 +90,7 @@
     },
     {
       "keyword_group": "银价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -93,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时56分 ~ 21时04分]"
+          "appearance_count": 16,
+          "time_info": "[11时56分 ~ 22时03分]"
         },
         {
           "title": "银价也杀疯了",
@@ -112,6 +123,17 @@
           "time_info": "[14时49分 ~ 17时59分]"
         },
         {
+          "title": "美指走高和特朗普对伊威胁缓解推动金银价格双双下跌",
+          "url": "https://flash.jin10.com/detail/20260116214827667800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "光伏厂称银价让原料价格涨近两成",
           "url": "https://wallstreetcn.com/livenews/3038738",
           "source": "华尔街见闻-快讯",
@@ -123,6 +145,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时01分 ~ 19时59分]"
+        },
+        {
+          "title": "如何看待白银价格的猛烈上涨",
+          "url": "https://www.toutiao.com/trending/7595891580150484486/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         }
       ]
     },
@@ -188,6 +221,23 @@
       ]
     },
     {
+      "keyword_group": "新质生产力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家能源局：2026年要加快培育电力安全新质生产力",
+          "url": "https://wallstreetcn.com/livenews/3038835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金ETF",
       "match_count": 1,
       "titles": [
@@ -220,6 +270,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时45分 ~ 13时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普暂缓对关键矿产进口征收新关税 白银市场出现获利了结和价格回撤",
+          "url": "https://flash.jin10.com/detail/20260116215118029800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         }
       ]
     },
