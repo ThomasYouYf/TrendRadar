@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T17:14:41.791557+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2026-01-16T17:59:58.878245+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
@@ -82,20 +82,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "银价也杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E4%BB%B7%E4%B9%9F%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            2,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时49分 ~ 17时14分]"
-        },
-        {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
           "url": "https://wallstreetcn.com/articles/3763411",
           "source": "华尔街见闻",
@@ -106,8 +92,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时56分 ~ 17时14分]"
+          "appearance_count": 9,
+          "time_info": "[11时56分 ~ 17时59分]"
+        },
+        {
+          "title": "银价也杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E4%BB%B7%E4%B9%9F%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            2,
+            4,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时49分 ~ 17时59分]"
         }
       ]
     },
