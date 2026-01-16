@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T16:42:11.107508+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-01-16T17:14:41.791557+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
@@ -88,11 +88,12 @@
           "ranks": [
             19,
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时49分 ~ 16时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时49分 ~ 17时14分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -101,11 +102,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时56分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时56分 ~ 17时14分]"
         }
       ]
     },
