@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T15:59:23.194523+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-01-16T16:42:11.107508+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -43,13 +43,24 @@
           "time_info": "[09时21分 ~ 10时07分]"
         },
         {
+          "title": "金价飙升后银行保管箱出现「一箱难求」，部分银行租箱排队已排到一年后，投资者该如何安全存放黄金资产？",
+          "url": "https://www.zhihu.com/question/1995155168442996449",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
           "title": "金十图示：2026年01月16日（周五）上海金午盘价为1032.44元/克，较国际金价（1032.22元/克）高0.22元/克",
           "url": "https://flash.jin10.com/detail/20260116152016994800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -80,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 15时59分]"
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 16时42分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -93,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 15时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时56分 ~ 16时42分]"
         }
       ]
     },
