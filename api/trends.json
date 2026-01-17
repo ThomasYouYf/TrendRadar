@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-01-17T13:58:56.126448+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-01-17T14:43:37.751192+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
+          "url": "https://flash.jin10.com/detail/20260117140618013800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时22分]"
+        }
+      ]
+    },
     {
       "keyword_group": "银价",
       "match_count": 2,
@@ -46,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时43分]"
         },
         {
           "title": "美股三大指数小幅收跌 美光收涨近8%",
@@ -59,24 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时22分]"
         }
       ]
     },
@@ -114,11 +125,12 @@
             16,
             17,
             20,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时43分]"
         }
       ]
     }
