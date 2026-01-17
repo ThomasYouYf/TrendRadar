@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T21:35:29.094077+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-01-17T21:59:21.164746+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -82,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[10时01分 ~ 21时35分]"
+          "appearance_count": 25,
+          "time_info": "[10时01分 ~ 21时59分]"
         },
         {
           "title": "美股三大指数小幅收跌 美光收涨近8%",
