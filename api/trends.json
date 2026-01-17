@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T12:22:52.007096+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-01-17T13:02:50.372964+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时02分]"
         },
         {
           "title": "美股三大指数小幅收跌 美光收涨近8%",
@@ -90,11 +90,12 @@
           "ranks": [
             10,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时02分]"
         }
       ]
     },
@@ -109,11 +110,12 @@
           "ranks": [
             7,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时02分]"
         }
       ]
     }
