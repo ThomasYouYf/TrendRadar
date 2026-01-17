@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T15:59:07.423134+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-01-17T16:37:33.609143+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 15时59分]"
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 16时37分]"
         },
         {
           "title": "金价波动",
@@ -77,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 15时59分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 16时37分]"
         },
         {
           "title": "美股三大指数小幅收跌 美光收涨近8%",
