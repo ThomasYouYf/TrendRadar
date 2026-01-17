@@ -1,143 +1,22 @@
 {
-  "generated_at": "2026-01-17T23:59:25.216798+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2026-01-18T00:34:58.027517+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
-          "url": "https://flash.jin10.com/detail/20260117140618013800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            14,
-            19,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时43分 ~ 17时31分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时12分]"
-        },
-        {
-          "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
-          "url": "https://wallstreetcn.com/articles/3763450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 03时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
           "url": "https://www.cls.cn/detail/2260993",
           "source": "财联社热门",
           "ranks": [
-            3,
-            5,
-            6,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[10时01分 ~ 23时59分]"
-        },
-        {
-          "title": "美股三大指数小幅收跌 美光收涨近8%",
-          "url": "https://flash.jin10.com/detail/20260117050027802800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大黄金ETF持仓较上日大增10.87吨",
-          "url": "https://flash.jin10.com/detail/20260117083736096800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19,
-            20,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 13时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加11.28吨，当前持仓量为16073.06吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20260117090003780800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16,
-            17,
-            20,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 14时43分]"
+          "time_info": "00时34分"
         }
       ]
     }
