@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T02:47:18.860117+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-01-20T03:11:34.090495+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "财晓得丨金价涨成这样，到什么位置了？",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 03时11分]"
         }
       ]
     },
@@ -68,8 +68,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时11分]"
         }
       ]
     }
