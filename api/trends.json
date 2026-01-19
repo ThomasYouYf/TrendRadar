@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T17:22:18.046119+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-01-19T18:04:10.506568+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -120,6 +120,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "场内价格突破前高！白银LOF溢价重返30%，年内高涨基金扫描，这些方向扎堆聚集",
+          "url": "https://www.cls.cn/detail/2262323",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
         }
       ]
     },
