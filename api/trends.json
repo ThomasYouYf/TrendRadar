@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T02:03:07.538402+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-01-21T04:03:22.711546+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E4%BA%89%E7%AB%AF%E4%B8%BA%E5%95%A5%E4%BC%9A%E6%8E%A8%E9%AB%98%E9%87%91%E4%BB%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时03分]"
         },
         {
           "title": "金价",
@@ -28,8 +29,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时03分]"
         }
       ]
     },
