@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T01:18:37.039074+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-01-21T02:03:07.538402+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时03分]"
         },
         {
           "title": "金价",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             6,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时03分]"
         }
       ]
     },
