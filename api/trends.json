@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T18:03:42.400231+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2026-01-20T19:13:34.786066+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时13分 ~ 18时03分]"
+          "appearance_count": 21,
+          "time_info": "[01时13分 ~ 19时13分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -41,11 +41,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B4%E6%AF%8F%E7%9B%8E%E5%8F%B84700%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时13分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
