@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T15:19:01.024925+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-01-20T16:01:25.782736+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时13分 ~ 15时19分]"
+          "appearance_count": 17,
+          "time_info": "[01时13分 ~ 16时01分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -134,6 +134,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 15时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "卡塔尔央行行长：由人工智能等技术引发的运营风险应被视为审慎风险，其重要性与资本风险不相上下。",
+          "url": "https://flash.jin10.com/detail/20260120154206011800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时01分]"
         }
       ]
     }
