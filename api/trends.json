@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T18:03:29.598743+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-01-21T19:13:29.729651+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             13,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时18分 ~ 18时03分]"
+          "appearance_count": 8,
+          "time_info": "[15时18分 ~ 19时13分]"
         },
         {
           "title": "金价",
@@ -120,9 +121,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NVIDIA 英伟达 AMD @3",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达CEO黄仁勋：人工智能将有助于缩小发达经济体与新兴经济体之间的技术鸿沟。",
+          "url": "https://flash.jin10.com/detail/20260121185920177800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：与以往的技术进步相比，人工智能更容易理解。",
+          "url": "https://flash.jin10.com/detail/20260121184354050800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     },
@@ -137,7 +166,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -148,7 +177,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         }
