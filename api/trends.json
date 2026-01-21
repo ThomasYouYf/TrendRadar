@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T15:19:00.224574+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-01-21T16:02:35.853239+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -56,22 +56,23 @@
           "time_info": "[12时02分 ~ 14时02分]"
         },
         {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时02分]"
+        },
+        {
           "title": "金十图示：2026年01月21日（周三）上海金午盘价为1088.51元/克，较国际金价(1084.57元/克)，高3.94元/克",
           "url": "https://flash.jin10.com/detail/20260121150154381800",
           "source": "金十数据",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时19分]"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
