@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T16:02:35.853239+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-01-21T16:48:11.328750+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,19 @@
           "time_info": "[00时18分 ~ 10时10分]"
         },
         {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 16时48分]"
+        },
+        {
           "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
           "url": "https://www.zhihu.com/question/1996659800252118065",
           "source": "知乎",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时02分 ~ 14时02分]"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时02分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）上海金午盘价为1088.51元/克，较国际金价(1084.57元/克)，高3.94元/克",
