@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T03:18:42.115818+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-01-22T09:51:12.027920+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 03时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "银价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "银价大跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
         }
       ]
     },
