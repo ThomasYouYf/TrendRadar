@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-22T19:59:55.185194+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-01-22T21:11:35.736344+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 8,
       "titles": [
+        {
+          "title": "男子趁金价高涨出手500克金条",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 21时11分]"
+        },
         {
           "title": "男子趁金价高涨出手500克金条",
           "url": "https://www.toutiao.com/trending/7597071093045166107/",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时59分 ~ 16时49分]"
-        },
-        {
-          "title": "男子趁金价高涨出手500克金条",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 19时59分]"
         },
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
