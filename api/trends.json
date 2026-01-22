@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T14:02:21.698273+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-01-22T15:17:27.815911+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             12,
             13,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时17分]"
         },
         {
           "title": "高盛上调年底金价目标至5400美元 央行需求持续增强",
