@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T19:03:06.829169+08:00",
-  "total_titles_processed": 1785,
+  "generated_at": "2026-01-23T19:59:41.798180+08:00",
+  "total_titles_processed": 1884,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             26,
             23,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 19时59分]"
         },
         {
           "title": "国际金价银价同创历史新高",
@@ -163,8 +164,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时07分 ~ 19时03分]"
+          "appearance_count": 17,
+          "time_info": "[10时07分 ~ 19时59分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
