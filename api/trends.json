@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T14:02:02.674487+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-01-23T14:52:45.541919+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "ranks": [
             18,
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 14时52分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
@@ -188,11 +189,12 @@
           "url": "https://www.toutiao.com/trending/7598386191951466003/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 14时52分]"
         }
       ]
     }
