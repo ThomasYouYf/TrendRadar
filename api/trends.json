@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T21:08:25.549708+08:00",
-  "total_titles_processed": 1969,
+  "generated_at": "2026-01-23T22:14:56.146477+08:00",
+  "total_titles_processed": 2073,
   "failed_sources": [],
   "trends": [
     {
@@ -65,7 +65,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -87,7 +87,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         }
@@ -184,11 +184,12 @@
             18,
             20,
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时07分 ~ 21时08分]"
+          "appearance_count": 19,
+          "time_info": "[10时07分 ~ 22时14分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
