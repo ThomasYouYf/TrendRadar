@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:14:56.146477+08:00",
-  "total_titles_processed": 2073,
+  "generated_at": "2026-01-23T23:04:01.222739+08:00",
+  "total_titles_processed": 2153,
   "failed_sources": [],
   "trends": [
     {
@@ -248,6 +248,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股开盘，道指开跌0.24%，标普500指数跌0.08%，纳指平开。受消息面刺激，英伟达(NVDA.O)涨1.4%，AMD(AMD.O)涨4.3%。英特尔(INTC.O)大跌13%，，创自2024年8月以来最大跌幅，公司2025年Q4营收不及预期。",
+          "url": "https://flash.jin10.com/detail/20260123223026811800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
         }
       ]
     },
