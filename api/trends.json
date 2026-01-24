@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T21:59:13.970403+08:00",
-  "total_titles_processed": 1479,
+  "generated_at": "2026-01-24T22:31:41.731010+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
@@ -116,22 +116,24 @@
             15,
             14,
             13,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时32分 ~ 21时59分]"
+          "appearance_count": 12,
+          "time_info": "[18时32分 ~ 22时31分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
           "url": "https://www.toutiao.com/trending/7598709483937730099/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 21时59分]"
+          "appearance_count": 5,
+          "time_info": "[21时38分 ~ 22时31分]"
         }
       ]
     },
@@ -150,8 +152,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[16时37分 ~ 21时59分]"
+          "appearance_count": 18,
+          "time_info": "[16时37分 ~ 22时31分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -183,11 +185,12 @@
             3,
             7,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时58分 ~ 21时59分]"
+          "appearance_count": 8,
+          "time_info": "[19时58分 ~ 22时31分]"
         }
       ]
     },
@@ -244,8 +247,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[10时04分 ~ 21时59分]"
+          "appearance_count": 26,
+          "time_info": "[10时04分 ~ 22时31分]"
         }
       ]
     }
