@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T22:31:41.731010+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-01-24T22:59:25.061470+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -120,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时32分 ~ 22时31分]"
+          "appearance_count": 13,
+          "time_info": "[18时32分 ~ 22时59分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -132,8 +132,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时38分 ~ 22时31分]"
+          "appearance_count": 6,
+          "time_info": "[21时38分 ~ 22时59分]"
         }
       ]
     },
@@ -152,8 +152,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[16时37分 ~ 22时31分]"
+          "appearance_count": 19,
+          "time_info": "[16时37分 ~ 22时59分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -186,11 +186,12 @@
             7,
             10,
             16,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时58分 ~ 22时31分]"
+          "appearance_count": 9,
+          "time_info": "[19时58分 ~ 22时59分]"
         }
       ]
     },
@@ -247,8 +248,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[10时04分 ~ 22时31分]"
+          "appearance_count": 27,
+          "time_info": "[10时04分 ~ 22时59分]"
         }
       ]
     }
