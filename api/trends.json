@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T19:59:12.989485+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-01-24T20:59:32.371971+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
@@ -119,8 +119,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时37分 ~ 19时59分]"
+          "appearance_count": 13,
+          "time_info": "[16时37分 ~ 20时59分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -149,11 +149,12 @@
           "url": "https://wallstreetcn.com/livenews/3043277",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 19时59分]"
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 20时59分]"
         }
       ]
     },
@@ -171,8 +172,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时32分 ~ 19时59分]"
+          "appearance_count": 7,
+          "time_info": "[18时32分 ~ 20时59分]"
         }
       ]
     },
@@ -229,8 +230,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时04分 ~ 19时59分]"
+          "appearance_count": 21,
+          "time_info": "[10时04分 ~ 20时59分]"
         }
       ]
     }
