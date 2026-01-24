@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T19:26:47.464383+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-01-24T19:59:12.989485+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -119,8 +119,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 19时26分]"
+          "appearance_count": 12,
+          "time_info": "[16时37分 ~ 19时59分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -141,6 +141,23 @@
       ]
     },
     {
+      "keyword_group": "新质生产力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国稀土集团：统筹稀土经济价值与战略价值，以科技创新培育新质生产力",
+          "url": "https://wallstreetcn.com/livenews/3043277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -154,8 +171,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时32分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[18时32分 ~ 19时59分]"
         }
       ]
     },
@@ -208,11 +225,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时04分 ~ 19时26分]"
+          "appearance_count": 20,
+          "time_info": "[10时04分 ~ 19时59分]"
         }
       ]
     }
