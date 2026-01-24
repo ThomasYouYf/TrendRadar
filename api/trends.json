@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T17:32:26.560760+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-01-24T17:59:09.267949+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -117,11 +117,12 @@
             7,
             18,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 17时59分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -129,11 +130,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 17时59分]"
         }
       ]
     },
@@ -188,8 +190,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时04分 ~ 17时32分]"
+          "appearance_count": 14,
+          "time_info": "[10时04分 ~ 17时59分]"
         }
       ]
     }
