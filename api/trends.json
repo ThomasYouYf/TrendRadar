@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T01:28:57.825409+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-01-25T01:58:59.665882+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 01时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 01时58分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -27,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 01时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 01时58分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 01时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 01时58分]"
         }
       ]
     },
@@ -61,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 01时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 01时58分]"
         }
       ]
     },
@@ -75,11 +75,12 @@
           "url": "https://www.cls.cn/detail/2268603",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 01时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 01时58分]"
         }
       ]
     }
