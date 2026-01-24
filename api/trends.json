@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T01:00:51.153501+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-01-25T01:28:57.825409+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -27,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 01时28分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 01时28分]"
         }
       ]
     },
@@ -61,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 01时28分]"
         }
       ]
     },
@@ -78,8 +78,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 01时28分]"
         }
       ]
     }
