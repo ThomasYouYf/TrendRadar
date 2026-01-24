@@ -1,109 +1,8 @@
 {
-  "generated_at": "2026-01-24T23:59:15.440488+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-01-25T00:36:51.425021+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "银价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "白银价格持续上涨，工厂加班赶制投资银条",
-          "url": "https://wallstreetcn.com/livenews/3043095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 03时17分]"
-        },
-        {
-          "title": "白银价格攻破100美元里程碑 地缘政治动荡及降息预期推动贵金属价格屡创新高",
-          "url": "https://flash.jin10.com/detail/20260124013658761800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 03时17分]"
-        },
-        {
-          "title": "马来西亚工程公司Solarvest Holdings Bhd.（SOLAR.MK）收跌4.27%，报2.69，今年迄今累计下跌18.48%。 Maybank分析师Thong Kei Jun警告称，白银价格飙涨恐怕会推高该公司的光伏面板成本。",
-          "url": "https://wallstreetcn.com/livenews/3043065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 03时17分]"
-        },
-        {
-          "title": "全球动荡推升避险需求 白银价格突破100美元关口",
-          "url": "https://flash.jin10.com/detail/20260124001520754800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时59分]"
-        },
-        {
-          "title": "现货金银价格短线大幅回落",
-          "url": "https://flash.jin10.com/detail/20260124015900815800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 03时17分]"
-        },
-        {
-          "title": "现货金银价格短线回落",
-          "url": "https://flash.jin10.com/detail/20260124015559896800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 03时17分]"
-        },
-        {
-          "title": "在地缘政治消息不断涌现下 银价突破每盎司100美元大关",
-          "url": "https://flash.jin10.com/detail/20260123232551006800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "国际银价突破100美元历史性关口",
-          "url": "https://www.toutiao.com/trending/7598696911612169770/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        }
-      ]
-    },
     {
       "keyword_group": "金价",
       "match_count": 2,
@@ -113,63 +12,22 @@
           "url": "https://www.zhihu.com/question/1997605038588129408",
           "source": "知乎",
           "ranks": [
-            15,
-            14,
-            13,
-            7,
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[18时32分 ~ 23时59分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "金价疯涨的底层逻辑",
           "url": "https://www.toutiao.com/trending/7598709483937730099/",
           "source": "今日头条",
           "ranks": [
-            6,
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[21时38分 ~ 23时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
-          "url": "https://www.cls.cn/detail/2268603",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[16时37分 ~ 23时59分]"
-        },
-        {
-          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
-          "url": "https://wallstreetcn.com/livenews/3043236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            18,
-            22,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时02分 ~ 17时59分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     },
@@ -182,55 +40,11 @@
           "url": "https://wallstreetcn.com/livenews/3043277",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            7,
-            10,
-            16,
-            20,
-            24,
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[19时58分 ~ 23时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加6.87吨，当前持仓量为1086.53吨。",
-          "url": "https://flash.jin10.com/detail/20260124081634349800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 13时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少14.1吨，当前持仓量为16089.98吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20260124082117038800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 13时03分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     },
@@ -243,14 +57,28 @@
           "url": "https://www.cls.cn/detail/2268496",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4,
-            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[10时04分 ~ 23时59分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
+          "url": "https://www.cls.cn/detail/2268603",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
