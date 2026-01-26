@@ -1,22 +1,56 @@
 {
-  "generated_at": "2026-01-26T08:58:24.094238+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-01-26T10:24:11.890226+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金价突破5000美元关口",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 10时24分]"
+        },
+        {
+          "title": "金价首破5000美元，分析师：避险潮推动下“涨势势不可挡”",
+          "url": "https://flash.jin10.com/detail/20260126094903755800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260126094037137800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "国际金价疯涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
         }
       ]
     },
