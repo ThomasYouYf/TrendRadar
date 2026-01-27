@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T15:34:28.583443+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-01-27T16:01:58.989526+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时20分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[10时20分 ~ 16时01分]"
         },
         {
           "title": "贵金属狂飙：现货银价一度站上117美元 全球资金在躲什么？",
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 16时01分]"
         },
         {
           "title": "银价疯涨有银饰店干不下去了",
@@ -175,11 +175,12 @@
           "url": "https://flash.jin10.com/detail/20260127151448862800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时01分]"
         },
         {
           "title": "水贝首饰金价一天涨超20元",
@@ -227,6 +228,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "上证指数收报4139.90点，涨0.18%。 深证成指收报14329.91点，涨0.09%。 创业板指收报3342.60点，涨0.71%。 沪深300收报4705.69点，跌0.03%。 科创50收报1555.98点，涨1.51%。 中证500收报8548.93点，涨0.50%。 中证1000收报8382.15点，涨0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3044525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时01分]"
+        },
+        {
           "title": "上证指数早盘收报4134.03点，涨0.03%。 深证成指早盘收报14262.96点，跌0.37%。 创业板指早盘收报3333.91点，涨0.44%。 沪深300早盘收报4720.86点，涨0.30%。 科创50早盘收报1541.52点，涨0.57%。 中证500早盘收报8449.83点，跌0.67%。 中证1000早盘收报8273.26点，跌1.10%。",
           "url": "https://wallstreetcn.com/livenews/3044419",
           "source": "华尔街见闻-快讯",
@@ -236,17 +249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
-        },
-        {
-          "title": "上证指数收报4139.90点，涨0.18%。 深证成指收报14329.91点，涨0.09%。 创业板指收报3342.60点，涨0.71%。 沪深300收报4705.69点，跌0.03%。 科创50收报1555.98点，涨1.51%。 中证500收报8548.93点，涨0.50%。 中证1000收报8382.15点，涨0.20%。",
-          "url": "https://wallstreetcn.com/livenews/3044525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         }
       ]
     },
