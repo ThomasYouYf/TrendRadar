@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T13:18:44.545902+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-01-27T14:02:09.685339+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 09时14分]"
+        },
+        {
+          "title": "金价银价巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时20分 ~ 14时02分]"
         },
         {
           "title": "金价",
@@ -57,24 +69,13 @@
           "time_info": "[09时14分 ~ 12时03分]"
         },
         {
-          "title": "金价银价巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时18分]"
-        },
-        {
           "title": "水贝首饰金价一天涨超20元",
           "url": "https://wallstreetcn.com/livenews/3044438",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         }
@@ -84,6 +85,19 @@
       "keyword_group": "银价",
       "match_count": 6,
       "titles": [
+        {
+          "title": "白银走势颇似模因股？前小摩策略师警告：银价恐较当前水平腰斩",
+          "url": "https://www.cls.cn/detail/2270578",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时20分 ~ 14时02分]"
+        },
         {
           "title": "贵金属狂飙：现货银价一度站上117美元 全球资金在躲什么？",
           "url": "https://www.cls.cn/detail/2270462",
@@ -95,19 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时14分 ~ 12时03分]"
-        },
-        {
-          "title": "白银走势颇似模因股？前小摩策略师警告：银价恐较当前水平腰斩",
-          "url": "https://www.cls.cn/detail/2270578",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时18分]"
         },
         {
           "title": "银价疯涨有银饰店干不下去了",
