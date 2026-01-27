@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T14:53:37.020344+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-01-27T15:34:28.583443+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             13,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时20分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时20分 ~ 15时34分]"
         },
         {
           "title": "贵金属狂飙：现货银价一度站上117美元 全球资金在躲什么？",
@@ -32,6 +33,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时14分 ~ 12时03分]"
+        },
+        {
+          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
+          "url": "https://www.zhihu.com/question/1999391504246990744",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 15时34分]"
         },
         {
           "title": "银价疯涨有银饰店干不下去了",
@@ -52,18 +65,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
-          "url": "https://www.zhihu.com/question/1999391504246990744",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -104,7 +106,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -169,6 +171,17 @@
           "time_info": "[09时14分 ~ 12时03分]"
         },
         {
+          "title": "银行家们表示，土耳其央行上周买入了近20亿美元，其中约65亿美元的增幅源于金价变动。",
+          "url": "https://flash.jin10.com/detail/20260127151448862800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "水贝首饰金价一天涨超20元",
           "url": "https://wallstreetcn.com/livenews/3044438",
           "source": "华尔街见闻-快讯",
@@ -206,6 +219,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4134.03点，涨0.03%。 深证成指早盘收报14262.96点，跌0.37%。 创业板指早盘收报3333.91点，涨0.44%。 沪深300早盘收报4720.86点，涨0.30%。 科创50早盘收报1541.52点，涨0.57%。 中证500早盘收报8449.83点，跌0.67%。 中证1000早盘收报8273.26点，跌1.10%。",
+          "url": "https://wallstreetcn.com/livenews/3044419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "上证指数收报4139.90点，涨0.18%。 深证成指收报14329.91点，涨0.09%。 创业板指收报3342.60点，涨0.71%。 沪深300收报4705.69点，跌0.03%。 科创50收报1555.98点，涨1.51%。 中证500收报8548.93点，涨0.50%。 中证1000收报8382.15点，涨0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3044525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
@@ -275,23 +316,6 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4134.03点，涨0.03%。 深证成指早盘收报14262.96点，跌0.37%。 创业板指早盘收报3333.91点，涨0.44%。 沪深300早盘收报4720.86点，涨0.30%。 科创50早盘收报1541.52点，涨0.57%。 中证500早盘收报8449.83点，跌0.67%。 中证1000早盘收报8273.26点，跌1.10%。",
-          "url": "https://wallstreetcn.com/livenews/3044419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI",
       "match_count": 1,
       "titles": [
@@ -302,7 +326,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         }
