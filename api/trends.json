@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T21:12:20.714300+08:00",
-  "total_titles_processed": 1884,
+  "generated_at": "2026-01-27T22:20:05.827393+08:00",
+  "total_titles_processed": 1980,
   "failed_sources": [],
   "trends": [
     {
@@ -167,8 +167,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时53分 ~ 21时12分]"
+          "appearance_count": 13,
+          "time_info": "[14时53分 ~ 22时20分]"
         },
         {
           "title": "中国外汇投资研究院研究总监：银价短期或跌回90美元之下",
@@ -213,7 +213,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -298,7 +298,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         }
