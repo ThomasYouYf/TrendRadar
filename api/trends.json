@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T13:18:56.746367+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-01-28T14:03:21.247295+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 13时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 14时03分]"
         },
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 14时03分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时03分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 14时03分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -53,8 +53,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时03分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -65,8 +65,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时03分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         },
         {
           "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
@@ -126,6 +137,23 @@
       ]
     },
     {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金相关ETF规模快速攀升 华安黄金ETF规模突破1200亿",
+          "url": "https://wallstreetcn.com/livenews/3045299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银ETF",
       "match_count": 1,
       "titles": [
@@ -136,7 +164,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         }
