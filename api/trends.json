@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:49:43.365712+08:00",
-  "total_titles_processed": 1891,
+  "generated_at": "2026-01-29T22:31:47.129924+08:00",
+  "total_titles_processed": 1973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -32,8 +32,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 21时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 22时31分]"
         },
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -91,6 +91,20 @@
           "time_info": "[00时20分 ~ 10时32分]"
         },
         {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            14,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时21分 ~ 22时31分]"
+        },
+        {
           "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
           "url": "https://flash.jin10.com/detail/20260129151543362800",
           "source": "金十数据",
@@ -114,17 +128,15 @@
           "time_info": "[00时20分 ~ 08时57分]"
         },
         {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            23,
-            14,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 21时49分]"
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 22时31分]"
         },
         {
           "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
@@ -221,7 +233,7 @@
     },
     {
       "keyword_group": "银价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -249,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "银价狂飙 有人一月赚了36万元",
+          "url": "https://www.toutiao.com/trending/7600458158296924169/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 22时31分]"
         },
         {
           "title": "白银价格还会不会继续涨",
