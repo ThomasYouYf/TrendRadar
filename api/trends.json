@@ -1,477 +1,138 @@
 {
-  "generated_at": "2026-01-29T23:23:57.352331+08:00",
-  "total_titles_processed": 2068,
+  "generated_at": "2026-01-30T00:26:12.688881+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 20,
+      "match_count": 8,
       "titles": [
         {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 14时31分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            21,
-            23,
-            22,
-            24,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 23时23分]"
-        },
-        {
-          "title": "渣打：金价出现任何回调都是买入机会",
-          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.toutiao.com/trending/7600648257781566982/",
           "source": "今日头条",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时17分]"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
-          "title": "金价屡创历史新高意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            30,
-            12,
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 10时32分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 18时24分]"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            14,
-            13,
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时21分 ~ 23时23分]"
-        },
-        {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            24,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 10时32分]"
-        },
-        {
-          "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
-          "url": "https://flash.jin10.com/detail/20260129151543362800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 08时57分]"
-        },
-        {
-          "title": "金价暴涨第一批受害者出现",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
+          "title": "金价上涨打金店2天亏5万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E6%89%93%E9%87%91%E5%BA%972%E5%A4%A9%E4%BA%8F5%E4%B8%87%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时30分 ~ 23时23分]"
-        },
-        {
-          "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
-          "url": "https://wallstreetcn.com/livenews/3046415",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "金价跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3046584",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            27
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时32分]"
-        },
-        {
-          "title": "渣打：金价任何回调都是买入机会",
-          "url": "https://www.toutiao.com/trending/7600387008329944595/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时32分]"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）上海金午盘价为1248.22元/克，较国际金价(1238.82元/克)，高9.4元/克",
-          "url": "https://flash.jin10.com/detail/20260129154110171800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时17分]"
-        },
-        {
-          "title": "金价飙涨消费者把黄金变现",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%8A%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
           "title": "一口气看懂金价涨跌的底层逻辑",
           "url": "https://www.douyin.com/hot/2383551",
           "source": "抖音",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
-          "url": "https://wallstreetcn.com/livenews/3046433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
-          "title": "金价银价暴涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            25
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
-          "title": "金价暴涨对普通人的影响",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
+        },
+        {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         }
       ]
     },
     {
       "keyword_group": "银价",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 15时32分]"
-        },
-        {
-          "title": "印度金银价格延续涨势，再创历史新高",
-          "url": "https://flash.jin10.com/detail/20260129115249762800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "白银价格回落 现货白银跌幅扩大至2%",
-          "url": "https://flash.jin10.com/detail/20260129231712949800",
-          "source": "金十数据",
+          "title": "银价暴涨10倍带火CT废胶片",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A810%E5%80%8D%E5%B8%A6%E7%81%ABCT%E5%BA%9F%E8%83%B6%E7%89%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
           "title": "银价狂飙 有人一月赚了36万元",
           "url": "https://www.toutiao.com/trending/7600458158296924169/",
           "source": "今日头条",
           "ranks": [
-            7,
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时30分 ~ 23时23分]"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
-          "title": "白银价格还会不会继续涨",
-          "url": "https://www.toutiao.com/trending/7600696213536509467/",
-          "source": "今日头条",
+          "title": "银价狂飙 有人一月赚了36万元",
+          "url": "https://www.baidu.com/s?wd=%E9%93%B6%E4%BB%B7%E7%8B%82%E9%A3%99+%E6%9C%89%E4%BA%BA%E4%B8%80%E6%9C%88%E8%B5%9A%E4%BA%8636%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股三大股指涨跌互现",
-          "url": "https://www.toutiao.com/trending/7600659485685907497/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            8
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时24分]"
-        },
-        {
-          "title": "上证指数早盘收报4147.15点，跌0.10%。 深证成指早盘收报14344.96点，涨0.01%。 创业板指早盘收报3322.00点，跌0.05%。 沪深300早盘收报4713.50点，跌0.10%。 科创50早盘收报1531.12点，跌1.52%。 中证500早盘收报8605.49点，涨0.05%。 中证1000早盘收报8424.71点，涨0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3046070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "上证指数收报4157.98点，涨0.16%。 深证成指收报14300.08点，跌0.30%。 创业板指收报3304.51点，跌0.57%。 沪深300收报4753.87点，涨0.76%。 科创50收报1507.64点，跌3.03%。 中证500收报8517.84点，跌0.97%。 中证1000收报8332.21点，跌0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3046204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260128235421935800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3046315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "能源业ETF涨超2.4%，领跑美股行业ETF，半导体ETF涨0.75%，网络股指数ETF跌0.2%，科技行业ETF跌超1.1%，全球科技股指数ETF跌超1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3046542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
-          "url": "https://wallstreetcn.com/livenews/3046327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "西部黄金：公司关注到目前黄金市场热度较高，黄金产品的市场价格累计涨幅较大，敬请广大投资者理性投资、审慎决策，注意投资风险。",
-          "url": "https://wallstreetcn.com/livenews/3046359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
-          "url": "https://www.cls.cn/detail/2273653",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时24分]"
-        },
-        {
-          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
-          "url": "https://wallstreetcn.com/livenews/3046012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新质生产力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证券日报：18个省份跑赢“全国线”，新质生产力成关键驱动力",
-          "url": "https://wallstreetcn.com/livenews/3045938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "[00时25分 ~ 00时26分]"
         }
       ]
     },
@@ -480,53 +141,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "世界黄金协会：2025年四季度，全球黄金投资总需求为595吨，其中全球金条金币总需求为420吨，全球黄金ETF总需求为175吨；全年全球黄金投资总需求量为2,175吨，同比大增84%，其中全球金条金币总需求为1,374吨，同比增长16%，全球黄金ETF全年净增801吨。",
-          "url": "https://flash.jin10.com/detail/20260129141021681800",
+          "title": "黄金ETF-SPDR（GLD）一度跌近3%，现跌2.6%；白银ETF-iShares（SLV）跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260130000907934800",
           "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         }
       ]
     },
     {
-      "keyword_group": "白银",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "深度解析白银逼空背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%99%BD%E9%93%B6%E9%80%BC%E7%A9%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
+          "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
+          "url": "https://wallstreetcn.com/livenews/3046568",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            14,
-            22,
-            29,
-            26
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 13时35分]"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         }
       ]
     },
     {
-      "keyword_group": "开战 宣战",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "能源情报集团记者阿蒙娜•巴克尔：市场对美国可能对伊朗发动打击感到不安。我听到的消息是，特朗普并不想开战。他想要的是外交上的胜利，或者一场“自发的”内部变革，从而迫使伊朗从内部进行改革。",
-          "url": "https://flash.jin10.com/detail/20260129180208687800",
-          "source": "金十数据",
+          "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3046585",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         }
       ]
     }
