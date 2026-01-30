@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-31T02:24:30.566943+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-01-31T03:23:43.273403+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价重挫12%，白银暴跌超34%，标普跌超1%，投资者对美联储独立性的担忧情绪降温",
+          "url": "https://wallstreetcn.com/livenews/3047536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
         {
           "title": "黄金价格单日巨震超400美元，回调开始了吗？如何应对？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32496768",
@@ -29,11 +40,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%9D%90%E4%B8%8A%E2%80%9C%E8%BF%87%E5%B1%B1%E8%BD%A6%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时23分]"
         }
       ]
     },
@@ -49,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         }
       ]
     }
