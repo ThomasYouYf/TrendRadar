@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T21:46:16.614836+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2026-01-30T22:25:18.309456+08:00",
+  "total_titles_processed": 1949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
@@ -300,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "新闻分析：国际金价持续上升，原因几何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32492182",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
@@ -363,11 +374,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%9D%90%E4%B8%8A%E2%80%9C%E8%BF%87%E5%B1%B1%E8%BD%A6%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 22时25分]"
         },
         {
           "title": "银价暴涨带火CT废胶片 回收价格翻倍",
