@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T14:33:26.592904+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-01-30T15:33:04.073666+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -17,23 +17,12 @@
             25,
             22,
             26,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 14时33分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 14时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 15时33分]"
         },
         {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
@@ -42,11 +31,41 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 15时33分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 15时33分]"
+        },
+        {
+          "title": "今日金价",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            12,
+            21,
+            25,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时33分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -88,6 +107,17 @@
           "time_info": "[00时25分 ~ 09时10分]"
         },
         {
+          "title": "金十图示：2026年01月30日（周五）上海金午盘价为1160.68元/克，较国际金价(1155.76元/克)，高4.92元/克",
+          "url": "https://flash.jin10.com/detail/20260130151049706800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 15时33分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -101,19 +131,17 @@
           "time_info": "[00时25分 ~ 03时23分]"
         },
         {
-          "title": "今日金价",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "title": "黄金价格暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            6,
-            12,
-            21,
-            25,
-            26
+            7,
+            22,
+            23
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时10分 ~ 14时33分]"
+          "time_info": "[12时25分 ~ 15时33分]"
         },
         {
           "title": "一口气看懂金价涨跌的底层逻辑",
@@ -128,19 +156,6 @@
           "time_info": "[00时25分 ~ 03时23分]"
         },
         {
-          "title": "黄金价格暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 14时33分]"
-        },
-        {
           "title": "金价跌幅扩大至5%。",
           "url": "https://wallstreetcn.com/livenews/3046584",
           "source": "华尔街见闻-快讯",
@@ -151,6 +166,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 01时28分]"
+        },
+        {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 15时33分]"
         },
         {
           "title": "女子10年前买408克金条 金价已翻5倍",
@@ -165,15 +192,15 @@
           "time_info": "[09时10分 ~ 10时32分]"
         },
         {
-          "title": "黄金价格回调开始了吗",
-          "url": "https://www.toutiao.com/trending/7600951694344405055/",
-          "source": "今日头条",
+          "title": "金价28分钟内暴跌380美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 15时33分]"
         },
         {
           "title": "金价大幅跳水后反弹",
@@ -275,6 +302,35 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4108.46点，跌1.19%。 深证成指早盘收报14162.20点，跌0.96%。 创业板指早盘收报3330.91点，涨0.80%。 沪深300早盘收报4705.81点，跌1.01%。 科创50早盘收报1499.24点，跌0.56%。 中证500早盘收报8318.71点，跌2.34%。 中证1000早盘收报8193.34点，跌1.67%。",
+          "url": "https://wallstreetcn.com/livenews/3046964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时39分]"
+        },
+        {
+          "title": "上证指数收报4117.95点，跌0.96%。 深证成指收报14205.89点，跌0.66%。 创业板指收报3346.36点，涨1.27%。 沪深300收报4706.34点，跌1.00%。 科创50收报1509.40点，涨0.12%。 中证500收报8370.52点，跌1.73%。 中证1000收报8254.86点，跌0.93%。",
+          "url": "https://wallstreetcn.com/livenews/3047066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 15时33分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -305,24 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4108.46点，跌1.19%。 深证成指早盘收报14162.20点，跌0.96%。 创业板指早盘收报3330.91点，涨0.80%。 沪深300早盘收报4705.81点，跌1.01%。 科创50早盘收报1499.24点，跌0.56%。 中证500早盘收报8318.71点，跌2.34%。 中证1000早盘收报8193.34点，跌1.67%。",
-          "url": "https://wallstreetcn.com/livenews/3046964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 13时39分]"
         }
       ]
     },
