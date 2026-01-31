@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T00:44:02.338276+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2026-02-01T01:13:11.714674+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 00时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 01时13分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 00时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 01时13分]"
         },
         {
           "title": "金价波动",
@@ -35,11 +35,12 @@
           "source": "微博",
           "ranks": [
             6,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 00时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 01时13分]"
         },
         {
           "title": "金价银价为何创纪录暴跌",
@@ -47,11 +48,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 00时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 01时13分]"
         },
         {
           "title": "国际金价银价继续大幅下跌",
@@ -62,19 +64,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 00时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 01时13分]"
         },
         {
           "title": "金价下跌是否值得入手",
           "url": "https://www.douyin.com/hot/2385399",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 01时13分]"
         }
       ]
     },
@@ -91,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 00时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 01时13分]"
         }
       ]
     },
@@ -108,8 +111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 00时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 01时13分]"
         }
       ]
     },
@@ -125,8 +128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 00时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 01时13分]"
         }
       ]
     }
