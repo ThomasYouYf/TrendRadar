@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T19:03:11.514808+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-01-31T19:59:27.894006+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时27分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[10时27分 ~ 19时59分]"
         },
         {
           "title": "金价",
@@ -95,6 +95,20 @@
           "time_info": "[12时21分 ~ 16时45分]"
         },
         {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            24,
+            22,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时01分 ~ 19时59分]"
+        },
+        {
           "title": "金价下跌多品牌设1-5%退货手续费",
           "url": "https://www.toutiao.com/trending/7601325264030895667/",
           "source": "今日头条",
@@ -106,19 +120,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时27分 ~ 14时22分]"
-        },
-        {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            24,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 19时03分]"
         },
         {
           "title": "金价30小时暴跌670美元 后市怎么走",
@@ -224,8 +225,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时27分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[10时27分 ~ 19时59分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
