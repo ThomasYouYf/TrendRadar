@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T00:02:14.278710+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-02-01T00:44:02.338276+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 00时44分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -26,41 +26,55 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 00时44分]"
         },
         {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "国际金价银价继续大幅下跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32503143",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 00时44分]"
         },
         {
           "title": "金价银价为何创纪录暴跌",
           "url": "https://www.douyin.com/hot/2385262",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 00时44分]"
+        },
+        {
+          "title": "国际金价银价继续大幅下跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32503143",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 00时44分]"
+        },
+        {
+          "title": "金价下跌是否值得入手",
+          "url": "https://www.douyin.com/hot/2385399",
+          "source": "抖音",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "time_info": "[00时43分 ~ 00时44分]"
         }
       ]
     },
@@ -73,11 +87,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32505566",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 00时44分]"
         }
       ]
     },
@@ -93,8 +108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 00时44分]"
         }
       ]
     },
@@ -110,8 +125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 00时44分]"
         }
       ]
     }
