@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T14:22:18.755114+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-01-31T15:19:35.362570+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -16,8 +16,46 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时19分]"
+        },
+        {
+          "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
+          "url": "https://wallstreetcn.com/livenews/3047622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            20,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时19分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时19分]"
+        },
+        {
+          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
+          "url": "https://flash.jin10.com/detail/20260131144922707800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "金价下跌多品牌设1-5%退货手续费",
@@ -33,30 +71,18 @@
           "time_info": "[10时27分 ~ 14时22分]"
         },
         {
-          "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
-          "url": "https://wallstreetcn.com/livenews/3047622",
-          "source": "华尔街见闻-快讯",
+          "title": "金价下跌 多品牌设1-5%退货手续费",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
+          "source": "百度热搜",
           "ranks": [
-            10,
+            27,
+            17,
             16,
-            20,
-            23
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 14时22分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 15时19分]"
         },
         {
           "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
@@ -81,19 +107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时27分 ~ 12时21分]"
-        },
-        {
-          "title": "金价下跌 多品牌设1-5%退货手续费",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时22分]"
         },
         {
           "title": "专家称金价大跌是牛市调整",
@@ -142,8 +155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时19分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -164,11 +177,12 @@
             14,
             20,
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时19分]"
         }
       ]
     },
@@ -182,11 +196,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时19分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.57吨，当前持仓量为1087.1吨。",
@@ -212,11 +227,12 @@
           "url": "https://wallstreetcn.com/livenews/3047647",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时19分]"
         },
         {
           "title": "国际金银价格坐上“过山车”",
@@ -244,11 +260,12 @@
             9,
             15,
             2,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 15时19分]"
         }
       ]
     }
