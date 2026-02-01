@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T02:02:40.341393+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-02-02T03:15:46.368698+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时15分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -25,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时15分]"
         }
       ]
     },
@@ -46,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 03时15分]"
         },
         {
           "title": "金银价格暴跌的原因",
@@ -55,11 +56,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时15分]"
         }
       ]
     }
