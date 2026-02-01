@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T22:15:15.245715+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-02-01T23:03:27.270056+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
             1,
             21,
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时52分 ~ 21时11分]"
+          "appearance_count": 14,
+          "time_info": "[10时52分 ~ 23时03分]"
         },
         {
           "title": "金价银价为何创纪录暴跌",
@@ -61,6 +62,19 @@
           "time_info": "[00时01分 ~ 03时12分]"
         },
         {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时59分 ~ 23时03分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -73,19 +87,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时01分 ~ 03时12分]"
-        },
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时59分 ~ 22时15分]"
         },
         {
           "title": "国际金价银价继续大幅下跌",
@@ -269,8 +270,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时34分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[14时34分 ~ 23时03分]"
         },
         {
           "title": "金银价格创40年最大单日跌幅，发生了什么？贵金属牛市见顶了吗?",
