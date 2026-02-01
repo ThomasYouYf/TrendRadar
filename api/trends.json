@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T21:11:11.499887+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-02-01T22:15:15.245715+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,19 @@
           "time_info": "[00时01分 ~ 03时12分]"
         },
         {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时59分 ~ 22时15分]"
+        },
+        {
           "title": "国际金价银价继续大幅下跌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32503143",
           "source": "澎湃新闻",
@@ -123,16 +136,15 @@
           "time_info": "[02时49分 ~ 03时12分]"
         },
         {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
+          "title": "金价暴跌 深圳水贝挤满了人",
+          "url": "https://www.toutiao.com/trending/7601809209675484713/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            4
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 21时11分]"
+          "appearance_count": 6,
+          "time_info": "[19时03分 ~ 22时15分]"
         },
         {
           "title": "金价遭遇过山车",
@@ -158,17 +170,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时52分 ~ 14时34分]"
-        },
-        {
-          "title": "金价暴跌 深圳水贝挤满了人",
-          "url": "https://www.toutiao.com/trending/7601809209675484713/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时03分 ~ 21时11分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",
@@ -264,11 +265,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时34分 ~ 21时11分]"
+          "appearance_count": 13,
+          "time_info": "[14时34分 ~ 22时15分]"
         },
         {
           "title": "金银价格创40年最大单日跌幅，发生了什么？贵金属牛市见顶了吗?",
