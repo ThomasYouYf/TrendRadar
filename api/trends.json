@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T15:29:01.080075+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-02-01T16:03:24.936654+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 15时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 16时03分]"
         },
         {
           "title": "金价银价为何创纪录暴跌",
@@ -47,6 +47,18 @@
           "time_info": "[00时01分 ~ 03时12分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 16时03分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -61,18 +73,6 @@
           "time_info": "[00时01分 ~ 03时12分]"
         },
         {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 15时29分]"
-        },
-        {
           "title": "国际金价银价继续大幅下跌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32503143",
           "source": "澎湃新闻",
@@ -83,6 +83,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 02时01分]"
+        },
+        {
+          "title": "金价暴跌 有柜姐发帖退单一律扣500",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 16时03分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -109,27 +121,17 @@
           "time_info": "[02时49分 ~ 03时12分]"
         },
         {
-          "title": "金价暴跌 有柜姐发帖退单一律扣500",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 15时29分]"
-        },
-        {
           "title": "金价遭遇过山车",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%81%AD%E9%81%87%E8%BF%87%E5%B1%B1%E8%BD%A6%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 16时03分]"
         },
         {
           "title": "金价大跌 男子斥资20多万买入200克",
@@ -230,8 +232,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 16时03分]"
         }
       ]
     },
@@ -256,11 +258,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 16时03分]"
         }
       ]
     },
