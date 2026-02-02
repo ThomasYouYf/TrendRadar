@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T01:28:13.943995+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-02-03T02:25:26.985939+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "银价3天累计跌幅达40%",
@@ -40,11 +40,12 @@
           "url": "https://www.douyin.com/hot/2386891",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 02时25分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     },
@@ -77,8 +78,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     }
