@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T10:42:30.724173+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-02-02T12:51:02.656987+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 10时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 12时51分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 10时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时51分]"
         },
         {
           "title": "金十图示：2026年02月02日（周一）上海金早盘价为1063.22元/克，较国际金价(1055.02元/克)，高8.2元/克",
@@ -39,9 +39,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时51分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -57,16 +70,38 @@
           "time_info": "[00时02分 ~ 03时15分]"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            24
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 12时51分]"
+        },
+        {
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时14分 ~ 10时42分]"
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -91,17 +126,6 @@
           "time_info": "09时14分"
         },
         {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
           "title": "金价有没有天花板",
           "url": "https://www.toutiao.com/trending/7602036177641672238/",
           "source": "今日头条",
@@ -116,8 +140,21 @@
     },
     {
       "keyword_group": "银价",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "金银价格暴跌的原因",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E7%9A%84%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 12时51分]"
+        },
         {
           "title": "以 2.5 吨白银建造的湖南永兴银楼拍卖未果，折算每克纯银 6.88 元，为什么不因银价大涨重新估值？",
           "url": "https://www.zhihu.com/question/2001363427092821412",
@@ -131,17 +168,37 @@
           "time_info": "[01时14分 ~ 03时15分]"
         },
         {
-          "title": "金银价格暴跌的原因",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E7%9A%84%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
+          "title": "金银价格周一大震荡！四大看点研判：未来走势在何方？",
+          "url": "https://www.cls.cn/detail/2277079",
+          "source": "财联社热门",
           "ranks": [
-            22,
-            23,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "金银价继续大跌 刚买的金饰能退吗",
+          "url": "https://www.toutiao.com/trending/7601710332113223686/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "金银价继续大跌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%93%B6%E4%BB%B7%E7%BB%A7%E7%BB%AD%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 10时42分]"
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "银价跌幅扩大至10%",
@@ -164,6 +221,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月02日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260202120009813800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月02日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260202120027398800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         }
       ]
     }
