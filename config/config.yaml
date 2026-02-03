@@ -57,8 +57,8 @@ notification:
 
 # 用于让关注度更高的新闻在更前面显示，合起来是 1 就行
 weight:
-  rank_weight: 0.6 # 排名权重
-  frequency_weight: 0.3 # 频次权重
+  rank_weight: 0.3 # 排名权重
+  frequency_weight: 0.6 # 频次权重
   hotness_weight: 0.1 # 热度权重
 
 # 增加无聊的小知识
@@ -80,22 +80,12 @@ platforms:
     name: "金十数据"
   - id: "fastbull"
     name: "快讯通"
-  - id: "toutiao"
-    name: "今日头条"
-  - id: "baidu"
-    name: "百度热搜"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
   - id: "thepaper"
     name: "澎湃新闻"
-  - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
   - id: "ifeng"
     name: "凤凰网"
-  - id: "tieba"
-    name: "贴吧"
-  - id: "weibo"
-    name: "微博"
   - id: "douyin"
     name: "抖音"
   - id: "zhihu"
