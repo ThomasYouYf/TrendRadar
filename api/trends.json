@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T13:42:00.451715+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-02-03T14:35:29.432065+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时35分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -86,11 +86,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时35分]"
         },
         {
           "title": "金银价格大跌 有回收商1天亏百万",
