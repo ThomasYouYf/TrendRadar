@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T16:22:14.497319+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-02-03T16:36:40.998069+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[15时33分 ~ 16时22分]"
         },
         {
+          "title": "现货白银站上87美元/盎司，日内涨9.80%。",
+          "url": "https://flash.jin10.com/detail/20260203161257046800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 16时36分]"
+        },
+        {
           "title": "现货白银日内涨幅达9.0%，报86.17美元/盎司。纽约银涨近12%，报86.27美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3048912",
           "source": "华尔街见闻-快讯",
@@ -57,37 +68,28 @@
           "time_info": "[00时21分 ~ 02时25分]"
         },
         {
-          "title": "现货白银站上87美元/盎司，日内涨9.80%。",
-          "url": "https://flash.jin10.com/detail/20260203161257046800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
-        },
-        {
           "title": "现货黄金突破4940美元/盎司，日内涨6%。",
           "url": "https://wallstreetcn.com/livenews/3048965",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 16时36分]"
         },
         {
           "title": "现货白银站上87美元/盎司，日内涨超10%，现报87.02美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3048962",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 16时36分]"
         },
         {
           "title": "现货白银日内涨9.00%，现报86.39美元/盎司。",
@@ -118,11 +120,34 @@
           "url": "https://www.toutiao.com/trending/7602537659117866532/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 16时36分]"
+        },
+        {
+          "title": "金十提示：现货黄金大涨逾5%，有望创下自2008年11月以来的最大单日涨幅。",
+          "url": "https://flash.jin10.com/detail/20260203160724920800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 16时36分]"
+        },
+        {
+          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌近8%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌17%",
+          "url": "https://wallstreetcn.com/articles/3764803",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 16时36分]"
         },
         {
           "title": "现货黄金向上触及4870美元/盎司，日内涨4.49%。",
@@ -134,28 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
-        },
-        {
-          "title": "金十提示：现货黄金大涨逾5%，有望创下自2008年11月以来的最大单日涨幅。",
-          "url": "https://flash.jin10.com/detail/20260203160724920800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
-        },
-        {
-          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌近8%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌17%",
-          "url": "https://wallstreetcn.com/articles/3764803",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "现货白银站上86美元/盎司，较日低回升逾6美元，日内涨8.56%。",
