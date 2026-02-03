@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T14:35:29.432065+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-02-03T15:34:03.373551+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 15时34分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -71,6 +71,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 15时34分]"
+        },
+        {
           "title": "金银价格暴跌的原因",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E7%9A%84%E5%8E%9F%E5%9B%A0",
           "source": "bilibili 热搜",
@@ -80,18 +93,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 12时31分]"
-        },
-        {
-          "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 14时35分]"
         },
         {
           "title": "金银价格大跌 有回收商1天亏百万",
