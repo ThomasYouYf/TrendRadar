@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T12:24:19.915190+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-02-04T13:40:00.617530+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://flash.jin10.com/detail/20260204072033808800",
           "source": "金十数据",
           "ranks": [
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少108.89吨，当前持仓量为16437.7吨。",
+          "url": "https://flash.jin10.com/detail/20260204120432980800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
         }
       ]
     }
