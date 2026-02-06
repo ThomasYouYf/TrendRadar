@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T13:44:35.858210+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-02-06T14:37:42.263670+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄国昌率300多人向民进党当局宣战，要求赖清德还钱",
+          "url": "https://news.ifeng.com/c/8qWQvqwBd65",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         }
       ]
     }
