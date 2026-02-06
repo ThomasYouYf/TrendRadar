@@ -1,42 +1,8 @@
 {
-  "generated_at": "2026-02-06T23:28:07.837782+08:00",
-  "total_titles_processed": 1971,
+  "generated_at": "2026-02-07T00:28:29.624201+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4吨，当前持仓量为1077.95吨。",
-          "url": "https://flash.jin10.com/detail/20260206115740985800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少122.6吨，当前持仓量为16247.45吨。",
-          "url": "https://flash.jin10.com/detail/20260206115756445800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        }
-      ]
-    },
     {
       "keyword_group": "人工智能 AI",
       "match_count": 1,
@@ -49,42 +15,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时27分 ~ 23时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新质生产力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李强：深入谋划实施一批重大举措、重大项目，特别是要在发展新质生产力、做强国内大循环、促进居民增收等方面取得更大突破",
-          "url": "https://wallstreetcn.com/livenews/3051366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄国昌率300多人向民进党当局宣战，要求赖清德还钱",
-          "url": "https://news.ifeng.com/c/8qWQvqwBd65",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时37分 ~ 18时27分]"
+          "time_info": "00时28分"
         }
       ]
     }
