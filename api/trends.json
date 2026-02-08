@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-08T18:02:39.155917+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-02-08T19:12:38.910637+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
+          "url": "https://www.zhihu.com/question/2003429600861110745",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
