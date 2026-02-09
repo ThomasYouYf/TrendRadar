@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T14:10:14.713356+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-02-09T15:46:12.856035+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 15时46分]"
+        },
+        {
           "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
           "url": "https://www.zhihu.com/question/2003429600861110745",
           "source": "知乎",
@@ -48,17 +60,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时03分 ~ 03时16分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
         }
       ]
     },
