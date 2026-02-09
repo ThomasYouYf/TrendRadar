@@ -1,84 +1,22 @@
 {
-  "generated_at": "2026-02-09T23:42:13.661991+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2026-02-10T01:40:53.141167+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "黄金ETF",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄金ETF迎来布局时点了吗",
-          "url": "https://www.toutiao.com/trending/7604495097995988518/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 02时02分]"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260209115200969800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
           "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时09分 ~ 23时42分]"
-        },
-        {
-          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
-          "url": "https://www.zhihu.com/question/2003429600861110745",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月09日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260209115206148800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
+          "appearance_count": 1,
+          "time_info": "01时40分"
         }
       ]
     }
