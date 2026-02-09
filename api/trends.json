@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T10:43:16.099421+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-02-09T12:54:07.526024+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金ETF",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄金ETF迎来布局时点了吗",
@@ -19,6 +19,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时03分 ~ 02时02分]"
+        },
+        {
+          "title": "金十图示：2026年02月09日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260209115200969800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月09日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260209115206148800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         }
       ]
     },
