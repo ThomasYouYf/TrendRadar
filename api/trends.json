@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T19:36:49.488154+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-02-09T20:36:35.574190+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时09分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[14时09分 ~ 20时36分]"
         },
         {
           "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
