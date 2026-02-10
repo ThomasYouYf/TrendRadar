@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T15:51:25.589831+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-02-10T16:41:48.949905+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,37 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 13时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "岛民修宪,开战权解禁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350466&amp;topic_name=%E5%B2%9B%E6%B0%91%E4%BF%AE%E5%AE%AA%2C%E5%BC%80%E6%88%98%E6%9D%83%E8%A7%A3%E7%A6%81",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 16时41分]"
+        },
+        {
+          "title": "冬奥短道速滑今日开战",
+          "url": "https://www.douyin.com/hot/2395950",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         }
       ]
     },
@@ -62,25 +93,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 03时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "岛民修宪,开战权解禁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350466&amp;topic_name=%E5%B2%9B%E6%B0%91%E4%BF%AE%E5%AE%AA%2C%E5%BC%80%E6%88%98%E6%9D%83%E8%A7%A3%E7%A6%81",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 15时51分]"
         }
       ]
     }
