@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-02-10T16:41:48.949905+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-02-10T17:46:16.955294+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "岛民修宪,开战权解禁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350466&amp;topic_name=%E5%B2%9B%E6%B0%91%E4%BF%AE%E5%AE%AA%2C%E5%BC%80%E6%88%98%E6%9D%83%E8%A7%A3%E7%A6%81",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            12,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时52分 ~ 17时46分]"
+        },
+        {
+          "title": "日本老头闹开战:送孩子下地狱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350525&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%80%81%E5%A4%B4%E9%97%B9%E5%BC%80%E6%88%98%3A%E9%80%81%E5%AD%A9%E5%AD%90%E4%B8%8B%E5%9C%B0%E7%8B%B1",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "冬奥短道速滑今日开战",
+          "url": "https://www.douyin.com/hot/2395950",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时46分]"
+        }
+      ]
+    },
     {
       "keyword_group": "黄金ETF",
       "match_count": 2,
@@ -28,37 +72,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 13时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "岛民修宪,开战权解禁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350466&amp;topic_name=%E5%B2%9B%E6%B0%91%E4%BF%AE%E5%AE%AA%2C%E5%BC%80%E6%88%98%E6%9D%83%E8%A7%A3%E7%A6%81",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时52分 ~ 16时41分]"
-        },
-        {
-          "title": "冬奥短道速滑今日开战",
-          "url": "https://www.douyin.com/hot/2395950",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
         }
       ]
     },
