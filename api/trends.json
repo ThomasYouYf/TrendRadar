@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T17:46:16.955294+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-02-10T18:41:32.339581+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "开战 宣战",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "岛民修宪,开战权解禁",
@@ -19,8 +19,21 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 17时46分]"
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 18时41分]"
+        },
+        {
+          "title": "冬奥短道速滑今日开战",
+          "url": "https://www.douyin.com/hot/2395950",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 18时41分]"
         },
         {
           "title": "日本老头闹开战:送孩子下地狱",
@@ -29,21 +42,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
         {
-          "title": "冬奥短道速滑今日开战",
-          "url": "https://www.douyin.com/hot/2395950",
-          "source": "抖音",
+          "title": "日本老头要开战:送孩子下地狱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350525&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%80%81%E5%A4%B4%E8%A6%81%E5%BC%80%E6%88%98%3A%E9%80%81%E5%AD%A9%E5%AD%90%E4%B8%8B%E5%9C%B0%E7%8B%B1",
+          "source": "贴吧",
           "ranks": [
-            20,
-            19
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         }
       ]
     },
