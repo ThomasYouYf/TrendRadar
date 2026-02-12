@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T10:45:10.521593+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-02-12T12:52:04.683344+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,42 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 12时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月12日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260212120338120800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
+          "time_info": "[12时51分 ~ 12时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月12日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260212120340330800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
         }
       ]
     },
@@ -40,11 +74,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 12时52分]"
         }
       ]
     }
