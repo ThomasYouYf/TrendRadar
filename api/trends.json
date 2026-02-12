@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T14:08:13.780621+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-02-12T15:43:00.686912+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 14时08分]"
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 15时43分]"
         },
         {
           "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
