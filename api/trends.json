@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T14:44:49.255481+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-02-13T15:41:11.418227+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时47分 ~ 14时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "尼日尔军方表示准备与法国“开战”，法方否认干涉指责",
+          "url": "https://wallstreetcn.com/livenews/3054960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
         }
       ]
     }
