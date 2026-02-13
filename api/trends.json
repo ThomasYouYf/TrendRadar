@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-14T01:32:21.767564+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-14T02:28:08.016596+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
+          "url": "https://flash.jin10.com/detail/20260214020718488800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 02时28分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
