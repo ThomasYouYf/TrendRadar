@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-15T03:14:52.977687+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-02-15T10:46:10.424273+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黑龙江：支持生物制造企业运用人工智能、大数据等技术改造升级，提升数字化智能化水平",
+          "url": "https://flash.jin10.com/detail/20260215085544509800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
