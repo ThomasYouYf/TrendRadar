@@ -1,64 +1,7 @@
 {
-  "generated_at": "2026-02-16T23:47:57.690810+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-02-17T00:28:11.658081+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月16日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260216122734015800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 14时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月16日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260216122738003800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 14时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新质生产力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩文秀：推动科技创新和产业创新深度融合，因地制宜发展新质生产力",
-          "url": "https://wallstreetcn.com/livenews/3055675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 17时39分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
