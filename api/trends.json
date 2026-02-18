@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-02-18T12:46:50.362135+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-02-18T13:52:02.369993+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月18日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260218123605308800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月18日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260218123608312800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能 AI",
       "match_count": 1,
@@ -16,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时52分]"
         }
       ]
     }
