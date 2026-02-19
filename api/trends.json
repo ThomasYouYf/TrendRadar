@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-02-19T10:40:48.179561+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-02-19T12:46:15.372758+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月19日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260219120926569800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月19日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260219120932595800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
