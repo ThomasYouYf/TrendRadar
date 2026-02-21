@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T14:26:39.831247+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-02-21T15:23:04.224641+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             21,
             24,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时28分 ~ 14时26分]"
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 15时23分]"
         },
         {
           "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1078.75吨，较前一个交易日维持不变。",
@@ -73,8 +74,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 14时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 15时23分]"
         }
       ]
     }
