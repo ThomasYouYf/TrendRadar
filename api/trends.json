@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T21:11:15.099863+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-02-22T22:15:26.762351+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -21,19 +21,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 21时11分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 22时15分]"
         },
         {
           "title": "伊媒：若开战，约旦将成为主要目标",
           "url": "https://flash.jin10.com/detail/20260222200059406800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 21时11分]"
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 22时15分]"
         }
       ]
     }
