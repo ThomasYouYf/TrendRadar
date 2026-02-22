@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T20:01:12.675840+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-02-22T21:11:15.099863+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "开战 宣战",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "叒开战?米库对线不消停",
@@ -21,8 +21,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 20时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 21时11分]"
+        },
+        {
+          "title": "伊媒：若开战，约旦将成为主要目标",
+          "url": "https://flash.jin10.com/detail/20260222200059406800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
         }
       ]
     }
