@@ -1,42 +1,22 @@
 {
-  "generated_at": "2026-02-22T23:04:08.149270+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-02-23T00:03:25.841879+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "开战 宣战",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "叒开战?米库对线不消停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350802&amp;topic_name=%E5%8F%92%E5%BC%80%E6%88%98%3F%E7%B1%B3%E5%BA%93%E5%AF%B9%E7%BA%BF%E4%B8%8D%E6%B6%88%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            18,
-            21,
-            20,
-            25,
-            26,
-            27,
-            28,
             29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 23时04分]"
-        },
-        {
-          "title": "伊媒：若开战，约旦将成为主要目标",
-          "url": "https://flash.jin10.com/detail/20260222200059406800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时10分 ~ 23时04分]"
+          "appearance_count": 1,
+          "time_info": "00时03分"
         }
       ]
     }
