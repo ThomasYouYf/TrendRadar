@@ -1,71 +1,7 @@
 {
-  "generated_at": "2026-02-23T23:59:05.228996+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-02-24T01:32:09.508325+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "叒开战?米库对线不消停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350802&amp;topic_name=%E5%8F%92%E5%BC%80%E6%88%98%3F%E7%B1%B3%E5%BA%93%E5%AF%B9%E7%BA%BF%E4%B8%8D%E6%B6%88%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时15分]"
-        },
-        {
-          "title": "机构分析：随着美国和伊朗面临开战，油价恐飙升到90-100美元",
-          "url": "https://flash.jin10.com/detail/20260223152537446800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月23日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260223115122803800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月23日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260223115133218800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
