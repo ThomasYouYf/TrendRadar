@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T20:27:33.858225+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2026-02-27T21:49:06.866104+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             6,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时43分 ~ 20时27分]"
+          "appearance_count": 10,
+          "time_info": "[13时43分 ~ 21时49分]"
         },
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
@@ -31,11 +32,26 @@
             9,
             8,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时43分 ~ 20时27分]"
+          "appearance_count": 10,
+          "time_info": "[13时43分 ~ 21时49分]"
+        },
+        {
+          "title": "巴防长宣布与阿进入公开战争",
+          "url": "https://www.douyin.com/hot/2413030",
+          "source": "抖音",
+          "ranks": [
+            5,
+            1,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时49分]"
         },
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
@@ -51,18 +67,16 @@
           "time_info": "[13时43分 ~ 17时28分]"
         },
         {
-          "title": "巴防长宣布与阿进入公开战争",
-          "url": "https://www.douyin.com/hot/2413030",
-          "source": "抖音",
+          "title": "两岸若开战，北京上海将被美占领？台北议员：于北辰已经艺人化",
+          "url": "https://v.ifeng.com/c/8r5ZDtSgKQo",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            1,
             11,
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时27分]"
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 21时49分]"
         },
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
@@ -75,6 +89,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时33分 ~ 12时29分]"
+        },
+        {
+          "title": "巴基斯坦称已对阿富汗“开战”，双方在边境激烈交火(图)",
+          "url": "https://news.ifeng.com/c/8r5fDDfMPAA",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 21时49分]"
         },
         {
           "title": "巴方对阿富汗政府“公开宣战”",
@@ -100,29 +125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        },
-        {
-          "title": "两岸若开战，北京上海将被美占领？台北议员：于北辰已经艺人化",
-          "url": "https://v.ifeng.com/c/8r5ZDtSgKQo",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时27分]"
-        },
-        {
-          "title": "巴基斯坦称已对阿富汗“开战”，双方在边境激烈交火(图)",
-          "url": "https://news.ifeng.com/c/8r5fDDfMPAA",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时27分]"
         },
         {
           "title": "巴基斯坦对阿富汗政府公开宣战",
