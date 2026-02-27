@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-02-28T01:24:19.440526+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-02-28T02:24:37.516500+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "开战 宣战",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "巴基斯坦对阿富汗公开宣战，双方在边境激烈交火，各称造成对方大量伤亡，此次开战原因是什么？目前局势如何？",
-          "url": "https://www.zhihu.com/question/2010620160533296868",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
-        },
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
@@ -28,8 +16,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时24分]"
+        },
+        {
+          "title": "巴基斯坦对阿富汗公开宣战，双方在边境激烈交火，各称造成对方大量伤亡，此次开战原因是什么？目前局势如何？",
+          "url": "https://www.zhihu.com/question/2010620160533296868",
+          "source": "知乎",
+          "ranks": [
+            1,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时24分]"
         },
         {
           "title": "两岸若开战，北京上海将被美占领？台北议员：于北辰已经艺人化",
@@ -39,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时24分]"
         },
         {
           "title": "巴基斯坦称已对阿富汗“开战”，双方在边境激烈交火(图)",
@@ -50,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时24分]"
         },
         {
           "title": "巴防长宣布与阿进入公开战争",
@@ -61,8 +62,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时24分]"
+        },
+        {
+          "title": "巴基斯坦与阿富汗此次开战会带来哪些影响？双方矛盾有何历史渊源？",
+          "url": "https://www.zhihu.com/question/2010818098232520758",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     }
