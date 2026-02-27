@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T00:24:12.679780+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-28T01:24:19.440526+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2010620160533296868",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "两岸若开战，北京上海将被美占领？台北议员：于北辰已经艺人化",
@@ -37,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "巴基斯坦称已对阿富汗“开战”，双方在边境激烈交火(图)",
@@ -48,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "巴防长宣布与阿进入公开战争",
@@ -59,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时24分]"
         }
       ]
     }
