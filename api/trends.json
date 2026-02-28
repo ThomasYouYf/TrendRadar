@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T03:25:06.815238+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-02-28T10:23:36.968685+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 10时23分]"
         },
         {
           "title": "巴基斯坦对阿富汗公开宣战，双方在边境激烈交火，各称造成对方大量伤亡，此次开战原因是什么？目前局势如何？",
@@ -32,6 +32,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 03时25分]"
+        },
+        {
+          "title": "巴防长宣布与阿进入公开战争",
+          "url": "https://www.douyin.com/hot/2413030",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 10时23分]"
         },
         {
           "title": "两岸若开战，北京上海将被美占领？台北议员：于北辰已经艺人化",
@@ -56,27 +68,68 @@
           "time_info": "[00时23分 ~ 03时25分]"
         },
         {
-          "title": "巴防长宣布与阿进入公开战争",
-          "url": "https://www.douyin.com/hot/2413030",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时25分]"
-        },
-        {
           "title": "巴基斯坦与阿富汗此次开战会带来哪些影响？双方矛盾有何历史渊源？",
           "url": "https://www.zhihu.com/question/2010818098232520758",
           "source": "知乎",
           "ranks": [
             14,
-            11
+            11,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 10时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加3.43吨，当前持仓量为1101.33吨。",
+          "url": "https://flash.jin10.com/detail/20260228090303251800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少104.25吨，当前持仓量为15992.4吨。欢迎点击查看数据中心..",
+          "url": "https://flash.jin10.com/detail/20260228083518088800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
+          "url": "https://flash.jin10.com/detail/20260228080935525800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     }
