@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-01T03:12:00.827632+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-03-01T10:49:01.633071+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国在中东的空袭中使用了Anthropic（的人工智能技术），而袭击前数小时，特朗普刚刚颁布了针对Anthropic的禁令。",
+          "url": "https://flash.jin10.com/detail/20260301092317690800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
