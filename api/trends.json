@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-03-01T23:35:50.516443+08:00",
-  "total_titles_processed": 1775,
+  "generated_at": "2026-03-02T00:02:29.045828+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国在中东的空袭中使用了Anthropic（的人工智能技术），而袭击前数小时，特朗普刚刚颁布了针对Anthropic的禁令。",
-          "url": "https://flash.jin10.com/detail/20260301092317690800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 10时49分]"
-        }
-      ]
-    },
     {
       "keyword_group": "开战 宣战",
       "match_count": 1,
@@ -29,13 +12,11 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%BE%8E%E4%BB%A5%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            14,
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时59分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     }
