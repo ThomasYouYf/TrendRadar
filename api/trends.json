@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-03-02T16:29:19.193934+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2026-03-02T17:35:34.132488+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美媒都看不下去：先开战再编理由，谁像你这样？",
+          "url": "https://news.ifeng.com/c/8rA4bZxeNX4",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 14时41分]"
+        },
+        {
+          "title": "解析美以为何对伊朗开战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%BE%8E%E4%BB%A5%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 09时38分]"
+        },
+        {
+          "title": "生化9噩耗:卡表宣战mod党",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351226&amp;topic_name=%E7%94%9F%E5%8C%969%E5%99%A9%E8%80%97%3A%E5%8D%A1%E8%A1%A8%E5%AE%A3%E6%88%98mod%E5%85%9A",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能 AI",
       "match_count": 2,
@@ -28,36 +69,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美媒都看不下去：先开战再编理由，谁像你这样？",
-          "url": "https://news.ifeng.com/c/8rA4bZxeNX4",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 14时41分]"
-        },
-        {
-          "title": "解析美以为何对伊朗开战",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%BE%8E%E4%BB%A5%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 09时38分]"
         }
       ]
     },
