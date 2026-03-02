@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-03-02T13:44:14.644488+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-03-02T14:41:01.578783+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "爱立信与英特尔携手合作，旨在加速迈向商业化的原生AI 6G技术之路。",
+          "url": "https://flash.jin10.com/detail/20260302141521033800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
+        },
+        {
+          "title": "AI技术会如何改变现代战争形态",
+          "url": "https://www.toutiao.com/trending/7612471183472070163/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "开战 宣战",
       "match_count": 2,
       "titles": [
+        {
+          "title": "美媒都看不下去：先开战再编理由，谁像你这样？",
+          "url": "https://news.ifeng.com/c/8rA4bZxeNX4",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 14时41分]"
+        },
         {
           "title": "解析美以为何对伊朗开战",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%BE%8E%E4%BB%A5%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E6%88%98",
@@ -18,17 +58,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 09时38分]"
-        },
-        {
-          "title": "美媒都看不下去：先开战再编理由，谁像你这样？",
-          "url": "https://news.ifeng.com/c/8rA4bZxeNX4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 13时44分]"
         }
       ]
     },
@@ -63,23 +92,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 12时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI技术会如何改变现代战争形态",
-          "url": "https://www.toutiao.com/trending/7612471183472070163/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         }
       ]
     }
