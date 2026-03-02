@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T22:34:27.097774+08:00",
-  "total_titles_processed": 2022,
+  "generated_at": "2026-03-02T23:29:23.827102+08:00",
+  "total_titles_processed": 2116,
   "failed_sources": [],
   "trends": [
     {
@@ -20,18 +20,6 @@
           "time_info": "[12时29分 ~ 14时41分]"
         },
         {
-          "title": "解析美以为何对伊朗开战",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%BE%8E%E4%BB%A5%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 09时38分]"
-        },
-        {
           "title": "生化9噩耗:卡表宣战mod党",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351226&amp;topic_name=%E7%94%9F%E5%8C%969%E5%99%A9%E8%80%97%3A%E5%8D%A1%E8%A1%A8%E5%AE%A3%E6%88%98mod%E5%85%9A",
           "source": "贴吧",
@@ -42,8 +30,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 22时34分]"
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 23时29分]"
+        },
+        {
+          "title": "解析美以为何对伊朗开战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%BE%8E%E4%BB%A5%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 09时38分]"
         }
       ]
     },
@@ -51,6 +51,18 @@
       "keyword_group": "黄金ETF",
       "match_count": 2,
       "titles": [
+        {
+          "title": "油气主题基金集体涨停，黄金ETF同步飙升，下一步怎么走？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683211",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时29分]"
+        },
         {
           "title": "金十图示：2026年03月02日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260302115416890800",
@@ -61,17 +73,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 12时31分]"
-        },
-        {
-          "title": "油气主题基金集体涨停，黄金ETF同步飙升，下一步怎么走？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683211",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时34分]"
         }
       ]
     },
