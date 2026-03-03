@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T13:40:41.892743+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-03-03T14:34:44.399675+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
           "ranks": [
             15,
             18,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 13时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 14时34分]"
         },
         {
           "title": "美以伊战争最新动态｜开战以来最让人心碎的照片(图)",
