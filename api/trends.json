@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T10:39:43.627008+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-03-03T12:31:40.981322+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金ETF",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "油气主题基金集体涨停，黄金ETF同步飙升，下一步怎么走？",
@@ -15,11 +15,12 @@
             17,
             16,
             14,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 10时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 12时31分]"
         },
         {
           "title": "香港考虑允许强积金可投资黄金ETF",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260303115258472800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -55,11 +67,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 10时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 12时31分]"
         },
         {
           "title": "美以伊战争最新动态｜开战以来最让人心碎的照片(图)",
@@ -82,6 +95,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月03日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260303115300299800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
