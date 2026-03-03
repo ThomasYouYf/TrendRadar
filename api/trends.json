@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T22:35:43.631453+08:00",
-  "total_titles_processed": 2010,
+  "generated_at": "2026-03-03T23:36:16.946939+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
@@ -124,6 +124,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储威廉姆斯：不认为AI会造成结构性失业；新技术创造的岗位多于其摧毁的岗位。",
+          "url": "https://flash.jin10.com/detail/20260303230927875800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     }
