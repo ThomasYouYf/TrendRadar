@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T08:48:50.757037+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-03-03T10:39:43.627008+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             16,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 08时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时39分]"
         },
         {
           "title": "香港考虑允许强积金可投资黄金ETF",
@@ -27,7 +28,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -38,7 +39,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         }
@@ -53,11 +54,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351230&amp;topic_name=%E7%94%9F%E5%8C%969%E5%99%A9%E8%80%97%3A%E5%8D%A1%E8%A1%A8%E5%AE%A3%E6%88%98mod%E5%85%9A",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 08时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 10时39分]"
         },
         {
           "title": "美以伊战争最新动态｜开战以来最让人心碎的照片(图)",
@@ -66,7 +68,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
