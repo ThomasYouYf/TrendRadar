@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-03-04T10:32:07.128523+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-03-04T12:24:27.439358+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月04日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260304115150153800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月04日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260304115154262800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新质生产力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "两会深观察｜发展新质生产力，为什么是“必答题”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32690159",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
     {
       "keyword_group": "开战 宣战",
       "match_count": 1,
@@ -14,11 +65,12 @@
           "ranks": [
             14,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 10时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 12时24分]"
         }
       ]
     }
