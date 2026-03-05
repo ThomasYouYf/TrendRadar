@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T16:25:30.535380+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-03-05T17:31:45.050424+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -36,9 +36,40 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 10时34分]"
+        },
+        {
+          "title": "凤凰独家解读：美军核潜艇首开战果 伊朗还能抵抗多久？",
+          "url": "https://i.ifeng.com/c/8r9IfZOQO8x",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
@@ -91,26 +122,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 03时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 10时34分]"
         }
       ]
     }
