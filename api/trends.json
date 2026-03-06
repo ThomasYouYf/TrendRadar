@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-03-06T23:25:04.496751+08:00",
-  "total_titles_processed": 1847,
+  "generated_at": "2026-03-07T00:24:02.521496+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月06日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260306115433333800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月06日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260306115436140800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "这是开战以来，最绝望的一次回家路",
-          "url": "https://news.ifeng.com/c/8rGXSIl4oaT",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 18时21分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
