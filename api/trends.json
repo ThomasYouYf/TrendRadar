@@ -1,42 +1,8 @@
 {
-  "generated_at": "2026-03-07T23:02:05.570242+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-03-08T00:02:11.843239+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.573吨，当前持仓量为1073.321吨。",
-          "url": "https://flash.jin10.com/detail/20260307081436242800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少47.9吨，当前持仓量为15761.62吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20260307081642687800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
     {
       "keyword_group": "新质生产力",
       "match_count": 1,
@@ -46,31 +12,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32713576",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时32分 ~ 23时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国前伊朗问题特使：美以对伊开战不正当 不必要 不合法",
-          "url": "https://wallstreetcn.com/livenews/3065653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            29
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时16分]"
+          "time_info": "[00时01分 ~ 00时02分]"
         }
       ]
     }
