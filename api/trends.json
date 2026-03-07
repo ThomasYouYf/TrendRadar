@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T00:02:11.843239+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-08T00:41:13.026356+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32713576",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 00时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国驻伊朗大使馆：关于韩国可能协助美国对伊朗开战的消息不实。",
+          "url": "https://flash.jin10.com/detail/20260308002509240800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "time_info": "[00时40分 ~ 00时41分]"
         }
       ]
     }
