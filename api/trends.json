@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-03-07T03:26:02.589215+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-03-07T10:26:26.257207+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.573吨，当前持仓量为1073.321吨。",
+          "url": "https://flash.jin10.com/detail/20260307081436242800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少47.9吨，当前持仓量为15761.62吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260307081642687800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
