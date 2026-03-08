@@ -1,66 +1,7 @@
 {
-  "generated_at": "2026-03-08T23:02:38.191148+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-03-09T00:02:21.330981+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "林俊旸离职风波暴露了大厂与技术负责人的哪些分歧？你认为该如何化解「既要、又要、还要」的 AI 管理难题？",
-          "url": "https://www.zhihu.com/question/2013358487866996726",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新质生产力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两会深观察｜以四个“新”破题新质生产力发展",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32713576",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 12时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国驻伊朗大使馆：关于韩国可能协助美国对伊朗开战的消息不实。",
-          "url": "https://flash.jin10.com/detail/20260308002509240800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 01时59分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
