@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-03-09T22:58:19.307562+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2026-03-10T00:06:42.949557+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月09日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260309115230653800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月09日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260309115237485800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最高法：恶意滥用AI换脸、拟声技术 电诈手法更隐蔽更具迷惑性",
-          "url": "https://wallstreetcn.com/livenews/3066304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
