@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T19:23:35.627236+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2026-03-10T20:29:12.667758+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
@@ -37,9 +37,38 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "凤凰女记者：德黑兰遭开战以来最猛烈轰炸",
+          "url": "https://news.ifeng.com/c/8rNarHzgAXL",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时32分 ~ 20时29分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
         }
       ]
     },
@@ -88,26 +117,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "凤凰女记者：德黑兰遭开战以来最猛烈轰炸",
-          "url": "https://news.ifeng.com/c/8rNarHzgAXL",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时32分 ~ 19时23分]"
         }
       ]
     }
