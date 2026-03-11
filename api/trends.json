@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T13:40:41.003696+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-03-11T14:36:20.686210+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 14时36分]"
         },
         {
           "title": "代表委员热聊新质生产力：大模型读到这些高频词",
