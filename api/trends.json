@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T10:31:51.525648+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-03-11T12:27:15.740162+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时31分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时27分]"
         },
         {
           "title": "代表委员热聊新质生产力：大模型读到这些高频词",
@@ -28,6 +28,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时05分 ~ 03时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月11日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260311115101158800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月11日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260311115111532800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         }
       ]
     },
