@@ -1,45 +1,7 @@
 {
-  "generated_at": "2026-03-14T23:15:36.207072+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-03-15T00:03:32.168253+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新质生产力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海发布31项新质要素，加速培育新质生产力",
-          "url": "https://wallstreetcn.com/livenews/3070096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美以伊战争｜“这是伊朗领导层开战后最大胆的行动”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时26分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
