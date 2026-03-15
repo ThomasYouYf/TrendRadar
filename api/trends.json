@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-15T13:11:02.756910+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-03-15T14:41:14.256683+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美使馆要求美公民立即离开伊拉克，目前当地情况如何？美国会与伊拉克开战吗？",
+          "url": "https://www.zhihu.com/question/2016421775416718297",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
