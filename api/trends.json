@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T23:50:17.567378+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-03-17T00:50:04.920462+08:00",
+  "total_titles_processed": 320,
   "failed_sources": [],
   "trends": [
     {
@@ -8,32 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年03月16日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260316115315888800",
-          "source": "金十数据",
+          "title": "资金疯狂涌入黄金ETF",
+          "url": "https://www.toutiao.com/trending/7617834667760160306/",
+          "source": "今日头条",
           "ranks": [
-            22
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月16日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260316115401337800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "00时50分"
         }
       ]
     },
@@ -46,29 +29,11 @@
           "url": "https://wallstreetcn.com/articles/3767569",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 23时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美使馆要求美公民立即离开伊拉克，目前当地情况如何？美国会与伊拉克开战吗？",
-          "url": "https://www.zhihu.com/question/2016421775416718297",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 00时50分]"
         }
       ]
     }
