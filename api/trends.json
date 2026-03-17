@@ -1,74 +1,7 @@
 {
-  "generated_at": "2026-03-17T23:49:06.643889+08:00",
-  "total_titles_processed": 1995,
+  "generated_at": "2026-03-18T00:51:38.383043+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "资金疯狂涌入黄金ETF",
-          "url": "https://www.toutiao.com/trending/7617834667760160306/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            16,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 18时37分]"
-        },
-        {
-          "title": "金十图示：2026年03月17日（周二）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260317115419257800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 12时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月17日（周二）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260317115426332800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 12时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
-          "url": "https://wallstreetcn.com/articles/3767569",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 09时00分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
