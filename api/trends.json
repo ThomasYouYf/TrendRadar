@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T16:37:01.168708+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-03-17T17:42:13.339761+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             16,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 09时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 17时42分]"
         },
         {
           "title": "金十图示：2026年03月17日（周二）黄金ETF持仓报告",
