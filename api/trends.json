@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T10:36:15.482195+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-03-17T12:33:04.276460+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金ETF",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "资金疯狂涌入黄金ETF",
@@ -19,6 +19,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 09时00分]"
+        },
+        {
+          "title": "金十图示：2026年03月17日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260317115419257800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月17日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260317115426332800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
         }
       ]
     },
