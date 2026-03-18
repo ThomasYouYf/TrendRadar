@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-18T20:38:06.984495+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-03-18T22:17:25.333227+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
       "match_count": 4,
       "titles": [
+        {
+          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
+          "url": "https://www.zhihu.com/question/2017543464514974274",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时17分]"
+        },
         {
           "title": "三星电子联席CEO全永铉：芯片业务首席技术官SONG JAI-HYUK辞去董事会职务。",
           "url": "https://flash.jin10.com/detail/20260318085708351800",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
-          "url": "https://www.zhihu.com/question/2017543464514974274",
-          "source": "知乎",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 20时38分]"
         },
         {
           "title": "三星电子联合首席执行官Jun：已对股东回报政策进行了深入审查，将长期致力于提升股东价值。 将董事会成员人数从9人减至8人。 芯片业务首席技术官Song Jai-hyuk辞去董事会职务。",
