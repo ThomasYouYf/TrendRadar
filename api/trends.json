@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T22:17:25.333227+08:00",
-  "total_titles_processed": 1774,
+  "generated_at": "2026-03-18T23:56:48.640214+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             19,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时36分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 23时56分]"
         },
         {
           "title": "三星电子联席CEO全永铉：芯片业务首席技术官SONG JAI-HYUK辞去董事会职务。",
