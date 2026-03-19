@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T20:32:06.285480+08:00",
-  "total_titles_processed": 1731,
+  "generated_at": "2026-03-19T22:02:33.584154+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://news.ifeng.com/c/8rchDZPxjNO",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 20时32分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时02分]"
         },
         {
           "title": "德总理：如果事前得知美以对伊朗开战，会提出反对",
