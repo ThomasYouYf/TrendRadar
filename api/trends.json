@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-19T22:02:33.584154+08:00",
-  "total_titles_processed": 1848,
+  "generated_at": "2026-03-19T23:02:46.706883+08:00",
+  "total_titles_processed": 1955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "开战 宣战",
       "match_count": 3,
       "titles": [
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 23时02分]"
+        },
         {
           "title": "美反恐高官辞职后爆料：是以色列逼美国开战的 伊朗离拥核还早",
           "url": "https://www.cls.cn/detail/2317857",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时38分 ~ 20时32分]"
-        },
-        {
-          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
-          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 22时02分]"
         },
         {
           "title": "德总理：如果事前得知美以对伊朗开战，会提出反对",
