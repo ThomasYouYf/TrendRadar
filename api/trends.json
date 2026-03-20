@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-20T03:38:40.416450+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-03-20T10:35:19.103567+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
+          "url": "https://www.zhihu.com/question/2017606912024207686",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "开战 宣战",
       "match_count": 1,
@@ -15,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 10时35分]"
         }
       ]
     }
