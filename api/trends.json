@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T12:29:29.426340+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-03-20T13:43:11.752108+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
+          "url": "https://www.zhihu.com/question/2017606912024207686",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 13时43分]"
+        },
+        {
           "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
           "source": "澎湃新闻",
           "ranks": [
             17,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 12时29分]"
-        },
-        {
-          "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
-          "url": "https://www.zhihu.com/question/2017606912024207686",
-          "source": "知乎",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -43,7 +43,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         }
@@ -60,7 +60,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         }
