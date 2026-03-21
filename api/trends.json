@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-03-21T23:14:04.168971+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-03-22T00:02:55.394502+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少5.144吨，当前持仓量为1056.991吨。",
-          "url": "https://flash.jin10.com/detail/20260321082648683800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加61.97吨，当前持仓量为15248.91吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20260321082852583800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为肖德刚：AI技术与存储密不可分，加速迈入双向赋能新阶段",
-          "url": "https://flash.jin10.com/detail/20260321201526714800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 22时14分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
