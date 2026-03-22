@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T21:13:35.985887+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-03-22T22:17:08.900314+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
           "ranks": [
             17,
             18,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 21时13分]"
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 22时17分]"
         },
         {
           "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
