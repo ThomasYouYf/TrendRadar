@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T20:02:13.605795+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-03-22T21:13:35.985887+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -26,6 +26,19 @@
           "time_info": "[10时45分 ~ 18时03分]"
         },
         {
+          "title": "库克点赞中国创新：中国开发者和制造商正成为新质生产力典范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809968",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 21时13分]"
+        },
+        {
           "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
           "url": "https://flash.jin10.com/detail/20260322101449336800",
           "source": "金十数据",
@@ -36,18 +49,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 12时46分]"
-        },
-        {
-          "title": "库克点赞中国创新：中国开发者和制造商正成为新质生产力典范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809968",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 20时02分]"
         }
       ]
     },
