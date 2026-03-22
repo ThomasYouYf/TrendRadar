@@ -1,72 +1,22 @@
 {
-  "generated_at": "2026-03-22T23:14:09.227593+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-03-23T00:03:40.177473+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
-          "url": "https://wallstreetcn.com/livenews/3074485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            11,
-            14,
-            17,
-            19,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时45分 ~ 18时03分]"
-        },
         {
           "title": "库克点赞中国创新：中国开发者和制造商正成为新质生产力典范",
           "url": "https://m.thepaper.cn/newsDetail_forward_32809968",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            18,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时12分 ~ 23时14分]"
-        },
-        {
-          "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
-          "url": "https://flash.jin10.com/detail/20260322101449336800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美以伊开战两周 伊朗反击已致美损失约8亿美元",
-          "url": "https://flash.jin10.com/detail/20260322083833057800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "00时03分"
         }
       ]
     }
