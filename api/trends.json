@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T19:44:24.350601+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-03-30T20:44:13.790983+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时11分 ~ 19时44分]"
+          "appearance_count": 7,
+          "time_info": "[15时11分 ~ 20时44分]"
         },
         {
           "title": "澳门乒乓世界杯今日开战",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时44分]"
         }
       ]
     }
