@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-03-30T22:17:33.448203+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-03-31T00:15:30.002004+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "凤凰女记者：开战30天德黑兰咋样了？这点我不得不赞许",
-          "url": "https://news.ifeng.com/c/8runmqQ4TUB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 20时44分]"
-        },
-        {
-          "title": "澳门乒乓世界杯今日开战",
-          "url": "https://www.douyin.com/hot/2448715",
-          "source": "抖音",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 22时17分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
