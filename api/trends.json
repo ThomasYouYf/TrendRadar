@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-31T22:20:34.291864+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2026-04-01T00:13:04.862382+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国白宫：对伊开战的时间表仍为四到六周。",
-          "url": "https://flash.jin10.com/detail/20260331014320510800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 02时42分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
