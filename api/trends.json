@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T17:06:08.170736+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-04-02T18:40:11.045747+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             16,
             20,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 17时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 18时40分]"
         },
         {
           "title": "以色列遭开战以来最大规模导弹袭击",
