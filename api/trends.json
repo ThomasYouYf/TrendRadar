@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-04-04T03:31:27.037499+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-04T10:39:55.127393+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓为1050.99吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260404082444362800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "开战以来，美国最糟糕的24小时",
+          "url": "https://news.ifeng.com/c/8s2coBmk0vP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
