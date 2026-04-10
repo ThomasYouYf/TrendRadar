@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T18:16:06.398652+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-04-10T19:38:17.715708+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "特朗普对鲤鱼宣战",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时38分]"
+        },
+        {
           "title": "特朗普，对鲤鱼宣战？",
           "url": "https://news.ifeng.com/c/8sD4lNUQ8Uf",
           "source": "凤凰网",
@@ -67,17 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
-        },
-        {
-          "title": "特朗普对鲤鱼宣战",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         }
       ]
     },
