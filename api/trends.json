@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-04-10T11:18:58.123411+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-04-10T13:52:03.890398+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度外交部：部长与美国经济增长、能源和环境副国务卿Jacob Helberg就深化印美科技合作进行了交流。讨论了在韧性供应链、半导体、关键矿产、量子技术、人工智能、核能等领域的共同愿景。",
+          "url": "https://flash.jin10.com/detail/20260410132155499800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 停火 局势",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊停火谈判期间，美国启动以色列F-35重大升级计划",
+          "url": "https://wallstreetcn.com/livenews/3085571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
