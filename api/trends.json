@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T20:29:25.288567+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-04-18T21:52:22.157592+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,29 @@
           "url": "https://flash.jin10.com/detail/20260418195249047800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 停火 局势",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗表示尚未同意与美国举行下一轮谈判，伊斯兰革命卫队向霍尔木兹海峡附近一艘油轮开火，局势会再度升级吗？",
+          "url": "https://www.zhihu.com/question/2028872542627046735",
+          "source": "知乎",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时52分"
         }
       ]
     }
