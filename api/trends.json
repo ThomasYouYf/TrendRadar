@@ -1,60 +1,8 @@
 {
-  "generated_at": "2026-04-18T23:26:37.750991+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-04-19T00:24:13.770998+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加7.713吨，当前持仓量为1060.619吨。",
-          "url": "https://flash.jin10.com/detail/20260418085702097800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加42.24吨，当前持仓量为15310.95吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260418090554925800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴西总统卢拉：我们不能每天早上醒来和晚上入睡时都要面对一位总统发出的威胁世界和宣战的推文。",
-          "url": "https://flash.jin10.com/detail/20260418195249047800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时52分]"
-        }
-      ]
-    },
     {
       "keyword_group": "开战 停火 局势",
       "match_count": 1,
@@ -64,12 +12,11 @@
           "url": "https://www.zhihu.com/question/2028872542627046735",
           "source": "知乎",
           "ranks": [
-            4,
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 23时26分]"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         }
       ]
     }
