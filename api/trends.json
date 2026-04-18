@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T19:25:01.500154+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-04-18T20:29:25.288567+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴西总统卢拉：我们不能每天早上醒来和晚上入睡时都要面对一位总统发出的威胁世界和宣战的推文。",
+          "url": "https://flash.jin10.com/detail/20260418195249047800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     }
