@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-20T02:28:59.897338+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-04-20T03:33:10.903008+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿联酋官员：开战头40天遭伊朗超2800次袭击，90%以上针对民用设施",
+          "url": "https://flash.jin10.com/detail/20260420022942493800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 03时33分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
