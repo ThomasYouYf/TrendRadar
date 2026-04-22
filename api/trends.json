@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T15:58:58.821133+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-04-22T17:46:27.180781+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 15时58分]"
+        },
+        {
+          "title": "广东：推动脑机接口和具身智能等人工智能前沿技术的融合",
+          "url": "https://wallstreetcn.com/livenews/3092456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         }
       ]
     }
