@@ -1,37 +1,8 @@
 {
-  "generated_at": "2026-04-22T23:59:32.705593+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-04-23T01:13:05.343879+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
-          "url": "https://www.cls.cn/detail/2351466",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 15时58分]"
-        },
-        {
-          "title": "广东：推动脑机接口和具身智能等人工智能前沿技术的融合",
-          "url": "https://wallstreetcn.com/livenews/3092456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        }
-      ]
-    },
     {
       "keyword_group": "开战 宣战",
       "match_count": 1,
@@ -41,12 +12,11 @@
           "url": "https://www.zhihu.com/question/2030028274953187966",
           "source": "知乎",
           "ranks": [
-            17,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时26分 ~ 23时59分]"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 01时13分]"
         }
       ]
     }
