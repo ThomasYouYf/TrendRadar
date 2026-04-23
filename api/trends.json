@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T02:52:50.430599+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-23T11:23:11.823321+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "开战 宣战",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美伊停火协议到期，双方会再次开战吗？未来两国关系又会如何发展？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 02时52分]"
+        },
+        {
+          "title": "新加坡外长警告：若中美开战，霍尔木兹海峡危机只能算“彩排”",
+          "url": "https://news.ifeng.com/c/8sY9L7M4uiu",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
         }
       ]
     }
