@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T16:07:37.442044+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-04-23T18:11:59.082658+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "开战 宣战",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新加坡外长警告：若中美开战，霍尔木兹海峡危机只能算“彩排”",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 16时07分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时11分]"
         },
         {
           "title": "美伊停火协议到期，双方会再次开战吗？未来两国关系又会如何发展？",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 02时52分]"
+        },
+        {
+          "title": "韩飞行员开战机空中拍照致撞机",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BC%80%E6%88%98%E6%9C%BA%E7%A9%BA%E4%B8%AD%E6%8B%8D%E7%85%A7%E8%87%B4%E6%92%9E%E6%9C%BA%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         }
       ]
     }
