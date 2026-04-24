@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T20:49:49.239297+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-04-24T22:27:13.058739+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 20时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 22时27分]"
+        },
+        {
+          "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
+          "url": "https://www.zhihu.com/question/2031049898246628283",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时27分]"
         },
         {
           "title": "【美军制定与伊朗重新开战新方案】美国有线电视新闻网4月23日援引消息人士的话报道称，美国军方正在制定新方案，一旦美伊停火破裂，美军将针对伊朗在霍尔木兹海峡周边的军事防御能力进行重点打击。报道还称，美军还可能对伊朗军民两用设施和基础设施，包括能源设施，发动袭击，迫使伊朗重返谈判桌。（CCTV国际时讯）",
@@ -50,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
-        },
-        {
-          "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
-          "url": "https://www.zhihu.com/question/2031049898246628283",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         }
       ]
     },
