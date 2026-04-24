@@ -1,40 +1,23 @@
 {
-  "generated_at": "2026-04-24T14:02:09.809994+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-04-24T16:20:13.941366+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 2,
+      "keyword_group": "开战 宣战",
+      "match_count": 3,
       "titles": [
         {
-          "title": "如何看待 MiroMind 被指要求在中国孵化的 AI 大模型核心技术和团队转移到国外，否则竞业限制？",
-          "url": "https://www.zhihu.com/question/2030235662557951222",
-          "source": "知乎",
+          "title": "【美军制定与伊朗重新开战新方案】美国有线电视新闻网4月23日援引消息人士的话报道称，美国军方正在制定新方案，一旦美伊停火破裂，美军将针对伊朗在霍尔木兹海峡周边的军事防御能力进行重点打击。报道还称，美军还可能对伊朗军民两用设施和基础设施，包括能源设施，发动袭击，迫使伊朗重返谈判桌。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3093831",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "time_info": "[16时19分 ~ 16时20分]"
         },
-        {
-          "title": "如何看待 MiroMind 被指有组织的将在中国孵化的 AI 大模型核心技术和团队，转移到西方国家并融资？",
-          "url": "https://www.zhihu.com/question/2030235662557951222",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 2,
-      "titles": [
         {
           "title": "新加坡外长警告：若中美开战，霍尔木兹海峡危机只能算“彩排”",
           "url": "https://news.ifeng.com/c/8sY9L7M4uiu",
@@ -52,6 +35,34 @@
           "source": "华尔街见闻",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 MiroMind 被指要求在中国孵化的 AI 大模型核心技术和团队转移到国外，否则竞业限制？",
+          "url": "https://www.zhihu.com/question/2030235662557951222",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 16时20分]"
+        },
+        {
+          "title": "如何看待 MiroMind 被指有组织的将在中国孵化的 AI 大模型核心技术和团队，转移到西方国家并融资？",
+          "url": "https://www.zhihu.com/question/2030235662557951222",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
