@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T03:59:54.277577+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-04-24T11:25:25.120867+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "开战 宣战",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新加坡外长警告：若中美开战，霍尔木兹海峡危机只能算“彩排”",
@@ -17,6 +17,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "库存逼近历史新低！股市一片狂欢，油市却仍如开战初期般糟糕",
+          "url": "https://wallstreetcn.com/articles/3770689",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 MiroMind 被指有组织的将在中国孵化的 AI 大模型核心技术和团队，转移到西方国家并融资？",
+          "url": "https://www.zhihu.com/question/2030235662557951222",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     }
