@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T16:20:13.941366+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-04-24T18:14:17.859893+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 16时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 18时14分]"
         },
         {
           "title": "如何看待 MiroMind 被指有组织的将在中国孵化的 AI 大模型核心技术和团队，转移到西方国家并融资？",
