@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T01:04:45.209879+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-25T02:33:50.792685+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时33分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时33分]"
         }
       ]
     }
