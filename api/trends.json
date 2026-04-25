@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T10:53:57.158216+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-04-25T13:19:19.262660+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 10时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 13时19分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
@@ -25,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 10时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 13时19分]"
         },
         {
           "title": "昊天海胆杯百万奖金开战",
@@ -55,7 +57,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         }
@@ -72,7 +74,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         }
