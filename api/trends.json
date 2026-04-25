@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T13:19:19.262660+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-04-25T15:01:30.662905+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 15时01分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
@@ -48,8 +48,19 @@
     },
     {
       "keyword_group": "黄金ETF",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金十图示：2026年04月25日（周六）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260425132317159800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
+        },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.571吨，当前持仓量为1046.622吨。",
           "url": "https://flash.jin10.com/detail/20260425082531965800",
@@ -65,8 +76,19 @@
     },
     {
       "keyword_group": "白银ETF",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金十图示：2026年04月25日（周六）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260425132321959800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
+        },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加16.9吨，当前持仓量为15154.69吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20260425082759366800",
