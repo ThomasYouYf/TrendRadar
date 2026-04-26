@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T23:50:19.904520+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-04-27T00:28:55.770485+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -12,29 +12,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
           "source": "澎湃新闻",
           "ranks": [
-            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时33分 ~ 23时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据沙特媒体哈达斯（alhadath）：特朗普称，不派美国代表团去巴基斯坦“并不意味着要与伊朗开战。",
-          "url": "https://flash.jin10.com/detail/20260426000633509800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "00时28分"
         }
       ]
     }
