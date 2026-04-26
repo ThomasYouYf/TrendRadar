@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-04-26T19:29:16.166499+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-04-26T20:34:00.271673+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        }
+      ]
+    },
     {
       "keyword_group": "开战 宣战",
       "match_count": 1,
