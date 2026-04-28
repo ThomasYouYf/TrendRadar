@@ -1,45 +1,7 @@
 {
-  "generated_at": "2026-04-28T21:20:13.092861+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-04-29T00:04:01.041632+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：谷歌员工敦促Pichai阻止美国军方使用其AI技术",
-          "url": "https://wallstreetcn.com/livenews/3095134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "粥游全面开战,异环恐将沦陷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353776&amp;topic_name=%E7%B2%A5%E6%B8%B8%E5%85%A8%E9%9D%A2%E5%BC%80%E6%88%98%2C%E5%BC%82%E7%8E%AF%E6%81%90%E5%B0%86%E6%B2%A6%E9%99%B7",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            16,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 14时23分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
