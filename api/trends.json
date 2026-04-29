@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T04:07:51.754585+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-04-29T11:39:14.423230+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "工业和信息化部批准《人工智能 深度合成图像系统技术规范》等690项行业标准",
+          "url": "https://flash.jin10.com/detail/20260429112129147800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
         {
           "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
           "url": "https://wallstreetcn.com/livenews/3095938",
