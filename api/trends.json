@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-05-01T23:43:19.259916+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-05-02T00:41:48.691619+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "五角大楼将扩大英伟达和微软人工智能技术在机密网络中的应用。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3097879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 20时45分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
