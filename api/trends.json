@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-04T17:09:50.284137+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-05-04T19:31:32.527234+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗武装部队警告美军不要接近或进入霍尔木兹海峡，称已导弹打击美舰，美媒否认被击中，双方是否会再次开战？",
+          "url": "https://www.zhihu.com/question/2034644150029480155",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 19时31分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
