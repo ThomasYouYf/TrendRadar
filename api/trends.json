@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-05-07T23:57:10.609191+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-05-08T01:54:14.364336+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世界黄金协会：4月全球黄金ETF扭转颓势，录得66亿美元净流入",
-          "url": "https://wallstreetcn.com/livenews/3100018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
-          "url": "https://www.zhihu.com/question/2035283954274493764",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 03时14分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
