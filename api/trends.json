@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T17:59:03.822320+08:00",
-  "total_titles_processed": 1053,
+  "generated_at": "2026-05-09T19:06:49.135083+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时06分]"
         },
         {
           "title": "伊朗议会将以视频方式召开战事爆发以来首次会议",
