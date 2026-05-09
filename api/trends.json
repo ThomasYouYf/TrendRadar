@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T20:44:31.732375+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-05-09T22:11:09.455148+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -88,6 +88,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
+          "url": "https://www.zhihu.com/question/2034624017219499142",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         }
       ]
     }
