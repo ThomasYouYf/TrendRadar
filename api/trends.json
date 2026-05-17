@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-17T23:46:32.322527+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-05-18T00:41:37.683599+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，美国总统特朗普知道他反对（美国）与伊朗开战，反对美国在委内瑞拉的干预，且谴责在巴勒斯坦的“种族灭绝”。",
-          "url": "https://flash.jin10.com/detail/20260517180941712800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
