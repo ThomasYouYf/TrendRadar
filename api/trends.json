@@ -1,63 +1,22 @@
 {
-  "generated_at": "2026-05-19T22:23:46.398445+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-05-20T01:32:03.737606+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
           "url": "https://www.zhihu.com/question/2039715538398663059",
           "source": "知乎",
           "ranks": [
-            18,
-            17,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 22时23分]"
-        },
-        {
-          "title": "Gradiant宣布完成E轮融资，公司估值达20亿美元，助力加快AI、半导体以及工业水务基建领域布局。 随着Gradiant依托AI基建和先进制造业务实现业绩大幅增长，新资金将用于支持战略性并购、新一代技术研发以及上市筹备工作。",
-          "url": "https://wallstreetcn.com/livenews/3105584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "韩国总统李在明：韩国与日本就人工智能及包括太空和生物技术在内的先进技术合作进行了深入讨论。",
-          "url": "https://flash.jin10.com/detail/20260519155811848800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新质生产力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国石油集团：因地制宜发展新质生产力 打造“热电氢”“生精材”两大新兴支柱产业",
-          "url": "https://wallstreetcn.com/livenews/3105753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         }
       ]
     }
