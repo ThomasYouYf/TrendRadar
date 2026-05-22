@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T22:05:06.640536+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-05-23T01:00:28.103703+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
@@ -8,16 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "雪莉哥哥向金秀贤宣战",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%E5%93%A5%E5%93%A5%E5%90%91%E9%87%91%E7%A7%80%E8%B4%A4%E5%AE%A3%E6%88%98%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "伊军力重建速度远超预期、以力促重启行动，再次开战的可能性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33213623",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            26
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时35分 ~ 22时05分]"
+          "time_info": "[00时59分 ~ 01时00分]"
         }
       ]
     }
