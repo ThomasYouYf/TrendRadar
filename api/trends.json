@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-05-23T23:51:36.641448+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-05-24T00:52:05.504316+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊军力重建速度远超预期、以力促重启行动，再次开战的可能性有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33213623",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 20时55分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
