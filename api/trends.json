@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-05-29T19:59:55.552433+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-05-30T00:05:41.300030+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年05月29日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260529115158037800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年05月29日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260529115200081800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广州“十五五”规划纲要：重点突破国产化人工智能算力芯片适配、异构算力动态调度技术",
-          "url": "https://wallstreetcn.com/livenews/3111248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
