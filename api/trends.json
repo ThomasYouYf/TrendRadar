@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T22:18:25.124890+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-06-04T02:39:07.644747+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
@@ -14,20 +14,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "英伟达(NVDA.O)将与微软(MSFT.O)合作，开发面向代理式人工智能的统一技术栈。",
-          "url": "https://flash.jin10.com/detail/20260603030745476800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 02时39分]"
         }
       ]
     }
