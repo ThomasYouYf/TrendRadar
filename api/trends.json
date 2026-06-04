@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-06-04T05:40:13.370376+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-06-04T12:41:11.187144+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.143吨，当前持仓量为1026.857吨。",
+          "url": "https://flash.jin10.com/detail/20260604115132366800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月04日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260604115147776800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能 AI",
       "match_count": 1,
