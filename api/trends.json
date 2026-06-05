@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-06-05T03:50:50.848582+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-06-05T12:15:00.358445+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.713吨，当前持仓量为1025.144吨。",
+          "url": "https://flash.jin10.com/detail/20260605115221410800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少0.02吨，当前持仓量为15036.15吨。",
+          "url": "https://flash.jin10.com/detail/20260605115242333800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "聚灿光电在互动平台表示，公司暂无AI相关的光互联技术储备。",
+          "url": "https://flash.jin10.com/detail/20260605114956468800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
