@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-06-09T12:01:56.967383+08:00",
-  "total_titles_processed": 661,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-06-09T15:59:33.714214+08:00",
+  "total_titles_processed": 854,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
