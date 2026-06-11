@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-11T21:46:30.405849+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-06-12T01:29:36.163871+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "开战 停火 局势",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "古特雷斯：对中东局势升级深表关切 呼吁美伊重返对话谈判",
+          "url": "https://flash.jin10.com/detail/20260612010407659800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
