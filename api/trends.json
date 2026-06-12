@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-06-12T20:11:01.488163+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-06-13T00:03:08.182496+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年06月12日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260612115440266800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年06月12日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260612115502892800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 停火 局势",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "古特雷斯：对中东局势升级深表关切 呼吁美伊重返对话谈判",
-          "url": "https://flash.jin10.com/detail/20260612010407659800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
