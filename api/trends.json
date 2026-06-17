@@ -1,39 +1,22 @@
 {
-  "generated_at": "2026-06-17T21:33:57.969461+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-06-18T00:50:41.635273+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "黄金ETF",
+      "keyword_group": "人工智能 AI",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年06月17日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260617120146028800",
-          "source": "金十数据",
+          "title": "AI Agent 的核心技术是什么？",
+          "url": "https://www.zhihu.com/question/1906023807417811104",
+          "source": "知乎",
           "ranks": [
-            22
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年06月17日（周三）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260617120153607800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         }
       ]
     }
