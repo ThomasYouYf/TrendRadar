@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-21T19:49:13.344067+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-06-21T21:28:27.174835+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "开战 宣战",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "巴称若水资源安全受威胁将与印度开战",
+          "url": "https://www.toutiao.com/trending/7653008626093408307/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
         {
           "title": "以色列侨民事务部长Amichai Chikli：以色列“迟早”会与叙利亚开战，叙利亚与土耳其之间的联盟对我们构成“战略挑战”。",
           "url": "https://flash.jin10.com/detail/20260621104914004800",
