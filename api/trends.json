@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-24T16:17:07.728118+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-06-24T19:35:03.968749+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "毕马威2026全球技术报告：88%的受访企业表示已将代理式AI融入系统之中",
+          "url": "https://flash.jin10.com/detail/20260624185758780800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
