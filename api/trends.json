@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-25T21:54:23.479761+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-06-26T00:29:55.432892+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储货币紧缩预期升温，黄金ETF或面临新一轮资金流出",
-          "url": "https://wallstreetcn.com/livenews/3124123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
