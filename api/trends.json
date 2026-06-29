@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T12:24:47.138875+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-06-29T17:20:35.752722+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         }
@@ -31,9 +31,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新质生产力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国务院：重点支持引领新质生产力发展的新兴交叉学科",
+          "url": "https://flash.jin10.com/detail/20260629170502311800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     }
