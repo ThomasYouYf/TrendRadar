@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-06-30T19:36:40.455258+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-06-30T21:32:40.084001+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "够狂!Faker宣战全体玩家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355761&amp;topic_name=%E5%A4%9F%E7%8B%82%21Faker%E5%AE%A3%E6%88%98%E5%85%A8%E4%BD%93%E7%8E%A9%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 21时32分]"
+        },
+        {
+          "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
+          "url": "https://wallstreetcn.com/articles/3775765",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "黄金ETF",
       "match_count": 1,
@@ -52,24 +82,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 12时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "够狂!Faker宣战全体玩家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355761&amp;topic_name=%E5%A4%9F%E7%8B%82%21Faker%E5%AE%A3%E6%88%98%E5%85%A8%E4%BD%93%E7%8E%A9%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 19时36分]"
         }
       ]
     }
