@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T00:12:48.126907+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-01T02:26:50.190805+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355761&amp;topic_name=%E5%A4%9F%E7%8B%82%21Faker%E5%AE%A3%E6%88%98%E5%85%A8%E4%BD%93%E7%8E%A9%E5%AE%B6",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时26分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -26,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时26分]"
         }
       ]
     }
