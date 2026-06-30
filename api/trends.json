@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T21:32:40.084001+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-07-01T00:12:48.126907+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
@@ -12,13 +12,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355761&amp;topic_name=%E5%A4%9F%E7%8B%82%21Faker%E5%AE%A3%E6%88%98%E5%85%A8%E4%BD%93%E7%8E%A9%E5%AE%B6",
           "source": "贴吧",
           "ranks": [
-            3,
-            6,
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 21时32分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -27,61 +25,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年06月30日（周二）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260630115242252800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年06月30日（周二）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260630115246456800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
-          "url": "https://www.cls.cn/detail/2412070",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 12时04分]"
+          "time_info": "00时12分"
         }
       ]
     }
