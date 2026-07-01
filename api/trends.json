@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T12:21:06.140607+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-07-01T16:43:03.811909+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 12时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 16时43分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
