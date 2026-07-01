@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T04:49:03.849065+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-07-01T12:21:06.140607+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 12时21分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -29,6 +30,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 02时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月01日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260701115228931800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 12时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银ETF",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月01日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260701115236716800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 12时21分]"
         }
       ]
     }
