@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-02T12:02:08.181727+08:00",
-  "total_titles_processed": 680,
-  "failed_sources": [
-    "cls-hot"
-  ],
+  "generated_at": "2026-07-02T15:40:25.043093+08:00",
+  "total_titles_processed": 865,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
