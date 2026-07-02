@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T23:21:19.785451+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-07-03T01:23:10.307969+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
-          "url": "https://flash.jin10.com/detail/20260702020102144800",
-          "source": "金十数据",
+          "title": "微软动员6000名员工，助客户采用AI技术",
+          "url": "https://wallstreetcn.com/livenews/3128151",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 01时23分]"
         }
       ]
     }
