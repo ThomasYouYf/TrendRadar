@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-02T02:53:21.950552+08:00",
-  "total_titles_processed": 428,
-  "failed_sources": [],
+  "generated_at": "2026-07-02T12:02:08.181727+08:00",
+  "total_titles_processed": 680,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
@@ -14,7 +16,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
