@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T18:09:14.728289+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-07-03T20:33:12.600820+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 18时09分]"
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 20时33分]"
         },
         {
           "title": "微软动员6000名员工，助客户采用AI技术",
