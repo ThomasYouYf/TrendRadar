@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-06T00:02:41.046088+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-06T01:23:53.772020+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
+          "url": "https://flash.jin10.com/detail/20260706001649875800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
