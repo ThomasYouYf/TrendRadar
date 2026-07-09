@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-09T18:42:30.667636+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-07-09T21:40:01.400007+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据The Information：初创公司PrismML称已将270亿参数的AI模型压缩至可在iPhone上运行。苹果已与PrismML讨论其可能利用该技术的方式。",
+          "url": "https://flash.jin10.com/detail/20260709210417731800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        }
+      ]
+    },
     {
       "keyword_group": "开战 宣战",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356033&amp;topic_name=Bin%E5%AE%A3%E6%88%98%E5%AE%99%E6%96%AF%2C%E4%B8%96%E4%B8%80%E4%B8%8A%E6%88%91%E5%AE%9A%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 21时40分]"
         }
       ]
     },
@@ -31,7 +49,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         }
