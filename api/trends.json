@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T15:32:31.569266+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-07-14T17:32:51.792490+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 15时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 17时32分]"
         },
         {
           "title": "特朗普宣布重新开战",
