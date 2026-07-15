@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-15T21:03:08.644168+08:00",
-  "total_titles_processed": 1436,
-  "failed_sources": [],
+  "generated_at": "2026-07-15T23:02:17.418751+08:00",
+  "total_titles_processed": 1604,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
