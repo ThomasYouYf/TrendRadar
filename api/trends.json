@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-07-19T23:43:20.939782+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-07-20T00:40:29.853755+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
-          "url": "https://wallstreetcn.com/livenews/3136059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时56分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
