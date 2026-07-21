@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T21:07:32.457171+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-07-21T23:28:12.656599+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 21时07分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 23时28分]"
         },
         {
           "title": "抖音乒乓百分大战再次开战",
