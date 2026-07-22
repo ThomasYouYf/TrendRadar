@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-22T02:59:16.404367+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-22T11:14:58.366161+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "圣路易斯联储发布的一篇文章指出，美国AI采用率明显高于欧洲，但这种差距并非主要由年龄、教育水平或产业结构等客观因素造成，更关键的原因在于企业管理模式和组织文化。研究发现，管理水平更高（而非技术可得性）、主动鼓励员工使用AI、提供AI工具支持的企业，AI应用率显著更高。",
+          "url": "https://flash.jin10.com/detail/20260722103351355800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "开战 宣战",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356369&amp;topic_name=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E6%9D%AF%2C%E7%90%83%E8%BF%B7%E8%A1%97%E5%A4%B4%E5%BC%80%E6%88%98",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 11时14分]"
         }
       ]
     }
