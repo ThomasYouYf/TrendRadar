@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T23:46:41.998749+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-07-24T01:07:00.372705+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -12,30 +12,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时15分 ~ 23时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "西班牙捧杯,球迷街头开战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356369&amp;topic_name=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E6%9D%AF%2C%E7%90%83%E8%BF%B7%E8%A1%97%E5%A4%B4%E5%BC%80%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 11时22分]"
+          "time_info": "[01时06分 ~ 01时07分]"
         }
       ]
     }
