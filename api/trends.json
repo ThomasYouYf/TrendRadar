@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T18:38:32.278033+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-07-25T19:54:30.567705+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             9,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时09分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[14时09分 ~ 19时54分]"
         },
         {
           "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
