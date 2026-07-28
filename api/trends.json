@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-07-28T23:55:59.486100+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-07-29T01:39:59.802169+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Kimi AI：此外，该款模型还具有全新的模型架构，单位计算资源带来的智能水平提升了2.5倍，并非只是简单增加参数规模。与此同时，除了Kimi K3，我们还将开放更多支撑该模型运行的技术栈，包括高性能注意力计算内核、MoE通信库和支持大规模运行智能体环境的基础设施。",
-          "url": "https://flash.jin10.com/detail/20260727232035976800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "Kimi AI发布 Kimi K3的模型权重和技术报告",
-          "url": "https://flash.jin10.com/detail/20260727231719610800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新质生产力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家税务总局：税收数据显示上半年新质生产力发展势头强劲",
-          "url": "https://flash.jin10.com/detail/20260728103145166800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
