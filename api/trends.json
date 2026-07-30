@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-30T15:59:35.756313+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-07-30T18:33:21.473843+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国金融时报：亚马逊发现多起人工智能导致技术项目支出失控的案例。",
+          "url": "https://flash.jin10.com/detail/20260730180612911800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
