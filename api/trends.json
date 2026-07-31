@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-31T23:51:28.915462+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-08-01T01:17:03.919891+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新质生产力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "澳门特区政府与国家工信部签署《关于发展新质生产力推进新型工业化的合作协议》",
-          "url": "https://wallstreetcn.com/livenews/3142538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
