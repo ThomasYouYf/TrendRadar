@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T16:58:56.500774+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-08-01T18:46:11.459242+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开战 宣战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "俄副外长：欧洲正为对俄开战做准备",
+          "url": "https://www.toutiao.com/trending/7667933374874517567/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     }
