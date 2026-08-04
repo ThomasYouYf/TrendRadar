@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-04T21:28:52.312786+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-08-05T00:03:37.696915+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "开战 停火 局势",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗认为特朗普倾向谈判而非局势升级",
-          "url": "https://wallstreetcn.com/livenews/3144290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
