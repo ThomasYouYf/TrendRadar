@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T19:08:58.146092+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-08-05T21:27:23.073713+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时50分 ~ 13时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小非农不及预期！黄金百美元反扑站上4200，多头是逼空还是诱多？金十VIP正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260805204239165800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
@@ -65,9 +82,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时27分]"
         }
       ]
     }
