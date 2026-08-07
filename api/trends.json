@@ -1,95 +1,22 @@
 {
-  "generated_at": "2026-08-06T21:25:12.256445+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-08-07T08:11:02.234178+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金ETF",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "世界黄金协会：7月全球黄金ETF净流入30亿美元",
-          "url": "https://wallstreetcn.com/livenews/3146077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时25分]"
-        },
-        {
-          "title": "世界黄金协会：欧洲黄金ETF逆势增持，高实际利率也无法阻挡资金回流",
-          "url": "https://flash.jin10.com/detail/20260806205637457800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时25分]"
-        },
-        {
-          "title": "金十图示：2026年08月06日（周四）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260806121834288800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "世界黄金协会：全球黄金ETF在7月吸引了30亿美元的资金流入，扭转了连续两个月的流出态势，使总资产管理规模升至5300亿美元；持仓量增加23吨，至4068吨。",
-          "url": "https://flash.jin10.com/detail/20260806204701457800",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日增加0.571吨，当前持仓量为1014.719吨。",
+          "url": "https://flash.jin10.com/detail/20260807061806770800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "深圳佳贤通信回应：英伟达AI-RAN技术团队曾到访公司，双方已成立技术工作组",
-          "url": "https://wallstreetcn.com/livenews/3146075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时25分]"
-        },
-        {
-          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 16时45分]"
-        },
-        {
-          "title": "深圳佳贤通信：英伟达AI-RAN技术团队曾到访公司，双方已成立技术工作组",
-          "url": "https://flash.jin10.com/detail/20260806210633842800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时25分]"
+          "time_info": "[08时10分 ~ 08时11分]"
         }
       ]
     },
@@ -102,12 +29,11 @@
           "url": "https://wallstreetcn.com/articles/3778800",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时25分]"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         }
       ]
     },
@@ -116,33 +42,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年08月06日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260806121832150800",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日增加42.17吨，当前持仓量为15172.99吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260807062010110800",
           "source": "金十数据",
           "ranks": [
-            18
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "开战 宣战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三角洲职业赛夏季赛开战",
-          "url": "https://www.douyin.com/hot/2598388",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 10时55分]"
+          "time_info": "[08时10分 ~ 08时11分]"
         }
       ]
     }
