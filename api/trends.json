@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T14:04:57.167319+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-08-10T16:19:01.408660+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新质生产力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场监管总局、工业和信息化部启动2026年度计量支撑产业新质生产力发展项目征集工作",
+          "url": "https://flash.jin10.com/detail/20260810160152294800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
         }
       ]
     }
