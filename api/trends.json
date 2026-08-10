@@ -1,76 +1,7 @@
 {
-  "generated_at": "2026-08-10T23:45:38.954303+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-08-11T00:39:13.252309+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月10日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260810120207632800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月10日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260810120239448800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据日本共同社：日本计划在预防性的网络防御政策框架下运用尖端人工智能技术。",
-          "url": "https://flash.jin10.com/detail/20260810092536347800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新质生产力",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场监管总局、工业和信息化部启动2026年度计量支撑产业新质生产力发展项目征集工作",
-          "url": "https://flash.jin10.com/detail/20260810160152294800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
