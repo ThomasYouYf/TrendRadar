@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T12:42:17.276554+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-08-13T14:09:02.121066+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金ETF",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2026年08月13日（周四）黄金ETF持仓报告",
@@ -14,9 +14,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "韩国央行豪掷2.5亿美元买入黄金ETF，这只是“热身”？",
+          "url": "https://flash.jin10.com/detail/20260813134256739800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
         }
       ]
     },
@@ -31,7 +42,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
