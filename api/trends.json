@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-08-14T23:39:55.836522+08:00",
-  "total_titles_processed": 1787,
+  "generated_at": "2026-08-15T00:37:35.792001+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "黄金ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月14日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260814115930242800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月14日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260814115932278800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "LG与英伟达签署关于机器人、AI工厂和行动技术的备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3149425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时21分 ~ 12时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
