@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-17T23:12:53.999586+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-08-18T00:11:19.038888+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金ETF",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "金十图示：2026年08月17日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260817115537874800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
         {
           "title": "黄金再度挑动投资情绪，黄金ETF月内吸金超80亿",
           "url": "https://www.cls.cn/detail/2456202",
@@ -25,26 +14,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银ETF",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月17日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260817115539575800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "00时11分"
         }
       ]
     },
@@ -57,13 +29,11 @@
           "url": "https://wallstreetcn.com/articles/3779562",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         }
       ]
     },
@@ -79,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         }
       ]
     }
