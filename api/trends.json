@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T11:32:43.657549+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-08-18T13:17:24.529837+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时11分 ~ 03时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新质生产力",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "北京经开区出台专项行动方案 打造适配新质生产力国际一流营商环境",
+          "url": "https://wallstreetcn.com/livenews/3150832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
