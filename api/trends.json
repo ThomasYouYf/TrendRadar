@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-19T20:16:02.934103+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-08-20T10:46:04.361291+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "莫德纳市值单日暴增445亿美元 AI医药技术成隐秘功臣",
+          "url": "https://www.cls.cn/detail/2459016",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
